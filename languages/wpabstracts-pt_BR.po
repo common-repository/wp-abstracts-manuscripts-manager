@@ -1,0 +1,2582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"POT-Creation-Date: 2023-01-07 12:03-0500\n"
+"PO-Revision-Date: 2023-01-07 12:03-0500\n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: Kevon Adonis <support@wpabstracts.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../abstracts/abstracts.add.php:8
+msgid "Abstract submission for this event has past"
+msgstr "A submissão de resumos para este evento foi encerrada"
+
+#: ../abstracts/abstracts.add.php:12
+msgid "You have reached the maximum amount of submissions allowed per user."
+msgstr "Você atingiu a quantidade máxima de envios permitidas por usuário."
+
+#: ../abstracts/abstracts.add.php:18 ../dashboard/wpabstracts.dashboard.php:86
+#: ../dashboard/wpabstracts.dashboard.php:90
+msgid "New Abstract"
+msgstr "Novo resumo"
+
+#: ../abstracts/abstracts.add.php:19 ../abstracts/abstracts.edit.php:16
+#: ../emails/emails.add.php:4 ../emails/emails.edit.php:4
+#: ../events/events.add.php:11 ../events/events.edit.php:11
+#: ../users/users.profile.php:38
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../abstracts/abstracts.add.php:26 ../abstracts/abstracts.edit.php:23
+#: ../abstracts/abstracts.view.php:9
+msgid "Abstract Information"
+msgstr "Informações de resumos"
+
+#: ../abstracts/abstracts.add.php:30
+msgid "Enter Title"
+msgstr "Insira um título"
+
+#: ../abstracts/abstracts.add.php:42 ../abstracts/abstracts.edit.php:40
+#, php-format
+msgid "Words Used: %s"
+msgstr "Palavras usadas: %s"
+
+#: ../abstracts/abstracts.add.php:43 ../abstracts/abstracts.edit.php:41
+#, php-format
+msgid "Words Remaining: %s"
+msgstr "Palavras restantes: %s"
+
+#: ../abstracts/abstracts.add.php:51 ../abstracts/abstracts.view.php:23
+#: ../inc/wpabstracts_downloads.php:90 ../inc/wpabstracts_functions.php:1119
+#: ../wpabstracts.php:385 ../wpabstracts.php:395 ../wpabstracts.php:714
+msgid "Keywords"
+msgstr "Palavras chave"
+
+#: ../abstracts/abstracts.add.php:52 ../abstracts/abstracts.edit.php:49
+msgid "Enter comma separated keywords"
+msgstr "Digite palavras-chave separadas por vírgula"
+
+#: ../abstracts/abstracts.add.php:61 ../abstracts/abstracts.attachments.php:32
+#: ../abstracts/abstracts.edit.php:237
+#: ../dashboard/wpabstracts.dashboard.php:139 ../wpabstracts.abstracts.php:30
+#: ../wpabstracts.php:382 ../wpabstracts.php:404 ../wpabstracts.php:711
+msgid "Attachments"
+msgstr "Anexos"
+
+#: ../abstracts/abstracts.add.php:67 ../abstracts/abstracts.edit.php:245
+msgid "Use this form to upload your images, photos or tables."
+msgstr ""
+"Utilize este formulário para fazer upload de suas imagens, fotografias ou "
+"tabelas."
+
+#: ../abstracts/abstracts.add.php:68 ../abstracts/abstracts.edit.php:246
+msgid "Supported formats"
+msgstr "Formatos de arquivos suportados"
+
+#: ../abstracts/abstracts.add.php:69 ../abstracts/abstracts.edit.php:247
+msgid "Maximum attachment size"
+msgstr "Tamanho máximo do anexo"
+
+#: ../abstracts/abstracts.add.php:89 ../abstracts/abstracts.settings.php:504
+msgid "Terms and Conditions"
+msgstr "Termos e condições"
+
+#: ../abstracts/abstracts.add.php:106 ../abstracts/abstracts.edit.php:108
+#: ../abstracts/abstracts.view.php:54 ../events/events.add.php:19
+#: ../events/events.edit.php:18 ../events/events.edit.php:32
+msgid "Event Information"
+msgstr "Informações do evento"
+
+#: ../abstracts/abstracts.add.php:114 ../abstracts/abstracts.add.php:131
+#: ../abstracts/abstracts.edit.php:115 ../abstracts/abstracts.view.php:60
+#: ../inc/wpabstracts_classes.php:61 ../inc/wpabstracts_functions.php:1100
+#: ../wpabstracts.php:375 ../wpabstracts.php:393 ../wpabstracts.php:704
+msgid "Event"
+msgstr "Evento"
+
+#: ../abstracts/abstracts.add.php:116 ../abstracts/abstracts.edit.php:117
+msgid "Select an Event"
+msgstr "Selecione um evento"
+
+#: ../abstracts/abstracts.add.php:123 ../abstracts/abstracts.add.php:136
+#: ../abstracts/abstracts.edit.php:130 ../abstracts/abstracts.view.php:64
+#: ../inc/wpabstracts_classes.php:62 ../inc/wpabstracts_downloads.php:89
+#: ../inc/wpabstracts_functions.php:1103 ../wpabstracts.php:376
+#: ../wpabstracts.php:394 ../wpabstracts.php:705
+msgid "Topic"
+msgstr "Tópico"
+
+#: ../abstracts/abstracts.add.php:125 ../abstracts/abstracts.add.php:138
+#: ../abstracts/abstracts.edit.php:132
+msgid "Select a Topic"
+msgstr "Selecione um tópico"
+
+#: ../abstracts/abstracts.add.php:154 ../abstracts/abstracts.edit.php:151
+#: ../abstracts/abstracts.view.php:80
+msgid "Author Information"
+msgstr "Informações do autor"
+
+#: ../abstracts/abstracts.add.php:163 ../abstracts/abstracts.edit.php:167
+#: ../inc/wpabstracts_downloads.php:92 ../wpabstracts.php:396
+msgid "Author Name"
+msgstr "Nome do autor"
+
+#: ../abstracts/abstracts.add.php:166 ../abstracts/abstracts.edit.php:170
+#: ../inc/wpabstracts_downloads.php:93
+msgid "Author Email"
+msgstr "Email do Autor"
+
+#: ../abstracts/abstracts.add.php:169 ../abstracts/abstracts.edit.php:173
+#: ../inc/wpabstracts_downloads.php:94 ../wpabstracts.php:397
+msgid "Author Affiliation"
+msgstr "Associação do autor"
+
+#: ../abstracts/abstracts.add.php:184 ../abstracts/abstracts.edit.php:193
+#: ../abstracts/abstracts.view.php:122
+msgid "Presenter Information"
+msgstr "Informações do Apresentador"
+
+#: ../abstracts/abstracts.add.php:190 ../abstracts/abstracts.edit.php:207
+#: ../abstracts/abstracts.view.php:95 ../abstracts/abstracts.view.php:136
+#: ../inc/wpabstracts_emailer.php:68 ../inc/wpabstracts_emailer.php:90
+msgid "Name"
+msgstr "Nome"
+
+#: ../abstracts/abstracts.add.php:195 ../abstracts/abstracts.edit.php:212
+#: ../abstracts/abstracts.view.php:99 ../abstracts/abstracts.view.php:140
+#: ../inc/wpabstracts_emailer.php:69 ../inc/wpabstracts_emailer.php:91
+#: ../users/users.formbuilder.php:178 ../users/users.register.html.php:190
+msgid "Email"
+msgstr "Email"
+
+#: ../abstracts/abstracts.add.php:200 ../abstracts/abstracts.edit.php:217
+#: ../abstracts/abstracts.view.php:144 ../inc/wpabstracts_downloads.php:97
+#: ../inc/wpabstracts_functions.php:1109
+msgid "Presenter Preference"
+msgstr "Preferência do Apresentador"
+
+#: ../abstracts/abstracts.add.php:202
+msgid "Select Preference"
+msgstr "Selecionar preferência"
+
+#: ../abstracts/abstracts.classes.php:33
+#: ../dashboard/wpabstracts.dashboard.php:174
+msgid "View"
+msgstr "Ver"
+
+#: ../abstracts/abstracts.classes.php:34
+#: ../dashboard/wpabstracts.dashboard.php:169 ../emails/emails.classes.php:23
+#: ../inc/wpabstracts_classes.php:168
+msgid "Edit"
+msgstr "Editar"
+
+#: ../abstracts/abstracts.classes.php:35 ../abstracts/abstracts.classes.php:150
+#: ../abstracts/abstracts.manage.php:188 ../wpabstracts.php:782
+msgid "Change Status"
+msgstr "Alterar estado"
+
+#: ../abstracts/abstracts.classes.php:36 ../abstracts/abstracts.classes.php:149
+msgid "Assign Reviewer"
+msgstr "Designar avaliador"
+
+#: ../abstracts/abstracts.classes.php:37 ../wpabstracts.php:48
+#: ../wpabstracts.php:193
+msgid "Reviews"
+msgstr "Avaliações"
+
+#: ../abstracts/abstracts.classes.php:38
+msgid "Export PDF"
+msgstr "Exportar PDF"
+
+#: ../abstracts/abstracts.classes.php:39 ../abstracts/abstracts.classes.php:151
+#: ../dashboard/wpabstracts.dashboard.php:170 ../emails/emails.classes.php:24
+#: ../emails/emails.classes.php:79 ../emails/emails.classes.php:160
+#: ../inc/wpabstracts_classes.php:28 ../inc/wpabstracts_classes.php:83
+#: ../inc/wpabstracts_classes.php:169 ../users/users.classes.php:33
+#: ../users/users.classes.php:112
+msgid "Delete"
+msgstr "Apagar"
+
+#: ../abstracts/abstracts.classes.php:49
+msgid "Event Not Found"
+msgstr "Evento não encontrado"
+
+#: ../abstracts/abstracts.classes.php:79
+msgid "Not Assigned"
+msgstr "Não atribuído"
+
+#: ../abstracts/abstracts.classes.php:110 ../abstracts/abstracts.edit.php:93
+msgid "User not found"
+msgstr "Usuário não encontrado"
+
+#: ../abstracts/abstracts.classes.php:162
+msgid "Filter by Status"
+msgstr "Filtrar por status"
+
+#: ../abstracts/abstracts.classes.php:164
+#: ../abstracts/abstracts.classes.php:179
+msgid "All"
+msgstr "Todos"
+
+#: ../abstracts/abstracts.classes.php:177
+msgid "Filter by Preference"
+msgstr "Preferência"
+
+#: ../abstracts/abstracts.display.php:22
+msgid "by"
+msgstr "por"
+
+#: ../abstracts/abstracts.display.php:30
+msgid "Nothing to display"
+msgstr "Nada para exibir"
+
+#: ../abstracts/abstracts.edit.php:9
+msgid "You are not allowed to edit this submission at this time."
+msgstr "Você excedeu as palavras máximos permitidas para esta apresentação."
+
+#: ../abstracts/abstracts.edit.php:15
+msgid "Edit Abstract"
+msgstr "Editar resumo"
+
+#: ../abstracts/abstracts.edit.php:27
+msgid "Enter title"
+msgstr "Insira um título"
+
+#: ../abstracts/abstracts.edit.php:57 ../abstracts/abstracts.view.php:31
+msgid "Manage Attachments"
+msgstr "Gerenciar anexos"
+
+#: ../abstracts/abstracts.edit.php:62 ../abstracts/abstracts.view.php:36
+msgid "No Attachments uploaded"
+msgstr "Nenhum anexo enviado"
+
+#: ../abstracts/abstracts.edit.php:68
+msgid "Remove"
+msgstr "Remover"
+
+#: ../abstracts/abstracts.edit.php:78
+msgid "Manage Ownership"
+msgstr "Gerenciar a propriedade"
+
+#: ../abstracts/abstracts.edit.php:81
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr ""
+"Utilize esta caixa para atribuir um novo usuário / proprietário desta "
+"submissão"
+
+#: ../abstracts/abstracts.edit.php:249
+msgid "You have used all your attachment slots allowed."
+msgstr "Você usou todos os seus slots de anexo permitidos."
+
+#: ../abstracts/abstracts.manage.php:78 ../abstracts/abstracts.manage.php:88
+#: ../emails/emails.templates.php:100 ../events/events.manage.php:142
+msgid "Could not locate this resource. Please try again."
+msgstr "Não foi possível localizar este recurso. Por favor, tente novamente."
+
+#: ../abstracts/abstracts.manage.php:164
+msgid "This and more reviewing features are available in the WPAbstracts Pro."
+msgstr "Este e mais recursos de revisão estão disponíveis no Wpresumos pro."
+
+#: ../abstracts/abstracts.manage.php:192
+msgid "Select a status"
+msgstr "Selecione um status"
+
+#: ../abstracts/abstracts.manage.php:244
+msgid "The selected Abstracts were successfully deleted."
+msgstr "Os resumos selecionados foram excluídos com êxito."
+
+#: ../abstracts/abstracts.manage.php:251 ../inc/wpabstracts_downloads.php:122
+#: ../wpabstracts.php:47 ../wpabstracts.php:192
+msgid "Abstracts"
+msgstr "Resumos"
+
+#: ../abstracts/abstracts.manage.php:251 ../emails/emails.templates.php:107
+#: ../events/events.manage.php:200
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84 ../wpabstracts.abstracts.php:31
+#: ../wpabstracts.events.php:29 ../wpabstracts.users.php:28
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: ../abstracts/abstracts.settings.php:132
+msgid "Abstracts Configuration"
+msgstr "Configuração de resumos"
+
+#: ../abstracts/abstracts.settings.php:137
+msgid "Show Abstract Description"
+msgstr "Mostrar descrição do resumo"
+
+#: ../abstracts/abstracts.settings.php:138
+msgid ""
+"Use this setting to hide the decription area completely from the submission "
+"page."
+msgstr ""
+"Use essa configuração para ocultar a área de descrição completamente a "
+"partir da página de submissão."
+
+#: ../abstracts/abstracts.settings.php:141
+#: ../abstracts/abstracts.settings.php:152
+#: ../abstracts/abstracts.settings.php:163
+#: ../abstracts/abstracts.settings.php:174
+#: ../abstracts/abstracts.settings.php:185
+#: ../abstracts/abstracts.settings.php:196
+#: ../abstracts/abstracts.settings.php:207
+#: ../abstracts/abstracts.settings.php:218
+#: ../abstracts/abstracts.settings.php:292
+#: ../abstracts/abstracts.settings.php:367 ../emails/emails.add.php:78
+#: ../emails/emails.classes.php:54 ../emails/emails.edit.php:67
+#: ../events/events.settings.php:37 ../events/events.settings.php:48
+#: ../events/events.settings.php:59 ../events/events.settings.php:70
+#: ../events/events.settings.php:81 ../users/users.settings.php:105
+#: ../users/users.settings.php:116 ../users/users.settings.php:127
+#: ../users/users.settings.php:138 ../users/users.settings.php:151
+#: ../users/users.settings.php:223 ../users/users.settings.php:234
+#: ../users/users.settings.php:245 ../users/users.settings.php:256
+msgid "Yes"
+msgstr "Sim"
+
+#: ../abstracts/abstracts.settings.php:142
+#: ../abstracts/abstracts.settings.php:153
+#: ../abstracts/abstracts.settings.php:164
+#: ../abstracts/abstracts.settings.php:175
+#: ../abstracts/abstracts.settings.php:186
+#: ../abstracts/abstracts.settings.php:197
+#: ../abstracts/abstracts.settings.php:208
+#: ../abstracts/abstracts.settings.php:219
+#: ../abstracts/abstracts.settings.php:293
+#: ../abstracts/abstracts.settings.php:368 ../emails/emails.add.php:79
+#: ../emails/emails.edit.php:68 ../events/events.settings.php:38
+#: ../events/events.settings.php:49 ../events/events.settings.php:60
+#: ../events/events.settings.php:71 ../events/events.settings.php:82
+#: ../users/users.settings.php:106 ../users/users.settings.php:117
+#: ../users/users.settings.php:128 ../users/users.settings.php:139
+#: ../users/users.settings.php:152 ../users/users.settings.php:224
+#: ../users/users.settings.php:235 ../users/users.settings.php:246
+#: ../users/users.settings.php:257
+msgid "No"
+msgstr "Não"
+
+#: ../abstracts/abstracts.settings.php:147
+msgid "Allow Editor Media"
+msgstr "Permitir que o Editor Media"
+
+#: ../abstracts/abstracts.settings.php:148
+msgid ""
+"Use this setting to hide or show the Add Media button on the submission text "
+"editor."
+msgstr ""
+"Use essa configuração para ocultar ou mostrar o botão Adicionar mídia no "
+"editor de texto de envio."
+
+#: ../abstracts/abstracts.settings.php:158
+msgid "Show Author Fields"
+msgstr "Mostrar campos de autor"
+
+#: ../abstracts/abstracts.settings.php:159
+msgid ""
+"Use this setting to hide the author area completely from the submission page."
+msgstr ""
+"Use essa configuração para ocultar completamente a área do autor da página "
+"de envio."
+
+#: ../abstracts/abstracts.settings.php:169
+msgid "Show Attachment Uploads"
+msgstr "Mostrar upload de anexos"
+
+#: ../abstracts/abstracts.settings.php:170
+msgid ""
+"Use this setting to hide the attachment area completely from the submission "
+"page."
+msgstr ""
+"Use essa configuração para ocultar a área de anexos completamente a partir "
+"da página de submissão."
+
+#: ../abstracts/abstracts.settings.php:180
+msgid "Make Attachment Required"
+msgstr "Faça o anexo necessário"
+
+#: ../abstracts/abstracts.settings.php:181
+msgid "Use this setting to make attachments required or optional."
+msgstr "Use esta configuração para tornar os anexos necessários ou opcionais."
+
+#: ../abstracts/abstracts.settings.php:191
+msgid "Show Presenter Fields"
+msgstr "Mostrar os campos do apresentador"
+
+#: ../abstracts/abstracts.settings.php:192
+msgid ""
+"Use this setting to hide the presenter area completely from the submission "
+"and edit pages."
+msgstr ""
+"Use esta configuração para ocultar a área de apresentador completamente do "
+"envio e editar páginas."
+
+#: ../abstracts/abstracts.settings.php:202
+msgid "Show Abstract Keywords"
+msgstr "Mostrar palavras-chave do resumo"
+
+#: ../abstracts/abstracts.settings.php:203
+msgid ""
+"Enable this to display the keywords input on the submission page. Enabling "
+"this makes keywords required."
+msgstr ""
+"Ative esta opção para exibir as palavras-chave inseridas na página de envio. "
+"Ativar isso torna as palavras-chave obrigatórias."
+
+#: ../abstracts/abstracts.settings.php:213
+msgid "Show Terms & Conditions"
+msgstr "Mostrar Termos e Condições"
+
+#: ../abstracts/abstracts.settings.php:214
+msgid ""
+"Enable this to display your terms and conditions on the submission page. "
+"Enabling this makes the checkbox required."
+msgstr ""
+"Ative esta opção para exibir seus termos e condições na página de envio. A "
+"ativação dessa opção torna a caixa de seleção necessária."
+
+#: ../abstracts/abstracts.settings.php:224
+msgid "Maximum User Submissions"
+msgstr "Submissões máximas de usuários"
+
+#: ../abstracts/abstracts.settings.php:225
+msgid "Set the maximum submissions allowed per user."
+msgstr "Defina o máximo de submissões permitidos por usuário."
+
+#: ../abstracts/abstracts.settings.php:232
+msgid "Maximum Word Count"
+msgstr "Contagem máxima de palavras"
+
+#: ../abstracts/abstracts.settings.php:233
+msgid "Maximum character count allowed in a submission."
+msgstr "Contagem máxima de caracteres permitida em um envio."
+
+#: ../abstracts/abstracts.settings.php:240
+msgid "Maximum Attachments"
+msgstr "Máximo de anexos"
+
+#: ../abstracts/abstracts.settings.php:241
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "Defina o upload máximo de anexos permitido por envio."
+
+#: ../abstracts/abstracts.settings.php:248
+msgid "Maximum Attachment Size"
+msgstr "Tamanho máximo do anexo"
+
+#: ../abstracts/abstracts.settings.php:249
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "Tamanho máximo permitido para anexos (em bytes)."
+
+#: ../abstracts/abstracts.settings.php:256
+msgid "Permitted Attachments"
+msgstr "Anexos Permitidos"
+
+#: ../abstracts/abstracts.settings.php:257
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr ""
+"Extensões de arquivo permitidas para upload (extensões separadas com "
+"vírgula)."
+
+#: ../abstracts/abstracts.settings.php:264
+msgid "Set Presenter Preferences"
+msgstr "Definir preferências do apresentador"
+
+#: ../abstracts/abstracts.settings.php:265
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+"Defina os tipos de apresentação permitidos (separados por vírgulas), Ex. "
+"Cartaz, Painel, Mesa Redonda"
+
+#: ../abstracts/abstracts.settings.php:278
+msgid "Admin Notification Recipients"
+msgstr "Destinatários de notificação de administrador"
+
+#: ../abstracts/abstracts.settings.php:279
+msgid "Enable or disable admin notications for admin users."
+msgstr ""
+"Ativar ou desativar as notificações do administrador para usuários "
+"administradores."
+
+#: ../abstracts/abstracts.settings.php:309
+msgid "Abstract Status"
+msgstr "Status abstrato"
+
+#: ../abstracts/abstracts.settings.php:315
+msgid "Abstracts Status Description"
+msgstr "Descrição do status do resumos"
+
+#: ../abstracts/abstracts.settings.php:316
+msgid "Describe the four statuses Abstracts may be in."
+msgstr "Descreva os quatro status de em que resumos podem ser."
+
+#: ../abstracts/abstracts.settings.php:334
+msgid "Statuses that allow edits"
+msgstr "Status que permitem edições"
+
+#: ../abstracts/abstracts.settings.php:335
+msgid ""
+"Select the statuses for when authors are allowed to edit their submission."
+msgstr ""
+"Selecione os status para quando os autores tiverem permissão para editar sua "
+"submissão."
+
+#: ../abstracts/abstracts.settings.php:349
+msgid "Default Submission Status"
+msgstr "Status de envio padrão"
+
+#: ../abstracts/abstracts.settings.php:350
+msgid "Select the default status of newly submitted abstracts."
+msgstr "Selecione o status padrão dos resumos recém-enviados."
+
+#: ../abstracts/abstracts.settings.php:362
+msgid "Sync Review Status to Abstracts"
+msgstr "Status da revisão de sincronização para resumos"
+
+#: ../abstracts/abstracts.settings.php:363
+msgid ""
+"Enable this to allow reviewer status selection to update the abstract "
+"status. This works best when one reviewer is assigned to the abstract. If "
+"more than one reviews are submitted the last one wins."
+msgstr ""
+"Ativar isto para permitir que a seleção status feita pelo revisor atualize o "
+"status do resumo. Isso funciona melhor quando um revisor é atribuído para o "
+"resumo. Se mais de avaliar o último vence."
+
+#: ../abstracts/abstracts.settings.php:381 ../users/users.settings.php:267
+msgid "Admin Columns"
+msgstr "Administração de Colunas"
+
+#: ../abstracts/abstracts.settings.php:382
+msgid "Select columns to display on manage abstracts tab."
+msgstr "Selecione colunas para exibir na guia Gerenciar resumos."
+
+#: ../abstracts/abstracts.settings.php:411
+msgid "Accepted Shortcode"
+msgstr "Shortcode aceito"
+
+#: ../abstracts/abstracts.settings.php:412
+msgid ""
+"Select the status and info to display on the details page when using the "
+"[wpabstracts_accepted] shortcode."
+msgstr ""
+"Selecione o status e as informações para exibir na página de detalhes ao "
+"usar o código curto [wpabstracts_accepted]."
+
+#: ../abstracts/abstracts.settings.php:437
+msgid "Shortcode Abstract Status"
+msgstr "Status abstrato de curto código"
+
+#: ../abstracts/abstracts.settings.php:438
+msgid "Select the status of the items to display when using the shortcode."
+msgstr "Selecione o status dos itens a serem exibidos ao usar o código curto."
+
+#: ../abstracts/abstracts.settings.php:455
+msgid "PDF Export Options"
+msgstr "Opções de exportação de PDF"
+
+#: ../abstracts/abstracts.settings.php:456
+msgid "Select the info include when exporting abstracts to PDF."
+msgstr "Selecione as informações que incluem ao exportar resumos para PDF."
+
+#: ../abstracts/abstracts.settings.php:487
+msgid "Author Instructions"
+msgstr "Instruções do autor"
+
+#: ../abstracts/abstracts.settings.php:488
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr ""
+"Insira instruções específicas a serem seguidas pelos autores para submissão"
+
+#: ../abstracts/abstracts.settings.php:505
+msgid "Enter your terms and contitions for authors to agree."
+msgstr "Digite seus termos e condições para que os autores concordem."
+
+#: ../abstracts/abstracts.view.php:3
+msgid "View Abstract"
+msgstr "Ver Resumo"
+
+#: ../abstracts/abstracts.view.php:13
+#: ../dashboard/wpabstracts.dashboard.php:132
+#: ../inc/wpabstracts_downloads.php:86 ../wpabstracts.php:391
+msgid "Title"
+msgstr "Título"
+
+#: ../abstracts/abstracts.view.php:18 ../inc/wpabstracts_downloads.php:87
+#: ../wpabstracts.php:392
+msgid "Description"
+msgstr "Descrição"
+
+#: ../abstracts/abstracts.view.php:103 ../inc/wpabstracts_emailer.php:70
+msgid "Affiliation"
+msgstr "Associação"
+
+#: ../dashboard/wpabstracts.dashboard.php:20
+msgid ""
+"You're logged in as an administrator, please use WordPress admin area to "
+"manage abstracts or use another browser to view your dashboard as author or "
+"reviewer."
+msgstr ""
+"Você está logado como administrador, por favor use a área de administração "
+"do WordPress para gerenciar os resumos ou use outro navegador para exibir "
+"seu painel como autor ou revisor."
+
+#: ../dashboard/wpabstracts.dashboard.php:26
+msgid "You do not have permissions to manage this resource."
+msgstr "Você não tem permissões para gerenciar este recurso."
+
+#: ../dashboard/wpabstracts.dashboard.php:62
+msgid ""
+"Your account is not setup to view this dashboard. Please contact your site "
+"admin."
+msgstr ""
+"Sua conta não está configurada para visualizar este painel. Por favor, entre "
+"em contato com o administrador do seu site."
+
+#: ../dashboard/wpabstracts.dashboard.php:69
+msgid "Welcome back"
+msgstr "Bem vindo novamente"
+
+#: ../dashboard/wpabstracts.dashboard.php:79 ../users/users.login.php:11
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+#: ../dashboard/wpabstracts.dashboard.php:99
+msgid "My Profile"
+msgstr "Meu Perfil"
+
+#: ../dashboard/wpabstracts.dashboard.php:104 ../users/users.login.php:12
+msgid "Logout"
+msgstr "Logout"
+
+#: ../dashboard/wpabstracts.dashboard.php:123
+msgid "My Abstracts"
+msgstr "Meus Resumos"
+
+#: ../dashboard/wpabstracts.dashboard.php:131 ../wpabstracts.php:390
+msgid "ID"
+msgstr "ID"
+
+#: ../dashboard/wpabstracts.dashboard.php:134
+msgid "Review"
+msgstr "Avaliação"
+
+#: ../dashboard/wpabstracts.dashboard.php:136 ../emails/emails.add.php:104
+#: ../emails/emails.classes.php:44 ../emails/emails.edit.php:93
+#: ../events/events.add.php:37 ../events/events.edit.php:36
+#: ../inc/wpabstracts_classes.php:225 ../inc/wpabstracts_downloads.php:91
+#: ../inc/wpabstracts_downloads.php:139 ../inc/wpabstracts_functions.php:1113
+#: ../wpabstracts.php:379 ../wpabstracts.php:400 ../wpabstracts.php:708
+msgid "Status"
+msgstr "Status"
+
+#: ../dashboard/wpabstracts.dashboard.php:137 ../inc/wpabstracts_emailer.php:92
+#: ../wpabstracts.php:378 ../wpabstracts.php:707
+msgid "Preference"
+msgstr "Preferência"
+
+#: ../dashboard/wpabstracts.dashboard.php:138
+msgid "Submit Date"
+msgstr "Data de submissão"
+
+#: ../dashboard/wpabstracts.dashboard.php:140
+msgid "Action"
+msgstr "Ação"
+
+#: ../dashboard/wpabstracts.dashboard.php:147
+msgid "You have NOT submitted any abstracts."
+msgstr "Você não cadastrou nenhum resumo."
+
+#: ../dashboard/wpabstracts.dashboard.php:160
+msgid "No reviews as yet."
+msgstr "Sem avaliações."
+
+#: ../emails/emails.add.php:3
+msgid "New Template"
+msgstr "Novo Modelo"
+
+#: ../emails/emails.add.php:11 ../emails/emails.edit.php:11
+msgid "Template Information"
+msgstr "Informação Modelo"
+
+#: ../emails/emails.add.php:15 ../emails/emails.edit.php:15
+msgid "Template Name"
+msgstr "Nome do modelo"
+
+#: ../emails/emails.add.php:21 ../emails/emails.classes.php:63
+#: ../emails/emails.edit.php:21 ../users/users.settings.php:327
+msgid "From Name"
+msgstr "Nome de origem"
+
+#: ../emails/emails.add.php:27 ../emails/emails.classes.php:64
+#: ../emails/emails.edit.php:27 ../users/users.settings.php:335
+msgid "From Email"
+msgstr "Email de origem"
+
+#: ../emails/emails.add.php:33 ../emails/emails.edit.php:33
+#: ../users/users.settings.php:343
+msgid "Email Subject"
+msgstr "Assunto do Email"
+
+#: ../emails/emails.add.php:39 ../emails/emails.edit.php:39
+msgid "Email Body"
+msgstr "Corpo do Email"
+
+#: ../emails/emails.add.php:60 ../emails/emails.edit.php:49
+msgid "Include Submission as Attachment"
+msgstr "Incluir submissão como anexo"
+
+#: ../emails/emails.add.php:69 ../emails/emails.edit.php:58
+msgid "Template Settings"
+msgstr "Configurações de Modelo"
+
+#: ../emails/emails.add.php:73 ../emails/emails.classes.php:67
+#: ../emails/emails.edit.php:62 ../events/events.add.php:39
+#: ../events/events.edit.php:38
+msgid "Active"
+msgstr "Ativo"
+
+#: ../emails/emails.add.php:74 ../emails/emails.edit.php:63
+msgid "Use this setting to enable or disable this email template."
+msgstr ""
+"Use essa configuração para habilitar ou desabilitar esse modelo de email."
+
+#: ../emails/emails.add.php:83 ../emails/emails.classes.php:66
+#: ../emails/emails.edit.php:72
+msgid "Receiver"
+msgstr "Destinatário"
+
+#: ../emails/emails.add.php:84 ../emails/emails.edit.php:73
+msgid "Select the receiver for this email notification (Author or Admin)."
+msgstr ""
+"Selecione o destinatário para esta notificação por e-mail (Autor ou "
+"Administrador)."
+
+#: ../emails/emails.add.php:88 ../emails/emails.classes.php:49
+#: ../emails/emails.edit.php:77 ../inc/wpabstracts_classes.php:63
+#: ../wpabstracts.php:377 ../wpabstracts.php:706
+msgid "Author"
+msgstr "Autor"
+
+#: ../emails/emails.add.php:89 ../emails/emails.classes.php:51
+#: ../emails/emails.edit.php:78
+msgid "Admin"
+msgstr "Admin"
+
+#: ../emails/emails.add.php:93 ../emails/emails.classes.php:65
+#: ../emails/emails.edit.php:82
+msgid "Trigger"
+msgstr "Gatilho"
+
+#: ../emails/emails.add.php:94
+msgid "Selection the abstract action that triggers this email notification."
+msgstr "Selecione a ação abstrata que aciona essa notificação por e-mail."
+
+#: ../emails/emails.add.php:98 ../emails/emails.classes.php:42
+#: ../emails/emails.edit.php:87
+msgid "Submission"
+msgstr "Envio"
+
+#: ../emails/emails.add.php:99 ../emails/emails.classes.php:43
+#: ../emails/emails.edit.php:88
+msgid "Revision"
+msgstr "Revisão"
+
+#: ../emails/emails.add.php:100 ../emails/emails.edit.php:89
+msgid "Status Change"
+msgstr "Status de Alteração"
+
+#: ../emails/emails.add.php:105 ../emails/emails.edit.php:94
+msgid "Select the abstract status that triggers this email notification."
+msgstr "Selecione o status abstrato que aciona essa notificação por e-mail."
+
+#: ../emails/emails.add.php:120 ../emails/emails.edit.php:109
+#: ../users/users.settings.php:360
+msgid "Available Shortcodes"
+msgstr "Shortcodes disponíveis"
+
+#: ../emails/emails.classes.php:50
+msgid "Reviewer"
+msgstr "Avaliador"
+
+#: ../emails/emails.classes.php:61
+msgid "Email Template"
+msgstr "Modelo de Email"
+
+#: ../emails/emails.classes.php:62 ../emails/emails.classes.php:142
+msgid "Subject"
+msgstr "Assunto"
+
+#: ../emails/emails.classes.php:141
+msgid "Recipient"
+msgstr "Destinatário"
+
+#: ../emails/emails.classes.php:143
+msgid "Message"
+msgstr "Mensagem"
+
+#: ../emails/emails.classes.php:144
+msgid "Sent"
+msgstr "Enviado"
+
+#: ../emails/emails.classes.php:150
+msgid "View Email"
+msgstr "Ver E-mail"
+
+#: ../emails/emails.classes.php:170
+msgid "Successfully deleted selected logs."
+msgstr "Excluídos com êxito os logs selecionados."
+
+#: ../emails/emails.edit.php:3
+msgid "Edit Template"
+msgstr "Editar modelo"
+
+#: ../emails/emails.edit.php:83
+msgid "Select the abstract action that triggers this email notification."
+msgstr "Selecione a ação abstrata que aciona essa notificação por e-mail."
+
+#: ../emails/emails.templates.php:107
+msgid "Email Templates"
+msgstr "Modelos de email"
+
+#: ../events/events.add.php:10
+msgid "New Event"
+msgstr "Novo Evento"
+
+#: ../events/events.add.php:22
+msgid "Event Title"
+msgstr "Título do Evento"
+
+#: ../events/events.add.php:33
+msgid "Event Details"
+msgstr "Detalhes do Evento"
+
+#: ../events/events.add.php:42 ../events/events.edit.php:42
+#: ../inc/wpabstracts_classes.php:226
+msgid "Host"
+msgstr "Anfitrião"
+
+#: ../events/events.add.php:45 ../events/events.edit.php:45
+msgid "Location"
+msgstr "Lugar"
+
+#: ../events/events.add.php:48 ../events/events.edit.php:48
+#: ../inc/wpabstracts_classes.php:228
+msgid "Start Date"
+msgstr "Data de Início"
+
+#: ../events/events.add.php:51 ../events/events.edit.php:51
+#: ../inc/wpabstracts_classes.php:229
+msgid "End Date"
+msgstr "Data de Término"
+
+#: ../events/events.add.php:54 ../events/events.edit.php:54
+#: ../inc/wpabstracts_classes.php:230
+msgid "Deadline"
+msgstr "Data Limite"
+
+#: ../events/events.add.php:61 ../events/events.edit.php:61
+#: ../inc/wpabstracts_classes.php:227
+msgid "Topics"
+msgstr "Tópicos"
+
+#: ../events/events.add.php:68 ../events/events.edit.php:71
+msgid "add topic"
+msgstr "adicionar tópico"
+
+#: ../events/events.add.php:69 ../events/events.edit.php:72
+msgid "delete topic"
+msgstr "apagar tópico"
+
+#: ../events/events.edit.php:10
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: ../events/events.edit.php:21
+msgid "Event title"
+msgstr "Título do Evento"
+
+#: ../events/events.edit.php:39
+msgid "Archived"
+msgstr "Arquivado"
+
+#: ../events/events.manage.php:193
+msgid "Error!"
+msgstr "Erro!"
+
+#: ../events/events.manage.php:200 ../wpabstracts.php:46 ../wpabstracts.php:191
+msgid "Events"
+msgstr "Eventos"
+
+#: ../events/events.settings.php:14
+msgid "Awesome! Your settings were updated."
+msgstr "Incrível! Suas configurações foram atualizadas."
+
+#: ../events/events.settings.php:26
+msgid "Frontend Dashboard Configuration"
+msgstr "Configuração da Dashboard Frontend"
+
+#: ../events/events.settings.php:32
+msgid "Enable WP Abstracts Registration"
+msgstr "Ativar registro no WP Abstracts"
+
+#: ../events/events.settings.php:33
+msgid ""
+"Use WP Abstracts User registration module instead of WordPress's default "
+"registration."
+msgstr ""
+"Use o módulo de registro de usuário do WP Abstracts em vez do registro "
+"padrão do WordPress."
+
+#: ../events/events.settings.php:43
+msgid "Allow WordPress Admin Access"
+msgstr "Permitir o acesso de Admin do WordPress"
+
+#: ../events/events.settings.php:44
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+"Desativar acesso de usuários ao painel de administração do Wordpress. Ative "
+"esta opção se pretender permitir apenas o acesso frontend."
+
+#: ../events/events.settings.php:54
+msgid "Show WordPress Admin Bar"
+msgstr "Barra de administração do WordPress"
+
+#: ../events/events.settings.php:55
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr ""
+"Desative a visualização da barra de administração do Wordpress após o login "
+"de usuários."
+
+#: ../events/events.settings.php:65
+msgid "Enable Captcha (recommended)"
+msgstr "Habilitar o Captcha (recomendado)"
+
+#: ../events/events.settings.php:66
+msgid "Enable this to require users to enter a captcha code at login."
+msgstr ""
+"Ative isso para exigir que os usuários insiram um código captcha no login."
+
+#: ../events/events.settings.php:76
+msgid "Redirect on Login"
+msgstr "Redirecionamento de Login"
+
+#: ../events/events.settings.php:77
+msgid "Enable this to redirect users to the dashboard on login from anywhere."
+msgstr ""
+"Ativar este redirecionar os usuários para o painel de login em qualquer "
+"lugar."
+
+#: ../events/events.settings.php:87
+msgid "Refresh Captcha Secret (Optional)"
+msgstr "Atualizar Captcha segredo (opcional)"
+
+#: ../events/events.settings.php:88
+msgid "As as entra layer of security reset your captcha secret."
+msgstr ""
+"Assim como a camada de segurança, reconfigure o seu captcha em segredo."
+
+#: ../inc/wpabstracts_classes.php:27 ../inc/wpabstracts_classes.php:66
+#: ../inc/wpabstracts_classes.php:82
+msgid "Download"
+msgstr "Download"
+
+#: ../inc/wpabstracts_classes.php:59
+msgid "Attachment Name"
+msgstr "Nome do anexo"
+
+#: ../inc/wpabstracts_classes.php:60 ../inc/wpabstracts_downloads.php:134
+msgid "Abstract Title"
+msgstr "Título do Resumo"
+
+#: ../inc/wpabstracts_classes.php:64
+msgid "File Type"
+msgstr "Tipo de arquivo"
+
+#: ../inc/wpabstracts_classes.php:65
+msgid "File Size"
+msgstr "Tamanho do arquivo"
+
+#: ../inc/wpabstracts_classes.php:105 ../users/users.classes.php:150
+msgid "Search"
+msgstr "Pesquisa"
+
+#: ../inc/wpabstracts_classes.php:112
+msgid "Download All"
+msgstr "Baixar tudo"
+
+#: ../inc/wpabstracts_classes.php:172 ../inc/wpabstracts_classes.php:243
+msgid "Archive"
+msgstr "Layouts de Arquivo do Blog"
+
+#: ../inc/wpabstracts_classes.php:175 ../inc/wpabstracts_classes.php:244
+msgid "Unarchive"
+msgstr "Desarquivar"
+
+#: ../inc/wpabstracts_classes.php:187
+msgid "Copy"
+msgstr "Cópia"
+
+#: ../inc/wpabstracts_classes.php:223 ../inc/wpabstracts_downloads.php:88
+msgid "Event Name"
+msgstr "Nome do Evento"
+
+#: ../inc/wpabstracts_classes.php:224
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../inc/wpabstracts_classes.php:231
+msgid "Submissions"
+msgstr "Envios"
+
+#: ../inc/wpabstracts_downloads.php:85 ../inc/wpabstracts_downloads.php:133
+#: ../inc/wpabstracts_downloads.php:236 ../inc/wpabstracts_functions.php:1094
+msgid "Abstract ID"
+msgstr "ID do resumo"
+
+#: ../inc/wpabstracts_downloads.php:95 ../wpabstracts.php:398
+msgid "Presenter Name"
+msgstr "Nome do apresentador"
+
+#: ../inc/wpabstracts_downloads.php:96
+msgid "Presenter Email"
+msgstr "Email do apresentador"
+
+#: ../inc/wpabstracts_downloads.php:98
+msgid "User ID"
+msgstr "ID do usuário"
+
+#: ../inc/wpabstracts_downloads.php:99
+msgid "User"
+msgstr "Usuário"
+
+#: ../inc/wpabstracts_downloads.php:100
+msgid "User Email"
+msgstr "Email do Usuário"
+
+#: ../inc/wpabstracts_downloads.php:101 ../inc/wpabstracts_downloads.php:140
+msgid "Reviewer ID"
+msgstr "ID do revisor"
+
+#: ../inc/wpabstracts_downloads.php:102 ../wpabstracts.php:380
+#: ../wpabstracts.php:709
+msgid "Reviewers"
+msgstr "Avaliadores"
+
+#: ../inc/wpabstracts_downloads.php:103 ../wpabstracts.php:381
+#: ../wpabstracts.php:401 ../wpabstracts.php:710
+msgid "Date Submitted"
+msgstr "Data de envio"
+
+#: ../inc/wpabstracts_downloads.php:125
+msgid "Abstracts-All"
+msgstr "Resumos-Todos"
+
+#: ../inc/wpabstracts_downloads.php:132
+msgid "Review ID"
+msgstr "ID da revisão"
+
+#: ../inc/wpabstracts_downloads.php:135
+msgid "Relevance"
+msgstr "Relevância"
+
+#: ../inc/wpabstracts_downloads.php:136
+msgid "Quality"
+msgstr "Qualidade"
+
+#: ../inc/wpabstracts_downloads.php:137
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../inc/wpabstracts_downloads.php:138
+msgid "Recommendation"
+msgstr "Recomendação"
+
+#: ../inc/wpabstracts_downloads.php:141
+msgid "Reviewer Name"
+msgstr "Nome do revisor"
+
+#: ../inc/wpabstracts_downloads.php:142
+msgid "Reviewer Email"
+msgstr "E-mail do revisor"
+
+#: ../inc/wpabstracts_downloads.php:143
+msgid "Review Date"
+msgstr "Data da Avaliação"
+
+#: ../inc/wpabstracts_downloads.php:159
+msgid "Excellent Reviews"
+msgstr "Avaliações excelentes"
+
+#: ../inc/wpabstracts_downloads.php:162
+msgid "Good Reviews"
+msgstr "Avaliações boas"
+
+#: ../inc/wpabstracts_downloads.php:165
+msgid "Average Reviews"
+msgstr "Avaliações medianas"
+
+#: ../inc/wpabstracts_downloads.php:168
+msgid "Poor Reviews"
+msgstr "Avaliações ruins"
+
+#: ../inc/wpabstracts_downloads.php:171
+msgid "All Reviews"
+msgstr "Todas as avaliações"
+
+#: ../inc/wpabstracts_downloads.php:190
+msgid "All Users"
+msgstr "Todos os usuários"
+
+#: ../inc/wpabstracts_downloads.php:236
+msgid "Auto-Generated"
+msgstr "Gerado automaticamente"
+
+#: ../inc/wpabstracts_emailer.php:173 ../users/users.register.php:97
+msgid "From:"
+msgstr "De:"
+
+#: ../inc/wpabstracts_functions.php:411
+msgid ""
+"There are no active events. Please ensure an event exists with a deadline "
+"later than yesterday."
+msgstr ""
+"Não há nenhum ativos eventos. Por favor, certifique-se de que um evento "
+"existe um prazo depois de ontem."
+
+#: ../inc/wpabstracts_functions.php:631
+msgid "Don't have an account? "
+msgstr "Não tem uma conta? "
+
+#: ../inc/wpabstracts_functions.php:633
+msgid "Sign Up"
+msgstr "Inscrever-se"
+
+#: ../inc/wpabstracts_functions.php:635
+msgid "Create an Account"
+msgstr "Criar uma conta"
+
+#: ../inc/wpabstracts_functions.php:643
+msgid "Forgot Password? "
+msgstr "Esqueceu a sua senha? "
+
+#: ../inc/wpabstracts_functions.php:645 ../inc/wpabstracts_functions.php:647
+msgid "Reset"
+msgstr "Redefinir"
+
+#: ../inc/wpabstracts_functions.php:673 ../inc/wpabstracts_functions.php:676
+msgid "Invalid username or password. Please try again."
+msgstr "Nome de usuário inválido ou senha. Por favor, tente novamente."
+
+#: ../inc/wpabstracts_functions.php:679 ../inc/wpabstracts_functions.php:873
+msgid "Invalid security code. Please try again."
+msgstr "Código de segurança inválido. Por favor, tente novamente."
+
+#: ../inc/wpabstracts_functions.php:693
+msgid ""
+"Your account has not been activated. Please check your Inbox (including spam "
+"folder) for your activation link."
+msgstr ""
+"Sua conta não foi ativada. Por favor, verifique sua caixa de entrada "
+"(incluindo pasta de spam) para o seu link de ativação."
+
+#: ../inc/wpabstracts_functions.php:697 ../inc/wpabstracts_functions.php:703
+msgid "Sign in successful."
+msgstr "Cadastre-se sucesso."
+
+#: ../inc/wpabstracts_functions.php:718 ../inc/wpabstracts_functions.php:770
+msgid "Hmm, your nonce is not valid."
+msgstr "Hmm, seu nome não é válido."
+
+#: ../inc/wpabstracts_functions.php:733
+msgid "There is no user registered with that username or email address."
+msgstr ""
+"Não há nenhum usuário registrado com este usuário ou endereço de e-mail."
+
+#: ../inc/wpabstracts_functions.php:739
+msgid "Hi,"
+msgstr "Olá,"
+
+#: ../inc/wpabstracts_functions.php:740
+msgid "Someone requested a password reset for "
+msgstr "Alguém solicitou uma redefinição de senha para "
+
+#: ../inc/wpabstracts_functions.php:741
+msgid ""
+"If this was a mistake, simply ignore this email and nothing will happen."
+msgstr "Se isso foi um engano, apenas ignore este e-mail e nada acontecerá."
+
+#: ../inc/wpabstracts_functions.php:742
+msgid "To reset your password, visit the following link:"
+msgstr "Para redefinir sua senha, visite o seguinte endereço:"
+
+#: ../inc/wpabstracts_functions.php:745
+msgid "Password Reset for "
+msgstr "Redefinir a senha para "
+
+#: ../inc/wpabstracts_functions.php:751
+msgid ""
+"Your request was successful. Please check your e-mail for more instructions."
+msgstr ""
+"Seu pedido foi bem sucedido. Por favor, verifique seu e-mail para obter mais "
+"instruções."
+
+#: ../inc/wpabstracts_functions.php:754
+msgid "The e-mail could not be sent. Please contact support."
+msgstr ""
+"O e-mail não pôde ser enviado. Por favor entre em contato com o suporte."
+
+#: ../inc/wpabstracts_functions.php:782
+msgid "Password is required field."
+msgstr "O campo de senha é obrigatório."
+
+#: ../inc/wpabstracts_functions.php:789
+msgid "The passwords do not match."
+msgstr "As senhas não correspondem."
+
+#: ../inc/wpabstracts_functions.php:798
+msgid "Invalid password reset key. Please request a new password reset."
+msgstr ""
+"Chave de redefinição de senha inválida. Por favor, solicite uma nova "
+"redefinição de senha."
+
+#: ../inc/wpabstracts_functions.php:802
+msgid "Your password has been reset."
+msgstr "Sua senha foi alterada."
+
+#: ../inc/wpabstracts_functions.php:851
+msgid "Enter security code (required)"
+msgstr "Digite o código de segurança (obrigatório)"
+
+#: ../inc/wpabstracts_functions.php:885
+msgid "<strong>ERROR</strong>: Please enter a valid security code."
+msgstr ""
+"<strong> ERROR </strong>: por favor, insira um código de segurança válido."
+
+#: ../inc/wpabstracts_functions.php:938 ../wpabstracts.abstracts.php:20
+#: ../wpabstracts.emails.php:46 ../wpabstracts.events.php:19
+#: ../wpabstracts.users.php:19
+msgid "Sorry, the tab you selected does not exist."
+msgstr "Desculpa, a guia que você selecionou não existe."
+
+#: ../inc/wpabstracts_functions.php:972
+msgid "User Id "
+msgstr "ID do Usuário "
+
+#: ../inc/wpabstracts_functions.php:981
+msgid "Successfully deleted user ID "
+msgstr "Usuário excluído com sucesso "
+
+#: ../inc/wpabstracts_functions.php:1097
+msgid "Submitted"
+msgstr "Enviado"
+
+#: ../inc/wpabstracts_functions.php:1106
+msgid "Presenter"
+msgstr "Apresentador"
+
+#: ../inc/wpabstracts_functions.php:1173
+msgid ""
+"Sorry, no event not found. Please enter a valid event id in the shortcode."
+msgstr ""
+"Desculpe, nenhum evento não foi encontrado. Por favor, digite um id de "
+"evento válido no curto-código."
+
+#: ../users/users.activate.php:7
+msgid "Oops, you are already logged in. Activation is only for new accounts."
+msgstr "Ops, você já está conectado. A ativação é apenas para novas contas."
+
+#: ../users/users.activate.php:12
+msgid ""
+"Oops, you're got an invalid link. Please check your email and copy and paste "
+"the full link."
+msgstr ""
+"Opa, tem um link inválido. Por favor, verifique seu e-mail e copie e cole o "
+"link completo."
+
+#: ../users/users.activate.php:24
+msgid "Your account was activated already. Please login."
+msgstr "Sua conta foi ativada já. Faça o login."
+
+#: ../users/users.activate.php:31
+msgid "Your account was successfully activated."
+msgstr "Sua conta foi ativada com êxito."
+
+#: ../users/users.activate.php:34
+msgid ""
+"Oops, your activation key do not match our records for you. Please try again "
+"or contact support."
+msgstr ""
+"Opa, sua chave de ativação não coincide com os nossos registos para você. "
+"Por favor, tente novamente ou contate o suporte."
+
+#: ../users/users.activate.php:37
+msgid "Oops, we could not find this user. Please try again or contact support"
+msgstr ""
+"Opa, não conseguimos encontrar este usuário. Por favor, tente novamente ou "
+"contate o suporte"
+
+#: ../users/users.classes.php:30 ../users/users.profile.php:37
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: ../users/users.classes.php:31 ../users/users.classes.php:111
+msgid "Activate"
+msgstr "Ativar"
+
+#: ../users/users.classes.php:32
+msgid "Change Password"
+msgstr "Alterar Senha"
+
+#: ../users/users.classes.php:70
+msgid "--not entered--"
+msgstr "--não inserido--"
+
+#: ../users/users.classes.php:123
+msgid "users were "
+msgstr "usuários aonde "
+
+#: ../users/users.classes.php:123
+msgid "user was "
+msgstr "usuário era "
+
+#: ../users/users.classes.php:124
+msgid " successfully activated."
+msgstr " ativado com sucesso."
+
+#: ../users/users.classes.php:133
+msgid " successfully deleted."
+msgstr " deletado com sucesso."
+
+#: ../users/users.classes.php:157
+msgid "Download CSV"
+msgstr "Baixar aquivo CSV"
+
+#: ../users/users.classes.php:176
+msgid ""
+"You have WordPress users with no WP Abstracts profiles, do you want to sync "
+"users? "
+msgstr ""
+"Você tem usuários WordPress sem um perfil WP Abstracts, deseja sincronizar "
+"os usuários? "
+
+#: ../users/users.classes.php:177
+msgid "Sync Users"
+msgstr "Sincronizar usuários"
+
+#: ../users/users.formbuilder.php:7
+msgid "Your registration from was successfully restored."
+msgstr "Seu registro de foi restaurado com sucesso."
+
+#: ../users/users.formbuilder.php:166
+msgid "Drag input elements from the left to create your user registration form"
+msgstr ""
+"Arraste os elementos de entrada da esquerda para criar seu formulário de "
+"registro do usuário"
+
+#: ../users/users.formbuilder.php:166
+msgid "Restore Form"
+msgstr "Formulário de recuperação"
+
+#: ../users/users.formbuilder.php:174 ../users/users.register.html.php:185
+msgid "Login Information"
+msgstr "Informação de login"
+
+#: ../users/users.formbuilder.php:180 ../users/users.register.html.php:193
+msgid "Please enter a valid email address."
+msgstr "Por favor insira um endereço de e-mail válido."
+
+#: ../users/users.formbuilder.php:183 ../users/users.register.html.php:196
+msgid "Password"
+msgstr "Senha"
+
+#: ../users/users.formbuilder.php:185 ../users/users.register.html.php:199
+msgid "Please enter a password."
+msgstr "Por favor insira uma senha."
+
+#: ../users/users.formbuilder.php:188 ../users/users.register.html.php:202
+msgid "Repeat Password"
+msgstr "Repita a senha"
+
+#: ../users/users.formbuilder.php:190 ../users/users.register.html.php:205
+msgid "Please repeat your password."
+msgstr "Por favor repita a sua senha."
+
+#: ../users/users.formbuilder.php:197 ../users/users.register.html.php:212
+msgid "Account Information"
+msgstr "Informações da Conta"
+
+#: ../users/users.formbuilder.php:197
+msgid "Form Preview"
+msgstr "Visualizar Formulário"
+
+#: ../users/users.formbuilder.php:205 ../users/users.register.html.php:227
+msgid "Register"
+msgstr "Registrar"
+
+#: ../users/users.login.php:20
+msgid "Please sign in for your conference participation"
+msgstr "Inscreva-se sua participação de conferência"
+
+#: ../users/users.login.php:25
+msgid "Sign In"
+msgstr "Entrar"
+
+#: ../users/users.login.php:56
+msgid "Login"
+msgstr "Entrar"
+
+#: ../users/users.login.php:62
+msgid "Remember Me"
+msgstr "Lembrar-me"
+
+#: ../users/users.lostpassword.php:6
+msgid "Forgot Password"
+msgstr "Esqueceu a senha"
+
+#: ../users/users.lostpassword.php:8
+msgid ""
+"Please enter your email address and we will send you instructions to reset "
+"your password."
+msgstr ""
+"Digite seu endereço de e-mail abaixo. Nós lhe enviaremos instruções para "
+"redefinir sua senha."
+
+#: ../users/users.lostpassword.php:24
+msgid "Get New Password"
+msgstr "Obter Nova Senha"
+
+#: ../users/users.profile.php:20
+msgid "Profile updated successfully."
+msgstr "Perfil atualizado com sucesso."
+
+#: ../users/users.profile.php:43
+msgid "Profile Information"
+msgstr "Informações do perfil"
+
+#: ../users/users.register.php:9
+msgid ""
+"Registration is currently not allowed for this site. Please contact your "
+"site admin."
+msgstr ""
+"Registro não é permitido atualmente por este site. Entre em contato com seu "
+"administrador de site."
+
+#: ../users/users.register.php:27
+msgid "You have entered an invalid captcha code. Please try again."
+msgstr ""
+"Você inseriu um código de captcha inválido. Por favor, tente novamente."
+
+#: ../users/users.register.php:76
+msgid "You're currently logged in. Please sign out to register for an account."
+msgstr "Você está logado. Inscreva-se para fora cadastrar uma conta."
+
+#: ../users/users.resetpassword.php:6 ../users/users.resetpassword.php:30
+msgid "Reset Password"
+msgstr "Redefinir Senha"
+
+#: ../users/users.resetpassword.php:8
+msgid "Please enter your new password below."
+msgstr "Indique por favor a sua senha em baixo."
+
+#: ../users/users.settings.php:86
+msgid "Sync User Meta"
+msgstr "Meta do usuário"
+
+#: ../users/users.settings.php:94
+msgid "General Settings"
+msgstr "Ajustes Gerais"
+
+#: ../users/users.settings.php:100
+msgid "Show Registration Thank You"
+msgstr "Mostrar registro Obrigado"
+
+#: ../users/users.settings.php:101
+msgid "Set whether to show a thank you message or not after registration."
+msgstr ""
+"Defina se deseja mostrar uma mensagem de agradecimento ou não, depois do "
+"registo."
+
+#: ../users/users.settings.php:111
+msgid "Send Registration Confirmation"
+msgstr "Confirmação do Registo"
+
+#: ../users/users.settings.php:112
+msgid ""
+"Set whether to send a confirmation email to the user with next steps or not "
+"after registration"
+msgstr ""
+"Defina se deseja enviar um e-mail de confirmação para o usuário com os "
+"próximos passos ou não após o registo"
+
+#: ../users/users.settings.php:122
+msgid "Activate Users Automatically"
+msgstr "Ativar Licença"
+
+#: ../users/users.settings.php:123
+msgid "Set whether to activate users on registration or not (not recommended)."
+msgstr ""
+"Defina se deseja ativar os usuários no registro ou não (não recomendado)."
+
+#: ../users/users.settings.php:133
+msgid "Ignore User Activation at Login"
+msgstr "Ignore a ativação do usuário no login"
+
+#: ../users/users.settings.php:134
+msgid ""
+"Whether or not to check for user activation at login. Used mainly when users "
+"are registered outside of WP Abstracts."
+msgstr ""
+"Verificar ou não a ativação do usuário no login. Usado principalmente quando "
+"os usuários são registrados fora do WP Abstracts."
+
+#: ../users/users.settings.php:146
+msgid "Sync WP Fields"
+msgstr "Campos de WP de sincronização"
+
+#: ../users/users.settings.php:147
+msgid "Set whether to sync WP Abstracts Profile fields to Wordpress meta data."
+msgstr ""
+"Defina se para sincronizar WP abstrai perfil campos para Wordpress meta "
+"dados."
+
+#: ../users/users.settings.php:160
+msgid "Display Name"
+msgstr "Exibir Nome"
+
+#: ../users/users.settings.php:161
+msgid ""
+"Select the field or fields you would like to use as display name for all "
+"users."
+msgstr ""
+"Selecione o campo ou campos que você deseja usar como exibir nome para todos "
+"os usuários."
+
+#: ../users/users.settings.php:172
+msgid "First & Last Name"
+msgstr "Primeiro & último nome"
+
+#: ../users/users.settings.php:173
+msgid "Last & First Name"
+msgstr "Sobrenome e Primeiro Nome"
+
+#: ../users/users.settings.php:184
+msgid "Password Rules"
+msgstr "Regras de senha"
+
+#: ../users/users.settings.php:190
+msgid "Minimum Password Length"
+msgstr "Tamanho Mínimo de Senha"
+
+#: ../users/users.settings.php:191
+msgid "Enter the minimum amount of character for a password"
+msgstr "Insira a quantidade mínima de caracteres para uma senha"
+
+#: ../users/users.settings.php:195
+msgid "5"
+msgstr "5"
+
+#: ../users/users.settings.php:196
+msgid "6"
+msgstr "6"
+
+#: ../users/users.settings.php:197
+msgid "7"
+msgstr "7"
+
+#: ../users/users.settings.php:198
+msgid "8"
+msgstr "8"
+
+#: ../users/users.settings.php:199
+msgid "9"
+msgstr "9"
+
+#: ../users/users.settings.php:204
+msgid "Maximum Password Length"
+msgstr "Comprimento máximo da senha"
+
+#: ../users/users.settings.php:205
+msgid "Enter the maximum amount of character for a password"
+msgstr "Insira a quantidade máxima de caracteres para uma senha"
+
+#: ../users/users.settings.php:209
+msgid "10"
+msgstr "10"
+
+#: ../users/users.settings.php:210
+msgid "11"
+msgstr "11"
+
+#: ../users/users.settings.php:211
+msgid "12"
+msgstr "12"
+
+#: ../users/users.settings.php:212
+msgid "13"
+msgstr "13"
+
+#: ../users/users.settings.php:213
+msgid "14"
+msgstr "14"
+
+#: ../users/users.settings.php:218
+msgid "At least one number"
+msgstr "Pelo menos um número"
+
+#: ../users/users.settings.php:219
+msgid "Require passwords to have at least one number"
+msgstr "Exigir que as senhas devem ter pelo menos um número"
+
+#: ../users/users.settings.php:229
+msgid "At least one uppercase"
+msgstr "Pelo menos uma maiuscula"
+
+#: ../users/users.settings.php:230
+msgid "Require passwords to have at least one uppercase"
+msgstr "Exigir que as senhas devem ter pelo menos um maiusculas"
+
+#: ../users/users.settings.php:240
+msgid "At least one lowercase"
+msgstr "Pelo menos um minúsculas"
+
+#: ../users/users.settings.php:241
+msgid "Require passwords to have at least one lowercase"
+msgstr "Exigir que as senhas devem ter pelo menos um minúsculas"
+
+#: ../users/users.settings.php:251
+msgid "At least one special character"
+msgstr "Pelo menos um caractere especial"
+
+#: ../users/users.settings.php:252
+msgid "Require passwords to have at least one special character"
+msgstr "Exigir que as senhas devem ter pelo menos um caractere especial"
+
+#: ../users/users.settings.php:268
+msgid "Select up to six (6) column fields to display when managing users."
+msgstr ""
+"Selecione até 6 seis campos de coluna para exibir quando o gerenciamento de "
+"usuários."
+
+#: ../users/users.settings.php:298
+msgid "Registration Thank you Message"
+msgstr "Mensagem de registo Obrigado"
+
+#: ../users/users.settings.php:299
+msgid ""
+"Enter a thank you message that shows after the registration form has been "
+"submitted"
+msgstr ""
+"Digite uma mensagem de agradecimento que mostra depois que foi submetido o "
+"formulário de inscrição"
+
+#: ../users/users.settings.php:318
+msgid "Registration Confirmation Email"
+msgstr "E-mail de confirmação de inscrição"
+
+#: ../users/users.settings.php:319
+msgid ""
+"Create an email template used for sending the confirmation message to the "
+"user."
+msgstr ""
+"Crie um modelo de e-mail usado para enviar a mensagem de confirmação para o "
+"usuário."
+
+#: ../users/users.settings.php:328 ../users/users.settings.php:336
+msgid ""
+"Enter the email of the administrator to be notified when a user registers."
+msgstr ""
+"Digite o e-mail do administrador para ser notificado quando um usuário "
+"registra."
+
+#: ../users/users.settings.php:344
+msgid "Enter the subject for the email sent when a user registers."
+msgstr ""
+"Digite o e-mail do administrador para ser notificado quando um usuário "
+"registra."
+
+#: ../wpabstracts.abstracts.php:29
+msgid "Manage Abstracts"
+msgstr "Gerenciar resumos"
+
+#: ../wpabstracts.emails.php:22
+msgid "Templates"
+msgstr "Modelos"
+
+#: ../wpabstracts.emails.php:23
+msgid "Mail Log"
+msgstr "Log de e-mail"
+
+#: ../wpabstracts.events.php:28
+msgid "Manage"
+msgstr "Gerenciar"
+
+#: ../wpabstracts.help.php:10
+msgid "Quick Start"
+msgstr "Início Rápido"
+
+#: ../wpabstracts.help.php:14
+msgid "Get setup and running in three simple steps"
+msgstr "Obtenha configuração e execução em três etapas simples"
+
+#: ../wpabstracts.help.php:16
+msgid ""
+"Create an event (make a note of the event ID for step 2). This may be the "
+"name of a conference or anything relating to the submission of abstracts."
+msgstr ""
+"Crie um evento (Anote o ID de evento para o passo 2). Isto pode ser o nome "
+"de uma conferência ou qualquer coisa referente para a submissão de resumos."
+
+#: ../wpabstracts.help.php:17
+msgid ""
+"Create a wordpress page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+"Criar uma página do wordpress e adicionar [wpabstracts event_id = "
+"\"EVENT_ID_HERE\"] e o link desta página para seu menu do site para permitir "
+"o acesso de frontend."
+
+#: ../wpabstracts.help.php:18
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your wordpress permanent links are set to post-name or custom."
+msgstr ""
+"Visite a página de configurações e escolha sua preferência pelo plug-in. "
+"Garanta também que os links permanentes do wordpress sejam definidos como "
+"pós-nome ou personalizados."
+
+#: ../wpabstracts.help.php:25
+msgid "Frequently Asked Questions"
+msgstr "Perguntas Mais Frequentes"
+
+#: ../wpabstracts.help.php:29 ../wpabstracts.help.php:31
+#: ../wpabstracts.help.php:33 ../wpabstracts.help.php:35
+#: ../wpabstracts.help.php:37 ../wpabstracts.help.php:39
+#: ../wpabstracts.help.php:41 ../wpabstracts.help.php:43
+#: ../wpabstracts.help.php:45
+msgid "Question"
+msgstr "Pergunta"
+
+#: ../wpabstracts.help.php:29
+msgid "Do I have to create accounts for authors and reviewers?"
+msgstr "Eu preciso criar contas para autores e revisores?"
+
+#: ../wpabstracts.help.php:30 ../wpabstracts.help.php:32
+#: ../wpabstracts.help.php:34 ../wpabstracts.help.php:36
+#: ../wpabstracts.help.php:38 ../wpabstracts.help.php:40
+#: ../wpabstracts.help.php:42 ../wpabstracts.help.php:44
+#: ../wpabstracts.help.php:46
+msgid "Answer"
+msgstr "Responda"
+
+#: ../wpabstracts.help.php:30
+msgid ""
+"Authors and reviewers need an account on your site to access the dashboard "
+"and take part in your conference. Users may self register on your website or "
+"the admin may create accounts for users and forward the credentials to the "
+"user."
+msgstr ""
+"Autores e revisores precisam de uma conta em seu site para acessar o painel "
+"de controle e participar de sua conferência. Os usuários podem auto registo "
+"no seu site ou o administrador pode criar contas de usuários e encaminhar as "
+"credenciais para o usuário."
+
+#: ../wpabstracts.help.php:31
+msgid ""
+"I cannot find the registration area, how do authors or reviewers register?"
+msgstr ""
+"Não consigo encontrar a área de registro, como autores ou revisores registro?"
+
+#: ../wpabstracts.help.php:32
+msgid ""
+"The registration link (Create an Account) is located on the Login page. "
+"Authors and Reviewers may self-register on your website. To enable this, go "
+"to your WordPress Settings -> General tab and check the box that says “Any "
+"can Register”."
+msgstr ""
+"O link de registo (criar uma conta) situa-se na página de Login. Autores e "
+"revisores podem fazer o registro em seu site. Para habilitar isso, vá para "
+"as configurações do WordPress-> guia geral e marque a caixa que diz "
+"\"Qualquer pode registrar\"."
+
+#: ../wpabstracts.help.php:33
+msgid ""
+"After signing in to the dashboard I see \"You do not have permission to "
+"access this page\". What is happening?"
+msgstr ""
+"Após a assinatura painel eu ver \"Você não tem permissão para acessar esta "
+"página\". O que está acontecendo?"
+
+#: ../wpabstracts.help.php:34
+msgid ""
+"This error message is common when the user accessing the dashboard is not "
+"permitted. At the moment only two user types can access the dashboard; "
+"Authors which maps to the \"Subscriber\" user role and \"Reviewers\" which "
+"maps to the \"Editor\" user role. You may also see this message is you are "
+"visiting the front-end dashboard while currently signed in as the "
+"Administrator."
+msgstr ""
+"Essa mensagem de erro é comum quando o usuário que acessa o painel não é "
+"permitido. No momento, apenas dois tipos de usuários podem acessar o painel; "
+"Autores mapeados para a função de usuário \"Assinante\" e \"Revisores\", que "
+"mapeia para a função de usuário \"Editor\". Você também pode ver que esta "
+"mensagem é que você está visitando o painel front-end enquanto está "
+"atualmente conectado como Administrador."
+
+#: ../wpabstracts.help.php:35
+msgid ""
+"How do I specify the types of abstract submissions (poster, panel etc) for "
+"my conference?"
+msgstr ""
+"Como eu especifico os tipos de submissões abstratas (poster, painel etc) "
+"para minha conferência?"
+
+#: ../wpabstracts.help.php:36
+msgid ""
+"Simply go to WP Abstracts Settings Tab and enter the types you want to allow "
+"for presenters. Submission types are comma separated."
+msgstr ""
+"Simplesmente vá até a aba Configurações de resumos do WP e insira os tipos "
+"que você deseja permitir aos apresentadores. Tipos de submissão são "
+"separados por vírgulas."
+
+#: ../wpabstracts.help.php:37
+msgid ""
+"When clicking “New Abstracts” I get the following message “Abstract "
+"submission for this event has past”. What can I do?"
+msgstr ""
+"Ao clicar em \"Novos Resumos\", recebo a seguinte mensagem: \"Submissão "
+"abstrata para este evento passou\". O que eu posso fazer?"
+
+#: ../wpabstracts.help.php:38
+msgid ""
+"This simply means that the deadline for your event has passed. If the event "
+"is still active simply go to the events tab in the admin area and extend the "
+"deadline date of the event."
+msgstr ""
+"Isso significa simplesmente que o prazo do seu evento já passou. Se o evento "
+"ainda estiver ativo, basta acessar a guia de eventos na área administrativa "
+"e estender a data do prazo final do evento."
+
+#: ../wpabstracts.help.php:39
+msgid "How do I setup Authors and Reviewers?"
+msgstr "Como configuro autores e revisores?"
+
+#: ../wpabstracts.help.php:40
+msgid ""
+"Authors are equivalent to Wordpress subscriber user role while reviewers are "
+"the editor user roles. Users may self register as authors and the site admin "
+"can then upgrade subscriber account to editor thus making that user a "
+"reviewer."
+msgstr ""
+"Os autores são equivalentes à função de usuário do assinante do Wordpress, "
+"enquanto os revisores são as funções de usuário do editor. Os usuários podem "
+"registrar-se como autores e o administrador do site pode atualizar a conta "
+"do assinante para o editor, tornando-o um revisor."
+
+#: ../wpabstracts.help.php:41
+msgid "How do I upgrade from the Free to the Pro version?"
+msgstr "Como faço para atualizar da versão gratuita para a versão Pro?"
+
+#: ../wpabstracts.help.php:42
+msgid ""
+"Upload WP Abstracts Pro from the your plugins admin page then simply "
+"deactivate the free version and activate WP Abstracts Pro."
+msgstr ""
+"Faça o upload do WP Abstracts Pro a partir da página de administração dos "
+"seus plugins e depois desative a versão gratuita e ative o WP Abstracts Pro."
+
+#: ../wpabstracts.help.php:43
+msgid "When are automated emails triggered in WP Abstracts?"
+msgstr "Quando os e-mails automáticos são acionados no WP Abstracts?"
+
+#: ../wpabstracts.help.php:44
+msgid ""
+"Automated emails may be triggered on abstract submission, abstract status "
+"changes, reviewer assignments and review submissions."
+msgstr ""
+"E-mails automatizados podem ser desencadeados no envio de resumos, mudanças "
+"de estado do resumo, atribuições de revisor e submissões de revisão."
+
+#: ../wpabstracts.help.php:45
+msgid ""
+"Can I edit or customize the templates for automated email notifications?"
+msgstr ""
+"Posso editar ou personalizar os modelos para as notificações de e-mail "
+"automático?"
+
+#: ../wpabstracts.help.php:46
+msgid ""
+"Yes. All email notification templates are customizable using various "
+"shortcode pertaining to the submission and event."
+msgstr ""
+"Sim. Todos os modelos de notificação de e-mail podem ser personalizados "
+"usando vários shortcode referentes à apresentação e eventos."
+
+#: ../wpabstracts.help.php:56
+msgid "Shortcodes"
+msgstr "Código Atalhos"
+
+#: ../wpabstracts.help.php:59
+msgid "[wpabstracts event_id=\"x\"] renders the user dashboard"
+msgstr ""
+"[wpabstracts event_id = \"x\"] processa o painel de controle do usuário"
+
+#: ../wpabstracts.help.php:60
+msgid "[wpabstracts_register] renders the user registration form"
+msgstr "[wpabstracts_register] processa o formulário de registro de usuário"
+
+#: ../wpabstracts.help.php:61
+msgid "[wpabstracts_login] renders the user login screen"
+msgstr "[wpabstracts_login] processa a tela de login do usuário"
+
+#: ../wpabstracts.help.php:67
+msgid "Email Notifications"
+msgstr "Notificações de email"
+
+#: ../wpabstracts.help.php:70
+msgid ""
+"Use the Email tab to create various email templates then set those templates "
+"for various email triggers. Current email triggers includes abstract "
+"submission, all abstract status change, reviewer assignments and review "
+"submissions."
+msgstr ""
+"Use a guia de Email para criar vários modelos de email, em seguida, definir "
+"os modelos para vários gatilhos de e-mail. Gatilhos de e-mail atual inclui "
+"apresentação abstrata, toda mudança de status abstrata, revisor atribuições "
+"e submissões de revisão."
+
+#: ../wpabstracts.help.php:76
+msgid "Help us Improve"
+msgstr "Nos ajude a melhorar"
+
+#: ../wpabstracts.help.php:79
+msgid "Rate"
+msgstr "Avaliação"
+
+#: ../wpabstracts.help.php:79
+msgid "the plugin 5 stars on WordPress.org"
+msgstr "O plugin 5 estrelas em WordPress.org"
+
+#: ../wpabstracts.php:43
+msgid "WP Abstracts"
+msgstr "WP Abstracts Pro"
+
+#: ../wpabstracts.php:49 ../wpabstracts.php:194
+msgid "Users"
+msgstr "Usuários"
+
+#: ../wpabstracts.php:50 ../wpabstracts.php:195
+msgid "Emails"
+msgstr "Emails"
+
+#: ../wpabstracts.php:51 ../wpabstracts.php:196
+msgid "Exports"
+msgstr "Exportações"
+
+#: ../wpabstracts.php:52 ../wpabstracts.php:197
+msgid "Custom Titles"
+msgstr "Títulos Personalizados"
+
+#: ../wpabstracts.php:53 ../wpabstracts.php:201
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../wpabstracts.php:133
+msgid "Support"
+msgstr "Suporte"
+
+#: ../wpabstracts.php:134
+msgid "Get Pro Version"
+msgstr "Obter a versão Pro"
+
+#: ../wpabstracts.php:383 ../wpabstracts.php:712
+msgid "Submit By"
+msgstr "Enviar por"
+
+#: ../wpabstracts.php:384 ../wpabstracts.php:713
+msgid "Date Modified"
+msgstr "Data modificada"
+
+#: ../wpabstracts.php:399
+msgid "Preference Preference"
+msgstr "Preferência"
+
+#: ../wpabstracts.php:773
+msgid ""
+"Do you really want to delete this abstract, its reviews and all its "
+"attachments?"
+msgstr ""
+"Você quer mesmo excluir este abstrato, seus clientes e todos os seus anexos?"
+
+#: ../wpabstracts.php:774
+msgid ""
+"Do you really want to delete the selected abstracts, their reviews and all "
+"their attachments?"
+msgstr ""
+"Você quer realmente excluir os resumos selecionados, suas opiniões e todos "
+"os seus anexos?"
+
+#: ../wpabstracts.php:775
+msgid ""
+"Are you sure you want to delete this event? Deleting this event will delete "
+"all submissions, reviews and attachments related to this event. This cannot "
+"be undone. Type DELETE to confirm."
+msgstr ""
+"Tem certeza de que deseja excluir este evento? A exclusão deste evento "
+"excluirá todos os envios, resenhas e anexos relacionados a este evento. Isto "
+"não pode ser desfeito. Digite DELETE para confirmar."
+
+#: ../wpabstracts.php:776
+msgid "Do you really want to delete this email template?"
+msgstr "Deseja realmente apagar esta modelo de email?"
+
+#: ../wpabstracts.php:777
+msgid "Do you really want to delete this review?"
+msgstr "Deseja realmente apagar esta avaliação?"
+
+#: ../wpabstracts.php:778
+msgid "Do you really want to delete this attachment?"
+msgstr "Tem certeza de que deseja excluir este anexo?"
+
+#: ../wpabstracts.php:779
+msgid "Are you sure you want to delete this user?"
+msgstr "Tem certeza de que deseja excluir este usuário?"
+
+#: ../wpabstracts.php:780
+msgid "Please enter a username and password to sign in."
+msgstr "Por favor insira o seu nome de usuário e senha para login."
+
+#: ../wpabstracts.php:781
+msgid "Please enter a the security code."
+msgstr "Por favor, insira um código de segurança."
+
+#: ../wpabstracts.php:783
+msgid "Please select a status"
+msgstr "Selecione um status"
+
+#: ../wpabstracts.php:784
+msgid "Please fill in all required fields."
+msgstr "Por favor, preencha todos os campos requisitados."
+
+#: ../wpabstracts.php:785
+msgid "Please add your abstract description"
+msgstr "Por favor, adicione sua descrição abstrata"
+
+#: ../wpabstracts.php:786
+msgid "You have exceeded the maximum words allowed for this submission."
+msgstr "Você excedeu as palavras máximos permitidas para esta apresentação."
+
+#: ../wpabstracts.php:787
+msgid "One or more of your file extension is not supported."
+msgstr "Um ou mais de sua extensão de arquivo não é suportado."
+
+#: ../wpabstracts.php:788
+msgid "One or more of your files exceeds the maximum file size allowed."
+msgstr ""
+"Um ou mais dos seus arquivos excedem o tamanho máximo de arquivo permitido."
+
+#: ../wpabstracts.php:791
+msgid "No Attachments Uploaded"
+msgstr "Nenhum anexo enviado"
+
+#: ../wpabstracts.php:792
+msgid "Please enter the email address used for the order."
+msgstr "Por favor insira o endereço de e-mail usado para a ordem."
+
+#: ../wpabstracts.php:793
+msgid "Successfully updated user registration form."
+msgstr "Formulário de registro de usuário atualizado com sucesso."
+
+#: ../wpabstracts.php:794
+msgid "Failed to save register form fields."
+msgstr "Falha ao salvar campos de formulário de registo."
+
+#: ../wpabstracts.php:795
+msgid "Successfully copied to clipboard."
+msgstr "Copiado com sucesso para a área de transferência."
+
+#: ../wpabstracts.php:796
+msgid "Failed to copy text to clipboard."
+msgstr "Falha ao copiar o texto para a área de transferência."
+
+#: ../wpabstracts.php:797
+msgid ""
+"Submissions with this status will no longer have a status. Do you really "
+"want to delete this status?"
+msgstr ""
+"Envios com esse status não terão mais um status. Você quer mesmo excluir "
+"este status?"
+
+#: ../wpabstracts.php:798
+msgid "At least one status is required."
+msgstr "É necessário pelo menos um status."
+
+#: ../wpabstracts.php:799
+msgid "At least one topic is required."
+msgstr "É necessário pelo menos um tópico."
+
+#: ../wpabstracts.php:800
+msgid ""
+"Are you sure you want to restore this form to the default inputs? This "
+"cannot be undone."
+msgstr ""
+"Tem certeza de que deseja restaurar este formulário para as entradas padrão? "
+"Isto não pode ser desfeito."
+
+#: ../wpabstracts.php:801
+msgid "Are you sure you want to restore your default titles?"
+msgstr "Tem certeza de que deseja restaurar seus títulos padrão?"
+
+#: ../wpabstracts.php:802
+msgid ""
+"Are you sure you want to SYNC profile data from WP Abstracts to Wordpress "
+"user profiles? This cannot be undone. Type SYNC to confirm."
+msgstr ""
+"Tem certeza de que deseja sincronizar dados de perfis do WP Abstracts para "
+"Wordpress? Isto não pode ser desfeito. Digite SYNC para confirmar."
+
+#: ../wpabstracts.php:803
+msgid "One or more of your email address seems invalid."
+msgstr "Um ou mais do seu endereço de e-mail parece inválido."
+
+#: ../wpabstracts.php:842
+msgid "Need more features?"
+msgstr "Precisa de mais recursos?"
+
+#: ../wpabstracts.users.php:26
+msgid "Manage Users"
+msgstr "Gerenciar Usuários"
+
+#: ../wpabstracts.users.php:27
+msgid "Form Builder"
+msgstr "Construtor de Formulários"
+
+#~ msgid ""
+#~ "Abstract submission for this event has past. Please contact your "
+#~ "organizer if you need to make a submission."
+#~ msgstr ""
+#~ "A submissão abstrata para este evento tem passado. Entre em contato com "
+#~ "seu organizador se você precisar fazer uma submissão."
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#, php-format
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Pending"
+#~ msgstr "Pendente"
+
+#~ msgid "Closed"
+#~ msgstr "Fechado"
+
+#~ msgid "Accept"
+#~ msgstr "Aceitar"
+
+#~ msgid "Reject"
+#~ msgstr "Negar"
+
+#~ msgid "Assign"
+#~ msgstr "Atribuir"
+
+#~ msgid "Go"
+#~ msgstr "Ir"
+
+#~ msgid "File Name"
+#~ msgstr "Nome do arquivo"
+
+#~ msgid "Uploaded to"
+#~ msgstr "Enviado para"
+
+#~ msgid "Abstract Id"
+#~ msgstr "ID do resumo"
+
+#~ msgid ""
+#~ "We could not perform your WP Abstracts license validation at this time."
+#~ msgstr ""
+#~ "Não conseguimos executar a validação de licença WP Abstracts neste "
+#~ "momento."
+
+#~ msgid ""
+#~ "Please add a valid event ID to the wpabstracts shortcode on this page."
+#~ msgstr ""
+#~ "Por favor, adicione um ID de evento válido para o shortcode wpabstracts "
+#~ "nesta página."
+
+#~ msgid ""
+#~ "The shortcode in this page should be similar to [wpabstracts event_id=ID] "
+#~ "(grab the ID from your Events tab)."
+#~ msgstr ""
+#~ "O shortcode nesta página deve ser semelhante ao [wpabstracts event_id = "
+#~ "ID] (pegue o ID do seu guia de eventos)."
+
+#~ msgid "You do not have permission to delete abstracts."
+#~ msgstr "Você não tem permissão para excluir resumos."
+
+#~ msgid "Abstract Submission"
+#~ msgstr "A submissão de resumos para este evento foi encerrada"
+
+#~ msgid "Abstract Updated"
+#~ msgstr "Configurações atualizadas."
+
+#~ msgid "Export Attachments"
+#~ msgstr "Exportar anexos"
+
+#~ msgid "Reviewers Configuration"
+#~ msgstr "Configuração de Avaliadores"
+
+#~ msgid "Reviewers can Submit Abstracts"
+#~ msgstr "Os avaliadores podem enviar resumos"
+
+#~ msgid "Enable this to allow reviewers to submit new abstracts."
+#~ msgstr ""
+#~ "Ative esta opção para permitir que os avaliadores enviem novos resumos."
+
+#~ msgid "Reviewers can Edit Abstracts"
+#~ msgstr "Avaliadores podem editar resumos"
+
+#~ msgid "Enable this to allow reviewers to edit abstracts they are assigned."
+#~ msgstr ""
+#~ "Ative esta opção para permitir que os avaliadores editem os resumos a que "
+#~ "estão atribuídos."
+
+#~ msgid "Reviewers can Change Ownership"
+#~ msgstr "Os avaliadores podem alterar a propriedade"
+
+#~ msgid ""
+#~ "Enable this to allow reviewers to change ownership (the author) of a "
+#~ "submission (useful if a reviewer submits an abstract on behalf of an "
+#~ "author but the option above to enable reviewers to edit abstracts must be "
+#~ "enabled for this to work)."
+#~ msgstr ""
+#~ "Permita que os avaliadores alterem a propriedade (o autor) de um envio "
+#~ "(útil se um revisor enviar um resumo em nome de um autor, mas a opção "
+#~ "acima para habilitar os avaliadores a editar resumos deve ser ativada "
+#~ "para que isso funcione)."
+
+#~ msgid "Enable Blind Reviews"
+#~ msgstr "Permitir comentários cegos"
+
+#~ msgid ""
+#~ "Enable this to hide author information from reviewers (does not apply to "
+#~ "admin)."
+#~ msgstr ""
+#~ "Ativar isso para ocultar as informações do autor de revisores (não se "
+#~ "aplica a admin)."
+
+#~ msgid "Show Reviewer Comments"
+#~ msgstr "Mostrar comentário do avaliador"
+
+#~ msgid "Disable this to hide reviewer comments from Authors."
+#~ msgstr ""
+#~ "Desative isso para ocultar os comentários dos avaliadores dos autores."
+
+#~ msgid "Captcha Secret"
+#~ msgstr "Segredo de captcha"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#~ msgid "Save Event"
+#~ msgstr "Salvar Evento"
+
+#~ msgid "New Review"
+#~ msgstr "Nova revisão"
+
+#~ msgid "No Attachments submitted"
+#~ msgstr "Não há anexos enviados"
+
+#~ msgid "Add Comments"
+#~ msgstr "Adicionar comentários"
+
+#~ msgid "Excellent"
+#~ msgstr "Excelente"
+
+#~ msgid "Good"
+#~ msgstr "Bom"
+
+#~ msgid "Average"
+#~ msgstr "Mediano"
+
+#~ msgid "Poor"
+#~ msgstr "Ruim"
+
+#~ msgid "Suggest Type"
+#~ msgstr "Tipo Sugerido"
+
+#~ msgid "Request"
+#~ msgstr "Pedido"
+
+#~ msgid "Accepted"
+#~ msgstr "Aceito"
+
+#~ msgid "Rejected"
+#~ msgstr "Recusado"
+
+#~ msgid "Additional Information"
+#~ msgstr "Informação adicional"
+
+#~ msgid "Save Review"
+#~ msgstr "Salvar revisão"
+
+#~ msgid "Assigned Abstracts"
+#~ msgstr "Resumos designados"
+
+#~ msgid "Type Request"
+#~ msgstr "Pedido"
+
+#~ msgid "You have NO newly assigned abstracts"
+#~ msgstr "Você NÃO possui novos resumos cadastrados"
+
+#~ msgid "Add Review"
+#~ msgstr "Adicionar Avaliação"
+
+#~ msgid "My Reviews"
+#~ msgstr "Minhas avaliações"
+
+#~ msgid "Reviewed"
+#~ msgstr "Revisados"
+
+#~ msgid "You have no COMPLETED reviews"
+#~ msgstr "Você não possui avaliações COMPLETAS"
+
+#~ msgid "Edit Email Template"
+#~ msgstr "Editar modelo de e-mail"
+
+#~ msgid "Update Template"
+#~ msgstr "Atualizar modelo"
+
+#~ msgid "Update Event"
+#~ msgstr "Atualizar Evento"
+
+#~ msgid "Update Review"
+#~ msgstr "Atualizar Avaliação"
+
+#~ msgid "Event / Topic"
+#~ msgstr "Evento/ Tópico"
+
+#~ msgid "Filter Users"
+#~ msgstr "Filtrar usuários"
+
+#~ msgid "User deleted"
+#~ msgstr "Usuário deletado"
+
+#~ msgid "Reviewed by"
+#~ msgstr "Avaliado por"
+
+#~ msgid "The review entered for this item matches a different criteria."
+#~ msgstr ""
+#~ "A avaliação inserida para este item corresponde a critérios diferentes."
+
+#~ msgid ""
+#~ "TIP: The suggested status on reviews is only a recommendation, "
+#~ "administrators have the final decision to accept or reject submissions."
+#~ msgstr ""
+#~ "DICA: O status sugerido nas avaliações é apenas uma recomendação, os "
+#~ "administradores têm a decisão final de aceitar ou rejeitar as submissões."
+
+#~ msgid "Abstract"
+#~ msgstr "Resumo"
+
+#~ msgid "Criteria"
+#~ msgstr "Critério"
+
+#~ msgid "Suggested"
+#~ msgstr "Sugerido"
+
+#~ msgid "reviews"
+#~ msgstr "avaliações"
+
+#~ msgid "Email Group"
+#~ msgstr "Grupo de Email"
+
+#~ msgid "Full Name"
+#~ msgstr "Nome completo"
+
+#~ msgid "Username"
+#~ msgstr "Nome de usuário"
+
+#~ msgid "User Name"
+#~ msgstr "Nome do usuário"
+
+#~ msgid "Pending Abstracts"
+#~ msgstr "Resumos pendentes"
+
+#~ msgid "Rejected Abstracts"
+#~ msgstr "Resumos recusados"
+
+#~ msgid "All Abstracts"
+#~ msgstr "Todos os resumos"
+
+#~ msgid "AbstractID"
+#~ msgstr "IDresumo"
+
+#~ msgid "-- Not Assigned --"
+#~ msgstr "-- Não Atribuído --"
+
+#~ msgid "Error: Reviewer Deleted"
+#~ msgstr "Erro: Avaliador excluído"
+
+#~ msgid "Select Reviewer"
+#~ msgstr "Selecionar avaliador"
+
+#~ msgid "Send Email"
+#~ msgstr "Enviar Email"
+
+#~ msgid "Assign Reviewers"
+#~ msgstr "Atribuir Avaliadores"
+
+#~ msgid "Event deleted"
+#~ msgstr "Evento apagado"
+
+#~ msgid ""
+#~ "At least one event must be created to allow users to submit abstracts."
+#~ msgstr ""
+#~ "Pelo menos um evento deve ser criado para permitir que os usuários enviem "
+#~ "resumos."
+
+#~ msgid "Suggest"
+#~ msgstr "Sugestão"
+
+#~ msgid "features"
+#~ msgstr "características"
+
+#~ msgid "Like us"
+#~ msgstr "Curtir"
+
+#~ msgid "on Facebook"
+#~ msgstr "no Facebook"
+
+#~ msgid "Summary"
+#~ msgstr "Resumo"
+
+#~ msgid "Request Customization"
+#~ msgstr "Solicitar personalização"
+
+#~ msgid "hosted by"
+#~ msgstr "organizado por"
+
+#~ msgid "Review Alert"
+#~ msgstr "Alerta de revisão"
+
+#~ msgid "Approved"
+#~ msgstr "Aprovado"
+
+#~ msgid "ABSTRACTS BY STATUS"
+#~ msgstr "RESUMOS POR STATUS"
+
+#~ msgid "STATUS"
+#~ msgstr "STATUS"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "ENVIADO"
+
+#~ msgid "REVIEWS BY RELEVANCE"
+#~ msgstr "AVALIAÇÕES POR RELEVÂNCIA"
+
+#~ msgid "RELEVANCE"
+#~ msgstr "RELEVANCIA"
+
+#~ msgid "Abstracts - Export by status"
+#~ msgstr "Resumos - Exportar por status"
+
+#~ msgid "Export CSV"
+#~ msgstr "Exportar CSV"
+
+#~ msgid "Reviews - Export by relevance"
+#~ msgstr "Avaliações - Exportar por relevância"
+
+#~ msgid "Reviews for Abstract ID"
+#~ msgstr "Avaliações por ID do resumo"
+
+#~ msgid "Settings saved"
+#~ msgstr "Configurações salvas"
+
+#~ msgid "Email Admin on Submission"
+#~ msgstr "Enviar email ao admin na submissão"
+
+#~ msgid ""
+#~ "Enable this to send an email to the site admin on submission of a new "
+#~ "abstract."
+#~ msgstr ""
+#~ "Ativar isso para enviar um e-mail para o administrador do site no envio "
+#~ "de um novo resumo."
+
+#~ msgid "Email Author on Submission"
+#~ msgstr "Enviar email ao autor na submissão"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when they submit an abstract "
+#~ "(email is sent to Author's email)."
+#~ msgstr ""
+#~ "Ative esta opção para enviar um email aos autores quando enviarem um "
+#~ "resumo (o email é enviado para o email do autor)."
+
+#~ msgid "Email Author on Status Change"
+#~ msgstr "Enviar email ao autor ao alterar status"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when their abstracts has been "
+#~ "approved or rejected (email is sent to submitter's email only)."
+#~ msgstr ""
+#~ "Ative esta opção para enviar um e-mail aos autores quando seus resumos "
+#~ "tiverem sido aprovados ou rejeitados (o e-mail é enviado apenas para o e-"
+#~ "mail do remetente)."
+
+#~ msgid "Email Author on Review Submission"
+#~ msgstr "Enviar email ao autor na submissão da revisão"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when their abstracts has been "
+#~ "reviewed (email is sent to submitter's email only)."
+#~ msgstr ""
+#~ "Ative esta opção para enviar um e-mail aos autores quando seus resumos "
+#~ "tiverem sido revisados (o e-mail é enviado apenas para o e-mail do "
+#~ "remetente)."
+
+#~ msgid "Recent Abstracts"
+#~ msgstr "Resumos Recentes"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Analytics"
+#~ msgstr "Análise"
+
+#~ msgid "Total Abstracts"
+#~ msgstr "Resumos Totais"
+
+#~ msgid "Recent Reviews"
+#~ msgstr "Avaliações Recentes"
+
+#~ msgid "Suggested Status"
+#~ msgstr "Status Sugerido"
+
+#~ msgid "the plugin 5 stars on WordPress.org."
+#~ msgstr "o plugin 5 Estrelas no Wordpress.org."
+
+#~ msgid "Recent Attachments"
+#~ msgstr "Anexos Recentes"

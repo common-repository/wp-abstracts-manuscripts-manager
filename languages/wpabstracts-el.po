@@ -1,0 +1,2339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-07 11:52-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../abstracts/abstracts.add.php:8
+msgid "Abstract submission for this event has past"
+msgstr "Αυτό το γεγονός δημοσιεύτηκε"
+
+#: ../abstracts/abstracts.add.php:12
+msgid "You have reached the maximum amount of submissions allowed per user."
+msgstr "Έχετε φτάσει στο μέγιστο επιτρεπόμενο αριθμό υποβολών ανά χρήστη."
+
+#: ../abstracts/abstracts.add.php:18 ../dashboard/wpabstracts.dashboard.php:86
+#: ../dashboard/wpabstracts.dashboard.php:90
+msgid "New Abstract"
+msgstr "Νέα Περίληψη"
+
+#: ../abstracts/abstracts.add.php:19 ../abstracts/abstracts.edit.php:16
+#: ../emails/emails.add.php:4 ../emails/emails.edit.php:4
+#: ../events/events.add.php:11 ../events/events.edit.php:11
+#: ../users/users.profile.php:38
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: ../abstracts/abstracts.add.php:26 ../abstracts/abstracts.edit.php:23
+#: ../abstracts/abstracts.view.php:9
+msgid "Abstract Information"
+msgstr "Αφηρημένη πληροφορίες"
+
+#: ../abstracts/abstracts.add.php:30
+msgid "Enter Title"
+msgstr "Τίτλος"
+
+#: ../abstracts/abstracts.add.php:42 ../abstracts/abstracts.edit.php:40
+#, php-format
+msgid "Words Used: %s"
+msgstr "Λέξεις που χρησιμοποιούνται: %s"
+
+#: ../abstracts/abstracts.add.php:43 ../abstracts/abstracts.edit.php:41
+#, php-format
+msgid "Words Remaining: %s"
+msgstr "Λέξεις που απομένει: %s"
+
+#: ../abstracts/abstracts.add.php:51 ../abstracts/abstracts.view.php:23
+#: ../inc/wpabstracts_downloads.php:90 ../inc/wpabstracts_functions.php:1119
+#: ../wpabstracts.php:385 ../wpabstracts.php:395 ../wpabstracts.php:714
+msgid "Keywords"
+msgstr "Λέξεις-Κλειδιά"
+
+#: ../abstracts/abstracts.add.php:52 ../abstracts/abstracts.edit.php:49
+msgid "Enter comma separated keywords"
+msgstr "Λίστα χωρισμένη με κόμματα με τις λέξεις κλειδιά της δομής"
+
+#: ../abstracts/abstracts.add.php:61 ../abstracts/abstracts.attachments.php:32
+#: ../abstracts/abstracts.edit.php:237
+#: ../dashboard/wpabstracts.dashboard.php:139 ../wpabstracts.abstracts.php:30
+#: ../wpabstracts.php:382 ../wpabstracts.php:404 ../wpabstracts.php:711
+msgid "Attachments"
+msgstr "Συνημμένα"
+
+#: ../abstracts/abstracts.add.php:67 ../abstracts/abstracts.edit.php:245
+msgid "Use this form to upload your images, photos or tables."
+msgstr ""
+"Χρησιμοποιήστε την φόρμα για να ανεβάσετε εικόνες, φωτογραφίες ή πίνακες."
+
+#: ../abstracts/abstracts.add.php:68 ../abstracts/abstracts.edit.php:246
+msgid "Supported formats"
+msgstr "Επιτρεπόμενοι τύποι αρχείων"
+
+#: ../abstracts/abstracts.add.php:69 ../abstracts/abstracts.edit.php:247
+msgid "Maximum attachment size"
+msgstr "Μέγιστο μέγεθος συνημμένου"
+
+#: ../abstracts/abstracts.add.php:89 ../abstracts/abstracts.settings.php:504
+msgid "Terms and Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+#: ../abstracts/abstracts.add.php:106 ../abstracts/abstracts.edit.php:108
+#: ../abstracts/abstracts.view.php:54 ../events/events.add.php:19
+#: ../events/events.edit.php:18 ../events/events.edit.php:32
+msgid "Event Information"
+msgstr "Πληροφορίες συνεδρίου"
+
+#: ../abstracts/abstracts.add.php:114 ../abstracts/abstracts.add.php:131
+#: ../abstracts/abstracts.edit.php:115 ../abstracts/abstracts.view.php:60
+#: ../inc/wpabstracts_classes.php:61 ../inc/wpabstracts_functions.php:1100
+#: ../wpabstracts.php:375 ../wpabstracts.php:393 ../wpabstracts.php:704
+msgid "Event"
+msgstr "Συνέδριο"
+
+#: ../abstracts/abstracts.add.php:116 ../abstracts/abstracts.edit.php:117
+msgid "Select an Event"
+msgstr "Επιλέξτε συνέδριο"
+
+#: ../abstracts/abstracts.add.php:123 ../abstracts/abstracts.add.php:136
+#: ../abstracts/abstracts.edit.php:130 ../abstracts/abstracts.view.php:64
+#: ../inc/wpabstracts_classes.php:62 ../inc/wpabstracts_downloads.php:89
+#: ../inc/wpabstracts_functions.php:1103 ../wpabstracts.php:376
+#: ../wpabstracts.php:394 ../wpabstracts.php:705
+msgid "Topic"
+msgstr "Θέμα"
+
+#: ../abstracts/abstracts.add.php:125 ../abstracts/abstracts.add.php:138
+#: ../abstracts/abstracts.edit.php:132
+msgid "Select a Topic"
+msgstr "Επιλέξτε θεματολογία"
+
+#: ../abstracts/abstracts.add.php:154 ../abstracts/abstracts.edit.php:151
+#: ../abstracts/abstracts.view.php:80
+msgid "Author Information"
+msgstr "Σχετικά με τον συγγραφέα"
+
+#: ../abstracts/abstracts.add.php:163 ../abstracts/abstracts.edit.php:167
+#: ../inc/wpabstracts_downloads.php:92 ../wpabstracts.php:396
+msgid "Author Name"
+msgstr "Όνομα Συγγραφέα"
+
+#: ../abstracts/abstracts.add.php:166 ../abstracts/abstracts.edit.php:170
+#: ../inc/wpabstracts_downloads.php:93
+msgid "Author Email"
+msgstr "Εmail συγγραφέα"
+
+#: ../abstracts/abstracts.add.php:169 ../abstracts/abstracts.edit.php:173
+#: ../inc/wpabstracts_downloads.php:94 ../wpabstracts.php:397
+msgid "Author Affiliation"
+msgstr "Συγγραφέας ασφάλισης"
+
+#: ../abstracts/abstracts.add.php:184 ../abstracts/abstracts.edit.php:193
+#: ../abstracts/abstracts.view.php:122
+msgid "Presenter Information"
+msgstr "Πληροφορίες σχετικά με τον ομιλητή"
+
+#: ../abstracts/abstracts.add.php:190 ../abstracts/abstracts.edit.php:207
+#: ../abstracts/abstracts.view.php:95 ../abstracts/abstracts.view.php:136
+#: ../inc/wpabstracts_emailer.php:68 ../inc/wpabstracts_emailer.php:90
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../abstracts/abstracts.add.php:195 ../abstracts/abstracts.edit.php:212
+#: ../abstracts/abstracts.view.php:99 ../abstracts/abstracts.view.php:140
+#: ../inc/wpabstracts_emailer.php:69 ../inc/wpabstracts_emailer.php:91
+#: ../users/users.formbuilder.php:178 ../users/users.register.html.php:190
+msgid "Email"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../abstracts/abstracts.add.php:200 ../abstracts/abstracts.edit.php:217
+#: ../abstracts/abstracts.view.php:144 ../inc/wpabstracts_downloads.php:97
+#: ../inc/wpabstracts_functions.php:1109
+msgid "Presenter Preference"
+msgstr "Προτίμηση ομιλητή"
+
+#: ../abstracts/abstracts.add.php:202
+msgid "Select Preference"
+msgstr "Επιλέξτε προτίμηση"
+
+#: ../abstracts/abstracts.classes.php:33
+#: ../dashboard/wpabstracts.dashboard.php:174
+msgid "View"
+msgstr "Προβολή"
+
+#: ../abstracts/abstracts.classes.php:34
+#: ../dashboard/wpabstracts.dashboard.php:169 ../emails/emails.classes.php:23
+#: ../inc/wpabstracts_classes.php:168
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../abstracts/abstracts.classes.php:35 ../abstracts/abstracts.classes.php:150
+#: ../abstracts/abstracts.manage.php:188 ../wpabstracts.php:782
+msgid "Change Status"
+msgstr "Αλλαγή Κατάστασης"
+
+#: ../abstracts/abstracts.classes.php:36 ../abstracts/abstracts.classes.php:149
+msgid "Assign Reviewer"
+msgstr "Ανάθεση σε αξιολογητή"
+
+#: ../abstracts/abstracts.classes.php:37 ../wpabstracts.php:48
+#: ../wpabstracts.php:193
+msgid "Reviews"
+msgstr "Αξιολογήσεις"
+
+#: ../abstracts/abstracts.classes.php:38
+msgid "Export PDF"
+msgstr "Εξαγωγή PDF"
+
+#: ../abstracts/abstracts.classes.php:39 ../abstracts/abstracts.classes.php:151
+#: ../dashboard/wpabstracts.dashboard.php:170 ../emails/emails.classes.php:24
+#: ../emails/emails.classes.php:79 ../emails/emails.classes.php:160
+#: ../inc/wpabstracts_classes.php:28 ../inc/wpabstracts_classes.php:83
+#: ../inc/wpabstracts_classes.php:169 ../users/users.classes.php:33
+#: ../users/users.classes.php:112
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../abstracts/abstracts.classes.php:49
+msgid "Event Not Found"
+msgstr "Το Συμβάν δεν βρέθηκε"
+
+#: ../abstracts/abstracts.classes.php:79
+msgid "Not Assigned"
+msgstr "Δεν έχει ανατεθεί"
+
+#: ../abstracts/abstracts.classes.php:110 ../abstracts/abstracts.edit.php:93
+msgid "User not found"
+msgstr "Δεν βρέθηκε ο χρήστης"
+
+#: ../abstracts/abstracts.classes.php:162
+msgid "Filter by Status"
+msgstr "Φίλτρο κατάστασης:"
+
+#: ../abstracts/abstracts.classes.php:164
+#: ../abstracts/abstracts.classes.php:179
+msgid "All"
+msgstr "Όλα τα πεδία είναι υποχρεωτικά"
+
+#: ../abstracts/abstracts.classes.php:177
+msgid "Filter by Preference"
+msgstr "Φιλτράρισμα κατά προτίμηση"
+
+#: ../abstracts/abstracts.display.php:22
+msgid "by"
+msgstr "από"
+
+#: ../abstracts/abstracts.display.php:30
+msgid "Nothing to display"
+msgstr "Δεν υπάρχει τίποτα να εμφανίσετε"
+
+#: ../abstracts/abstracts.edit.php:9
+msgid "You are not allowed to edit this submission at this time."
+msgstr "Δεν επιτρέπεται η επεξεργασία αυτής της υποβολής αυτή τη στιγμή."
+
+#: ../abstracts/abstracts.edit.php:15
+msgid "Edit Abstract"
+msgstr "Επεξεργασία περίληψης"
+
+#: ../abstracts/abstracts.edit.php:27
+msgid "Enter title"
+msgstr "Τίτλος"
+
+#: ../abstracts/abstracts.edit.php:57 ../abstracts/abstracts.view.php:31
+msgid "Manage Attachments"
+msgstr "Διαχείριση συνημμένων"
+
+#: ../abstracts/abstracts.edit.php:62 ../abstracts/abstracts.view.php:36
+msgid "No Attachments uploaded"
+msgstr "Δεν περιέχει συνημμένα"
+
+#: ../abstracts/abstracts.edit.php:68
+msgid "Remove"
+msgstr "Κατάργηση "
+
+#: ../abstracts/abstracts.edit.php:78
+msgid "Manage Ownership"
+msgstr "Αλλαγή δημιουργού"
+
+#: ../abstracts/abstracts.edit.php:81
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr "Χρησιμοποιήστε αυτό το "
+
+#: ../abstracts/abstracts.edit.php:249
+msgid "You have used all your attachment slots allowed."
+msgstr "Έχετε χρησιμοποιήσει όλες τις υποδοχές σας συνημμένο επιτρέπεται."
+
+#: ../abstracts/abstracts.manage.php:78 ../abstracts/abstracts.manage.php:88
+#: ../emails/emails.templates.php:100 ../events/events.manage.php:142
+msgid "Could not locate this resource. Please try again."
+msgstr ""
+"Δεν μας μπόρεσε να εκτελέσει την αναζήτηση αυτή τη στιγμή. Παρακαλούμε "
+"δοκιμάστε ξανά αργότερα."
+
+#: ../abstracts/abstracts.manage.php:164
+msgid "This and more reviewing features are available in the WPAbstracts Pro."
+msgstr ""
+"Αυτό και άλλα χαρακτηριστικά αξιολόγησης είναι διαθέσιμα στο  WPAbstracts "
+"Pro."
+
+#: ../abstracts/abstracts.manage.php:192
+msgid "Select a status"
+msgstr "Επιλέξτε μια κατάσταση"
+
+#: ../abstracts/abstracts.manage.php:244
+msgid "The selected Abstracts were successfully deleted."
+msgstr "Διαγράφηκαν με επιτυχία τις επιλεγμένες περιλήψεις."
+
+#: ../abstracts/abstracts.manage.php:251 ../inc/wpabstracts_downloads.php:122
+#: ../wpabstracts.php:47 ../wpabstracts.php:192
+msgid "Abstracts"
+msgstr "Περιλήψεις"
+
+#: ../abstracts/abstracts.manage.php:251 ../emails/emails.templates.php:107
+#: ../events/events.manage.php:200
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84 ../wpabstracts.abstracts.php:31
+#: ../wpabstracts.events.php:29 ../wpabstracts.users.php:28
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: ../abstracts/abstracts.settings.php:132
+msgid "Abstracts Configuration"
+msgstr "Ρύθμιση παραμέτρων περιλήψεις"
+
+#: ../abstracts/abstracts.settings.php:137
+msgid "Show Abstract Description"
+msgstr "Εμφάνιση αφηρημένη Περιγραφή"
+
+#: ../abstracts/abstracts.settings.php:138
+msgid ""
+"Use this setting to hide the decription area completely from the submission "
+"page."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να αποκρύψετε πλήρως την περιοχή "
+"περιγραφής από τη σελίδα υποβολής."
+
+#: ../abstracts/abstracts.settings.php:141
+#: ../abstracts/abstracts.settings.php:152
+#: ../abstracts/abstracts.settings.php:163
+#: ../abstracts/abstracts.settings.php:174
+#: ../abstracts/abstracts.settings.php:185
+#: ../abstracts/abstracts.settings.php:196
+#: ../abstracts/abstracts.settings.php:207
+#: ../abstracts/abstracts.settings.php:218
+#: ../abstracts/abstracts.settings.php:292
+#: ../abstracts/abstracts.settings.php:367 ../emails/emails.add.php:78
+#: ../emails/emails.classes.php:54 ../emails/emails.edit.php:67
+#: ../events/events.settings.php:37 ../events/events.settings.php:48
+#: ../events/events.settings.php:59 ../events/events.settings.php:70
+#: ../events/events.settings.php:81 ../users/users.settings.php:105
+#: ../users/users.settings.php:116 ../users/users.settings.php:127
+#: ../users/users.settings.php:138 ../users/users.settings.php:151
+#: ../users/users.settings.php:223 ../users/users.settings.php:234
+#: ../users/users.settings.php:245 ../users/users.settings.php:256
+msgid "Yes"
+msgstr "Ναι"
+
+#: ../abstracts/abstracts.settings.php:142
+#: ../abstracts/abstracts.settings.php:153
+#: ../abstracts/abstracts.settings.php:164
+#: ../abstracts/abstracts.settings.php:175
+#: ../abstracts/abstracts.settings.php:186
+#: ../abstracts/abstracts.settings.php:197
+#: ../abstracts/abstracts.settings.php:208
+#: ../abstracts/abstracts.settings.php:219
+#: ../abstracts/abstracts.settings.php:293
+#: ../abstracts/abstracts.settings.php:368 ../emails/emails.add.php:79
+#: ../emails/emails.edit.php:68 ../events/events.settings.php:38
+#: ../events/events.settings.php:49 ../events/events.settings.php:60
+#: ../events/events.settings.php:71 ../events/events.settings.php:82
+#: ../users/users.settings.php:106 ../users/users.settings.php:117
+#: ../users/users.settings.php:128 ../users/users.settings.php:139
+#: ../users/users.settings.php:152 ../users/users.settings.php:224
+#: ../users/users.settings.php:235 ../users/users.settings.php:246
+#: ../users/users.settings.php:257
+msgid "No"
+msgstr "Όχι"
+
+#: ../abstracts/abstracts.settings.php:147
+msgid "Allow Editor Media"
+msgstr "Δυνατότητα επεξεργασίας μέσα"
+
+#: ../abstracts/abstracts.settings.php:148
+msgid ""
+"Use this setting to hide or show the Add Media button on the submission text "
+"editor."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να αποκρύψετε ή να εμφανίσετε το κουμπί "
+"Προσθήκη Media σχετικά με την υποβολή κειμένου πρόγραμμα επεξεργασίας."
+
+#: ../abstracts/abstracts.settings.php:158
+msgid "Show Author Fields"
+msgstr "Εμφάνιση πεδίων συγγραφέας"
+
+#: ../abstracts/abstracts.settings.php:159
+msgid ""
+"Use this setting to hide the author area completely from the submission page."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να αποκρύψετε την περιοχή συγγραφέα "
+"εντελώς από τη σελίδα υποβολής."
+
+#: ../abstracts/abstracts.settings.php:169
+msgid "Show Attachment Uploads"
+msgstr "Εμφάνιση συνημμένο μεταφορτώσεις"
+
+#: ../abstracts/abstracts.settings.php:170
+msgid ""
+"Use this setting to hide the attachment area completely from the submission "
+"page."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να αποκρύψετε την περιοχή συνημμένο "
+"εντελώς από τη σελίδα υποβολής."
+
+#: ../abstracts/abstracts.settings.php:180
+msgid "Make Attachment Required"
+msgstr "Απαιτείται συνημμένο"
+
+#: ../abstracts/abstracts.settings.php:181
+msgid "Use this setting to make attachments required or optional."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να κάνετε τα συνημμένα απαιτούμενα ή "
+"προαιρετικά."
+
+#: ../abstracts/abstracts.settings.php:191
+msgid "Show Presenter Fields"
+msgstr "Εμφάνιση πεδίων παρουσιαστή"
+
+#: ../abstracts/abstracts.settings.php:192
+msgid ""
+"Use this setting to hide the presenter area completely from the submission "
+"and edit pages."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να αποκρύψετε την περιοχή παρουσιάστρια "
+"εντελώς από την υποβολή και επεξεργασία σελίδων."
+
+#: ../abstracts/abstracts.settings.php:202
+msgid "Show Abstract Keywords"
+msgstr "Εμφάνιση αφηρημένες λέξεις-κλειδιά"
+
+#: ../abstracts/abstracts.settings.php:203
+msgid ""
+"Enable this to display the keywords input on the submission page. Enabling "
+"this makes keywords required."
+msgstr ""
+"Ενεργοποίηση αυτό για να εμφανίσετε τις λέξεις-κλειδιά εισόδου στη υποβολή "
+"σελίδα. Η ενεργοποίηση αυτή κάνει απαιτούμενες λέξεις-κλειδιά."
+
+#: ../abstracts/abstracts.settings.php:213
+msgid "Show Terms & Conditions"
+msgstr "ΟΡΟΥΣ ΧΡΗΣΗΣ"
+
+#: ../abstracts/abstracts.settings.php:214
+msgid ""
+"Enable this to display your terms and conditions on the submission page. "
+"Enabling this makes the checkbox required."
+msgstr ""
+"Ενεργοποίηση αυτό για να εμφανίσετε τους όρους και τις προϋποθέσεις σας στη "
+"σελίδα υποβολής. Η ενεργοποίηση αυτή κάνει το πλαίσιο ελέγχου απαιτείται."
+
+#: ../abstracts/abstracts.settings.php:224
+msgid "Maximum User Submissions"
+msgstr "Μέγιστες υποβολές χρηστών"
+
+#: ../abstracts/abstracts.settings.php:225
+msgid "Set the maximum submissions allowed per user."
+msgstr "Ορίστε τις μέγιστες επιτρεπόμενες υποβολές ανά χρήστη."
+
+#: ../abstracts/abstracts.settings.php:232
+msgid "Maximum Word Count"
+msgstr "Αρίθμηση του Word:%s"
+
+#: ../abstracts/abstracts.settings.php:233
+msgid "Maximum character count allowed in a submission."
+msgstr "Μέγιστο πλήθος χαρακτήρων σε μία περίληψη."
+
+#: ../abstracts/abstracts.settings.php:240
+msgid "Maximum Attachments"
+msgstr "Μέγιστη συνημμένα"
+
+#: ../abstracts/abstracts.settings.php:241
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "Για να ορίσετε το upload μέγιστος attachment επιτρέπεται ανά υποβολή."
+
+#: ../abstracts/abstracts.settings.php:248
+msgid "Maximum Attachment Size"
+msgstr "Μέγιστο μέγεθος συνημμένου"
+
+#: ../abstracts/abstracts.settings.php:249
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "Μέγιστο μέγεθος συνημμένου (σε bytes)."
+
+#: ../abstracts/abstracts.settings.php:256
+msgid "Permitted Attachments"
+msgstr "Επιτρέπονται συνημμένα"
+
+#: ../abstracts/abstracts.settings.php:257
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr "Επιτρεπόμενοι τύποι αρχείων (διαχωρίστε τους με κόμμα)."
+
+#: ../abstracts/abstracts.settings.php:264
+msgid "Set Presenter Preferences"
+msgstr "Σετ παρουσιαστής προτιμήσεις"
+
+#: ../abstracts/abstracts.settings.php:265
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+"Για να ορίσετε τους τύπους παρουσίασης που επιτρέπεται (διαχωρισμένα με "
+"κόμματα), Π.χ. Αφίσα, πίνακα, στρογγυλό τραπέζι"
+
+#: ../abstracts/abstracts.settings.php:278
+msgid "Admin Notification Recipients"
+msgstr "Παραλήπτες ειδοποίησης διαχειριστή"
+
+#: ../abstracts/abstracts.settings.php:279
+msgid "Enable or disable admin notications for admin users."
+msgstr "Ενεργοποίηση ή απενεργοποίηση notications admin για admin χρήστες."
+
+#: ../abstracts/abstracts.settings.php:309
+msgid "Abstract Status"
+msgstr "Κατάσταση περίληψης"
+
+#: ../abstracts/abstracts.settings.php:315
+msgid "Abstracts Status Description"
+msgstr "Περιγραφή της κατάστασης περιλήψεις"
+
+#: ../abstracts/abstracts.settings.php:316
+msgid "Describe the four statuses Abstracts may be in."
+msgstr "Περιγράψτε τις τέσσερις καταστάσεις αποσπάσματα μπορεί να είναι σε."
+
+#: ../abstracts/abstracts.settings.php:334
+msgid "Statuses that allow edits"
+msgstr "Καταστάσεις που επιτρέπουν αλλαγές"
+
+#: ../abstracts/abstracts.settings.php:335
+msgid ""
+"Select the statuses for when authors are allowed to edit their submission."
+msgstr ""
+"Επιλέξτε την κατάσταση όταν επιτρέπεται στους συντάκτες να επεξεργαστούν την "
+"υποβολή τους."
+
+#: ../abstracts/abstracts.settings.php:349
+msgid "Default Submission Status"
+msgstr "Προεπιλεγμένη κατάσταση υποβολής"
+
+#: ../abstracts/abstracts.settings.php:350
+msgid "Select the default status of newly submitted abstracts."
+msgstr ""
+"Επιλέξτε την προεπιλεγμένη κατάσταση των περιλήψεων που υποβλήθηκαν πρόσφατα."
+
+#: ../abstracts/abstracts.settings.php:362
+msgid "Sync Review Status to Abstracts"
+msgstr "Κατάσταση αναθεώρησης συγχρονισμού με τις περιλήψεις"
+
+#: ../abstracts/abstracts.settings.php:363
+msgid ""
+"Enable this to allow reviewer status selection to update the abstract "
+"status. This works best when one reviewer is assigned to the abstract. If "
+"more than one reviews are submitted the last one wins."
+msgstr ""
+"Ενεργοποίηση αυτή να επιτρέψει κριτής κατάσταση επιλογής να ενημερώσετε την "
+"αφηρημένη κατάσταση. Αυτό λειτουργεί καλύτερα όταν ένας κριτικός αποδίδεται "
+"στην αφηρημένη. Εάν περισσότερα από ένα σχόλια υποβάλλονται το τελευταίο που "
+"κερδίζει."
+
+#: ../abstracts/abstracts.settings.php:381 ../users/users.settings.php:267
+msgid "Admin Columns"
+msgstr "Admin στήλες"
+
+#: ../abstracts/abstracts.settings.php:382
+msgid "Select columns to display on manage abstracts tab."
+msgstr ""
+"Επιλέξτε στήλες που θα εμφανίζονται στην καρτέλα Διαχείριση περιλήψεων."
+
+#: ../abstracts/abstracts.settings.php:411
+msgid "Accepted Shortcode"
+msgstr "Αποδεκτός σύντομος κώδικας"
+
+#: ../abstracts/abstracts.settings.php:412
+msgid ""
+"Select the status and info to display on the details page when using the "
+"[wpabstracts_accepted] shortcode."
+msgstr ""
+"Επιλέξτε την κατάσταση και τις πληροφορίες που θα εμφανίζονται στη σελίδα "
+"λεπτομερειών όταν χρησιμοποιείτε τον σύντομο κώδικα [wpabstracts_accepted]."
+
+#: ../abstracts/abstracts.settings.php:437
+msgid "Shortcode Abstract Status"
+msgstr "Κατάσταση περίληψης σύντομου κώδικα"
+
+#: ../abstracts/abstracts.settings.php:438
+msgid "Select the status of the items to display when using the shortcode."
+msgstr ""
+"Επιλέξτε την κατάσταση των στοιχείων που θα εμφανίζονται κατά τη χρήση του "
+"σύντομου κώδικα."
+
+#: ../abstracts/abstracts.settings.php:455
+msgid "PDF Export Options"
+msgstr "Επιλογές εξαγωγής PDF"
+
+#: ../abstracts/abstracts.settings.php:456
+msgid "Select the info include when exporting abstracts to PDF."
+msgstr ""
+"Επιλέξτε τις πληροφορίες που περιλαμβάνουν κατά την εξαγωγή περιλήψεων σε "
+"PDF."
+
+#: ../abstracts/abstracts.settings.php:487
+msgid "Author Instructions"
+msgstr "Οδηγίες Συγγραφέων"
+
+#: ../abstracts/abstracts.settings.php:488
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr ""
+"Εισάγετε συγκεκριμένες οδηγίες για συγγραφείς να ακολουθήσει για την υποβολή"
+
+#: ../abstracts/abstracts.settings.php:505
+msgid "Enter your terms and contitions for authors to agree."
+msgstr "Εισάγετε το όροι και οι όροι για τους συγγραφείς να συμφωνήσουν."
+
+#: ../abstracts/abstracts.view.php:3
+msgid "View Abstract"
+msgstr "Προβολή περίληψης"
+
+#: ../abstracts/abstracts.view.php:13
+#: ../dashboard/wpabstracts.dashboard.php:132
+#: ../inc/wpabstracts_downloads.php:86 ../wpabstracts.php:391
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../abstracts/abstracts.view.php:18 ../inc/wpabstracts_downloads.php:87
+#: ../wpabstracts.php:392
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: ../abstracts/abstracts.view.php:103 ../inc/wpabstracts_emailer.php:70
+msgid "Affiliation"
+msgstr "Οργανισμός"
+
+#: ../dashboard/wpabstracts.dashboard.php:20
+msgid ""
+"You're logged in as an administrator, please use WordPress admin area to "
+"manage abstracts or use another browser to view your dashboard as author or "
+"reviewer."
+msgstr ""
+"Είστε συνδεδεμένοι ως διαχειριστής, παρακαλούμε να χρησιμοποιήσετε WordPress "
+"admin περιοχή να διαχειριστείτε περιλήψεις ή χρησιμοποιήστε κάποιον άλλο "
+"browser για να προβάλετε το ταμπλό του αυτοκινήτου σας ως συντάκτης ή "
+"αναθεωρητής."
+
+#: ../dashboard/wpabstracts.dashboard.php:26
+msgid "You do not have permissions to manage this resource."
+msgstr "Δεν έχετε δικαιώματα πρόσβασης σε αυτή τη σελίδα"
+
+#: ../dashboard/wpabstracts.dashboard.php:62
+msgid ""
+"Your account is not setup to view this dashboard. Please contact your site "
+"admin."
+msgstr ""
+"Λογαριασμό σας δεν έχει ρυθμιστεί για να δείτε αυτόν τον πίνακα εργαλείων. "
+"Επικοινωνήστε με τον διαχειριστή του site."
+
+#: ../dashboard/wpabstracts.dashboard.php:69
+msgid "Welcome back"
+msgstr "Καλωσήρθατε "
+
+#: ../dashboard/wpabstracts.dashboard.php:79 ../users/users.login.php:11
+msgid "Dashboard"
+msgstr "Πίνακας ελέγχου"
+
+#: ../dashboard/wpabstracts.dashboard.php:99
+msgid "My Profile"
+msgstr "Περιλήψεις"
+
+#: ../dashboard/wpabstracts.dashboard.php:104 ../users/users.login.php:12
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: ../dashboard/wpabstracts.dashboard.php:123
+msgid "My Abstracts"
+msgstr "Περιλήψεις"
+
+#: ../dashboard/wpabstracts.dashboard.php:131 ../wpabstracts.php:390
+msgid "ID"
+msgstr "ID"
+
+#: ../dashboard/wpabstracts.dashboard.php:134
+msgid "Review"
+msgstr "Αξιολόγηση"
+
+#: ../dashboard/wpabstracts.dashboard.php:136 ../emails/emails.add.php:104
+#: ../emails/emails.classes.php:44 ../emails/emails.edit.php:93
+#: ../events/events.add.php:37 ../events/events.edit.php:36
+#: ../inc/wpabstracts_classes.php:225 ../inc/wpabstracts_downloads.php:91
+#: ../inc/wpabstracts_downloads.php:139 ../inc/wpabstracts_functions.php:1113
+#: ../wpabstracts.php:379 ../wpabstracts.php:400 ../wpabstracts.php:708
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: ../dashboard/wpabstracts.dashboard.php:137 ../inc/wpabstracts_emailer.php:92
+#: ../wpabstracts.php:378 ../wpabstracts.php:707
+msgid "Preference"
+msgstr "Προτίμηση"
+
+#: ../dashboard/wpabstracts.dashboard.php:138
+msgid "Submit Date"
+msgstr "Υποβάλουν ημερομηνία"
+
+#: ../dashboard/wpabstracts.dashboard.php:140
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: ../dashboard/wpabstracts.dashboard.php:147
+msgid "You have NOT submitted any abstracts."
+msgstr "Δεν έχετε υποβάλλει κάποια περίληψη"
+
+#: ../dashboard/wpabstracts.dashboard.php:160
+msgid "No reviews as yet."
+msgstr "Δεν υπάρχουν κριτικές"
+
+#: ../emails/emails.add.php:3
+msgid "New Template"
+msgstr "Νέο πρότυπο"
+
+#: ../emails/emails.add.php:11 ../emails/emails.edit.php:11
+msgid "Template Information"
+msgstr "Πληροφορίες προτύπου"
+
+#: ../emails/emails.add.php:15 ../emails/emails.edit.php:15
+msgid "Template Name"
+msgstr "Επώνυμο"
+
+#: ../emails/emails.add.php:21 ../emails/emails.classes.php:63
+#: ../emails/emails.edit.php:21 ../users/users.settings.php:327
+msgid "From Name"
+msgstr "Όνομα"
+
+#: ../emails/emails.add.php:27 ../emails/emails.classes.php:64
+#: ../emails/emails.edit.php:27 ../users/users.settings.php:335
+msgid "From Email"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../emails/emails.add.php:33 ../emails/emails.edit.php:33
+#: ../users/users.settings.php:343
+msgid "Email Subject"
+msgstr "Εmail συγγραφέα"
+
+#: ../emails/emails.add.php:39 ../emails/emails.edit.php:39
+msgid "Email Body"
+msgstr "Ηλ. διεύθυνση"
+
+#: ../emails/emails.add.php:60 ../emails/emails.edit.php:49
+msgid "Include Submission as Attachment"
+msgstr "Συμπερίληψη υποβολής ως συνημμένου"
+
+#: ../emails/emails.add.php:69 ../emails/emails.edit.php:58
+msgid "Template Settings"
+msgstr "Ρυθμίσεις προτύπου"
+
+#: ../emails/emails.add.php:73 ../emails/emails.classes.php:67
+#: ../emails/emails.edit.php:62 ../events/events.add.php:39
+#: ../events/events.edit.php:38
+msgid "Active"
+msgstr "Ενεργοποίηση "
+
+#: ../emails/emails.add.php:74 ../emails/emails.edit.php:63
+msgid "Use this setting to enable or disable this email template."
+msgstr ""
+"Χρησιμοποιήστε αυτήν τη ρύθμιση για να ενεργοποιήσετε ή να απενεργοποιήσετε "
+"αυτό το πρότυπο ηλεκτρονικού ταχυδρομείου."
+
+#: ../emails/emails.add.php:83 ../emails/emails.classes.php:66
+#: ../emails/emails.edit.php:72
+msgid "Receiver"
+msgstr "Παραλήπτης"
+
+#: ../emails/emails.add.php:84 ../emails/emails.edit.php:73
+msgid "Select the receiver for this email notification (Author or Admin)."
+msgstr ""
+"Επιλέξτε τον παραλήπτη για αυτήν την ειδοποίηση ηλεκτρονικού ταχυδρομείου "
+"(Συντάκτης ή Διαχειριστής)."
+
+#: ../emails/emails.add.php:88 ../emails/emails.classes.php:49
+#: ../emails/emails.edit.php:77 ../inc/wpabstracts_classes.php:63
+#: ../wpabstracts.php:377 ../wpabstracts.php:706
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: ../emails/emails.add.php:89 ../emails/emails.classes.php:51
+#: ../emails/emails.edit.php:78
+msgid "Admin"
+msgstr "Διαχειριστής"
+
+#: ../emails/emails.add.php:93 ../emails/emails.classes.php:65
+#: ../emails/emails.edit.php:82
+msgid "Trigger"
+msgstr "Ενεργοποίηση"
+
+#: ../emails/emails.add.php:94
+msgid "Selection the abstract action that triggers this email notification."
+msgstr ""
+"Επιλέξτε την αφηρημένη ενέργεια που ενεργοποιεί αυτήν την ειδοποίηση "
+"ηλεκτρονικού ταχυδρομείου."
+
+#: ../emails/emails.add.php:98 ../emails/emails.classes.php:42
+#: ../emails/emails.edit.php:87
+msgid "Submission"
+msgstr "Υποβολή"
+
+#: ../emails/emails.add.php:99 ../emails/emails.classes.php:43
+#: ../emails/emails.edit.php:88
+msgid "Revision"
+msgstr "Αναθεώρηση"
+
+#: ../emails/emails.add.php:100 ../emails/emails.edit.php:89
+msgid "Status Change"
+msgstr "Αλλαγή κατάστασης"
+
+#: ../emails/emails.add.php:105 ../emails/emails.edit.php:94
+msgid "Select the abstract status that triggers this email notification."
+msgstr ""
+"Επιλέξτε την κατάσταση περίληψης που ενεργοποιεί αυτήν την ειδοποίηση "
+"ηλεκτρονικού ταχυδρομείου."
+
+#: ../emails/emails.add.php:120 ../emails/emails.edit.php:109
+#: ../users/users.settings.php:360
+msgid "Available Shortcodes"
+msgstr "Διαθέσιμα shortcodes:"
+
+#: ../emails/emails.classes.php:50
+msgid "Reviewer"
+msgstr "Αξιολογητής"
+
+#: ../emails/emails.classes.php:61
+msgid "Email Template"
+msgstr "Ενημέρωση περίληψης"
+
+#: ../emails/emails.classes.php:62 ../emails/emails.classes.php:142
+msgid "Subject"
+msgstr "Θέμα"
+
+#: ../emails/emails.classes.php:141
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+#: ../emails/emails.classes.php:143
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: ../emails/emails.classes.php:144
+msgid "Sent"
+msgstr "Αποστολή"
+
+#: ../emails/emails.classes.php:150
+msgid "View Email"
+msgstr "Προβολή Email"
+
+#: ../emails/emails.classes.php:170
+msgid "Successfully deleted selected logs."
+msgstr "Διαγράφηκαν με επιτυχία τις επιλεγμένες περιλήψεις."
+
+#: ../emails/emails.edit.php:3
+msgid "Edit Template"
+msgstr "Επεξεργασία Προτύπου"
+
+#: ../emails/emails.edit.php:83
+msgid "Select the abstract action that triggers this email notification."
+msgstr ""
+"Επιλέξτε την αφηρημένη ενέργεια που ενεργοποιεί αυτήν την ειδοποίηση μέσω "
+"ηλεκτρονικού ταχυδρομείου."
+
+#: ../emails/emails.templates.php:107
+msgid "Email Templates"
+msgstr "Πρότυπα ηλεκτρονικού ταχυδρομείου"
+
+#: ../events/events.add.php:10
+msgid "New Event"
+msgstr "Νέο Συμβάν"
+
+#: ../events/events.add.php:22
+msgid "Event Title"
+msgstr "Τίτλος"
+
+#: ../events/events.add.php:33
+msgid "Event Details"
+msgstr "Πληροφορίες για την εκδήλωση/γεγονός"
+
+#: ../events/events.add.php:42 ../events/events.edit.php:42
+#: ../inc/wpabstracts_classes.php:226
+msgid "Host"
+msgstr "Διοργανωτής"
+
+#: ../events/events.add.php:45 ../events/events.edit.php:45
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: ../events/events.add.php:48 ../events/events.edit.php:48
+#: ../inc/wpabstracts_classes.php:228
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+
+#: ../events/events.add.php:51 ../events/events.edit.php:51
+#: ../inc/wpabstracts_classes.php:229
+msgid "End Date"
+msgstr "Ημερομηνία λήξης"
+
+#: ../events/events.add.php:54 ../events/events.edit.php:54
+#: ../inc/wpabstracts_classes.php:230
+msgid "Deadline"
+msgstr "προθεσμία"
+
+#: ../events/events.add.php:61 ../events/events.edit.php:61
+#: ../inc/wpabstracts_classes.php:227
+msgid "Topics"
+msgstr "Θεματολογία"
+
+#: ../events/events.add.php:68 ../events/events.edit.php:71
+msgid "add topic"
+msgstr "προσθήκη θέματος"
+
+#: ../events/events.add.php:69 ../events/events.edit.php:72
+msgid "delete topic"
+msgstr "διαγραφή θέματος"
+
+#: ../events/events.edit.php:10
+msgid "Edit Event"
+msgstr "Επεξεργασία"
+
+#: ../events/events.edit.php:21
+msgid "Event title"
+msgstr "Τίτλος Συμβάντος"
+
+#: ../events/events.edit.php:39
+msgid "Archived"
+msgstr "Αρχειοθετήθηκε"
+
+#: ../events/events.manage.php:193
+msgid "Error!"
+msgstr "Σφάλμα!"
+
+#: ../events/events.manage.php:200 ../wpabstracts.php:46 ../wpabstracts.php:191
+msgid "Events"
+msgstr "Συνέδρια"
+
+#: ../events/events.settings.php:14
+msgid "Awesome! Your settings were updated."
+msgstr "Τρομερό! Οι ρυθμίσεις σας ενημερώθηκαν."
+
+#: ../events/events.settings.php:26
+msgid "Frontend Dashboard Configuration"
+msgstr "Διαμόρφωση ταμπλό frontend"
+
+#: ../events/events.settings.php:32
+msgid "Enable WP Abstracts Registration"
+msgstr "Ενεργοποίηση εγγραφής περιλήψεις WP"
+
+#: ../events/events.settings.php:33
+msgid ""
+"Use WP Abstracts User registration module instead of WordPress's default "
+"registration."
+msgstr ""
+"Χρησιμοποιήστε την ενότητα εγγραφής χρήστη WP Abstracts αντί για την "
+"προεπιλεγμένη καταχώριση του WordPress."
+
+#: ../events/events.settings.php:43
+msgid "Allow WordPress Admin Access"
+msgstr "Να επιτρέπεται η πρόσβαση διαχειριστή WordPress"
+
+#: ../events/events.settings.php:44
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+"Αποκλείει την πρόσβαση χρηστών στο διαχειριστικές σελίδες. Ενεργοποιήστε το "
+"αν θέλετε να επιτρέπετε μόνο πρόσβαση στο frontend."
+
+#: ../events/events.settings.php:54
+msgid "Show WordPress Admin Bar"
+msgstr "Εμφάνιση γραμμής διαχείρισης WordPress"
+
+#: ../events/events.settings.php:55
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr ""
+"Δεν εμφανίζει την μπάρα διαχείρισης του ιστοτόπου σε συνδεδεμένους χρήστες."
+
+#: ../events/events.settings.php:65
+msgid "Enable Captcha (recommended)"
+msgstr "Ενεργοποίηση Captcha (συνιστάται)"
+
+#: ../events/events.settings.php:66
+msgid "Enable this to require users to enter a captcha code at login."
+msgstr ""
+"Ενεργοποίηση αυτό να απαιτείται από τους χρήστες να εισαγάγετε έναν κωδικό "
+"captcha κατά τη σύνδεση."
+
+#: ../events/events.settings.php:76
+msgid "Redirect on Login"
+msgstr "Ανακατεύθυνση σε σύνδεση"
+
+#: ../events/events.settings.php:77
+msgid "Enable this to redirect users to the dashboard on login from anywhere."
+msgstr ""
+"Ενεργοποιήστε αυτήν την επιλογή για να κάνετε ανακατεύθυνση χρηστών στον "
+"πίνακα ελέγχου με σύνδεση από οπουδήποτε."
+
+#: ../events/events.settings.php:87
+msgid "Refresh Captcha Secret (Optional)"
+msgstr "Ανανέωση Captcha μυστικό (προαιρετικά)"
+
+#: ../events/events.settings.php:88
+msgid "As as entra layer of security reset your captcha secret."
+msgstr "Ως ως εισάγετε επίπεδο ασφαλείας Επαναφορά σας μυστικό captcha."
+
+#: ../inc/wpabstracts_classes.php:27 ../inc/wpabstracts_classes.php:66
+#: ../inc/wpabstracts_classes.php:82
+msgid "Download"
+msgstr "Προβολή"
+
+#: ../inc/wpabstracts_classes.php:59
+msgid "Attachment Name"
+msgstr "Επισυναπτόμενο όνομα"
+
+#: ../inc/wpabstracts_classes.php:60 ../inc/wpabstracts_downloads.php:134
+msgid "Abstract Title"
+msgstr "Αφηρημένο τίτλο"
+
+#: ../inc/wpabstracts_classes.php:64
+msgid "File Type"
+msgstr "Τύπος αρχείου"
+
+#: ../inc/wpabstracts_classes.php:65
+msgid "File Size"
+msgstr "Μέγεθος αρχείου"
+
+#: ../inc/wpabstracts_classes.php:105 ../users/users.classes.php:150
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ../inc/wpabstracts_classes.php:112
+msgid "Download All"
+msgstr "ÎÎ®ÏÎ· ÏÎ»ÏÎ½"
+
+#: ../inc/wpabstracts_classes.php:172 ../inc/wpabstracts_classes.php:243
+msgid "Archive"
+msgstr "Αρχείο"
+
+#: ../inc/wpabstracts_classes.php:175 ../inc/wpabstracts_classes.php:244
+msgid "Unarchive"
+msgstr "Κατάργηση αρχειοθέτησης"
+
+#: ../inc/wpabstracts_classes.php:187
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#: ../inc/wpabstracts_classes.php:223 ../inc/wpabstracts_downloads.php:88
+msgid "Event Name"
+msgstr "Όνομα εκδήλωσης"
+
+#: ../inc/wpabstracts_classes.php:224
+msgid "Shortcode"
+msgstr "Σύντομος κώδικας"
+
+#: ../inc/wpabstracts_classes.php:231
+msgid "Submissions"
+msgstr "Διαχείριση Υποβολών"
+
+#: ../inc/wpabstracts_downloads.php:85 ../inc/wpabstracts_downloads.php:133
+#: ../inc/wpabstracts_downloads.php:236 ../inc/wpabstracts_functions.php:1094
+msgid "Abstract ID"
+msgstr "ID Περίληψης"
+
+#: ../inc/wpabstracts_downloads.php:95 ../wpabstracts.php:398
+msgid "Presenter Name"
+msgstr "παρουσιαστής"
+
+#: ../inc/wpabstracts_downloads.php:96
+msgid "Presenter Email"
+msgstr "Παρουσιαστής Email"
+
+#: ../inc/wpabstracts_downloads.php:98
+msgid "User ID"
+msgstr "Ταυτότητα χρήστη"
+
+#: ../inc/wpabstracts_downloads.php:99
+msgid "User"
+msgstr "Χρήστης"
+
+#: ../inc/wpabstracts_downloads.php:100
+msgid "User Email"
+msgstr "Email χρήστη"
+
+#: ../inc/wpabstracts_downloads.php:101 ../inc/wpabstracts_downloads.php:140
+msgid "Reviewer ID"
+msgstr "Αναγνωριστικό αναθεωρητή"
+
+#: ../inc/wpabstracts_downloads.php:102 ../wpabstracts.php:380
+#: ../wpabstracts.php:709
+msgid "Reviewers"
+msgstr "Αξιολογητές"
+
+#: ../inc/wpabstracts_downloads.php:103 ../wpabstracts.php:381
+#: ../wpabstracts.php:401 ../wpabstracts.php:710
+msgid "Date Submitted"
+msgstr "Ημερ. υποβολής"
+
+#: ../inc/wpabstracts_downloads.php:125
+msgid "Abstracts-All"
+msgstr "Περιλήψεις-Όλα"
+
+#: ../inc/wpabstracts_downloads.php:132
+msgid "Review ID"
+msgstr "ID αξιολόγησης"
+
+#: ../inc/wpabstracts_downloads.php:135
+msgid "Relevance"
+msgstr "Σχετικότητα"
+
+#: ../inc/wpabstracts_downloads.php:136
+msgid "Quality"
+msgstr "Ποιότητα"
+
+#: ../inc/wpabstracts_downloads.php:137
+msgid "Comments"
+msgstr "Σχόλια "
+
+#: ../inc/wpabstracts_downloads.php:138
+msgid "Recommendation"
+msgstr "Πρόταση"
+
+#: ../inc/wpabstracts_downloads.php:141
+msgid "Reviewer Name"
+msgstr "Αξιολογητής"
+
+#: ../inc/wpabstracts_downloads.php:142
+msgid "Reviewer Email"
+msgstr "Διευθυντής ηλεκτρονικού ταχυδρομείου"
+
+#: ../inc/wpabstracts_downloads.php:143
+msgid "Review Date"
+msgstr "Κριτική"
+
+#: ../inc/wpabstracts_downloads.php:159
+msgid "Excellent Reviews"
+msgstr "Εξαιρετικές κριτικές"
+
+#: ../inc/wpabstracts_downloads.php:162
+msgid "Good Reviews"
+msgstr "Καλές κριτικές"
+
+#: ../inc/wpabstracts_downloads.php:165
+msgid "Average Reviews"
+msgstr "Μέση κριτικές"
+
+#: ../inc/wpabstracts_downloads.php:168
+msgid "Poor Reviews"
+msgstr "Κακές κριτικές"
+
+#: ../inc/wpabstracts_downloads.php:171
+msgid "All Reviews"
+msgstr "Όλες οι αξιολογήσεις"
+
+#: ../inc/wpabstracts_downloads.php:190
+msgid "All Users"
+msgstr "Όλοι οι Χρήστες"
+
+#: ../inc/wpabstracts_downloads.php:236
+msgid "Auto-Generated"
+msgstr "Δημιουργήθηκε αυτόματα"
+
+#: ../inc/wpabstracts_emailer.php:173 ../users/users.register.php:97
+msgid "From:"
+msgstr "Από:"
+
+#: ../inc/wpabstracts_functions.php:411
+msgid ""
+"There are no active events. Please ensure an event exists with a deadline "
+"later than yesterday."
+msgstr ""
+"Δεν υπάρχουν ενεργές εκδηλώσεις. Παρακαλούμε βεβαιωθείτε ότι ένα συμβάν "
+"υπάρχει με προθεσμία το αργότερο χθες."
+
+#: ../inc/wpabstracts_functions.php:631
+msgid "Don't have an account? "
+msgstr "Δεν έχεις λογαριασμό;"
+
+#: ../inc/wpabstracts_functions.php:633
+msgid "Sign Up"
+msgstr "προσθέστε μέχρι "
+
+#: ../inc/wpabstracts_functions.php:635
+msgid "Create an Account"
+msgstr "Δεν έχετε λογαριασμό;"
+
+#: ../inc/wpabstracts_functions.php:643
+msgid "Forgot Password? "
+msgstr "ΞΕΧΑΣΑΤΕ ΤΟΝ ΚΩΔΙΚΟ ΣΑΣ"
+
+#: ../inc/wpabstracts_functions.php:645 ../inc/wpabstracts_functions.php:647
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: ../inc/wpabstracts_functions.php:673 ../inc/wpabstracts_functions.php:676
+msgid "Invalid username or password. Please try again."
+msgstr ""
+"Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης. Σε παρακαλώ, προσπάθησε ξανά."
+
+#: ../inc/wpabstracts_functions.php:679 ../inc/wpabstracts_functions.php:873
+msgid "Invalid security code. Please try again."
+msgstr "Ο κωδικός ασφαλείας δεν είναι έγκυρος. Σε παρακαλώ, προσπάθησε ξανά."
+
+#: ../inc/wpabstracts_functions.php:693
+msgid ""
+"Your account has not been activated. Please check your Inbox (including spam "
+"folder) for your activation link."
+msgstr ""
+"Λογαριασμός σας δεν έχει ενεργοποιηθεί. Παρακαλούμε ελέγξτε τα Εισερχόμενά "
+"σας (συμπεριλαμβανομένου του φάκελο spam) για ένα σύνδεσμο ενεργοποίησης."
+
+#: ../inc/wpabstracts_functions.php:697 ../inc/wpabstracts_functions.php:703
+msgid "Sign in successful."
+msgstr "Συνδεθείτε στο επιτυχημένο."
+
+#: ../inc/wpabstracts_functions.php:718 ../inc/wpabstracts_functions.php:770
+msgid "Hmm, your nonce is not valid."
+msgstr "Χμμ, σας το nonce δεν είναι έγκυρο."
+
+#: ../inc/wpabstracts_functions.php:733
+msgid "There is no user registered with that username or email address."
+msgstr "Δεν υπάρχει χρήστης με αυτό το e-mail."
+
+#: ../inc/wpabstracts_functions.php:739
+msgid "Hi,"
+msgstr "Καλώς ήρθατε"
+
+#: ../inc/wpabstracts_functions.php:740
+msgid "Someone requested a password reset for "
+msgstr "Κάποιος ζητήσει έναν κωδικό πρόσβασης επαναφοράς για"
+
+#: ../inc/wpabstracts_functions.php:741
+msgid ""
+"If this was a mistake, simply ignore this email and nothing will happen."
+msgstr ""
+"Αν αυτό έγινε κατά λάθος, απλώς αγνοήστε αυτό το email και δεν θα συμβεί "
+"τίποτα."
+
+#: ../inc/wpabstracts_functions.php:742
+msgid "To reset your password, visit the following link:"
+msgstr ""
+"Για την επαναφορά του λογαριασμού σας, επισκεφθείτε την παρακάτω διεύθυνση:"
+
+#: ../inc/wpabstracts_functions.php:745
+msgid "Password Reset for "
+msgstr "Επαναφορά κωδικού πρόσβασης"
+
+#: ../inc/wpabstracts_functions.php:751
+msgid ""
+"Your request was successful. Please check your e-mail for more instructions."
+msgstr ""
+"Το αίτημά σας ολοκληρώθηκε με επιτυχία. Παρακαλώ ελέγξτε το email σας για "
+"περισσότερες οδηγίες."
+
+#: ../inc/wpabstracts_functions.php:754
+msgid "The e-mail could not be sent. Please contact support."
+msgstr ""
+"Δεν ήταν δυνατή η αποστολή του μηνύματος ηλεκτρονικού ταχυδρομείου. "
+"Παρακαλείστε να επικοινωνήσετε με την υποστήριξη."
+
+#: ../inc/wpabstracts_functions.php:782
+msgid "Password is required field."
+msgstr "Κωδικός πρόσβασης είναι απαιτούμενο πεδίο."
+
+#: ../inc/wpabstracts_functions.php:789
+msgid "The passwords do not match."
+msgstr "Οι κωδικοί πρόσβασης δεν ταυτίζονται."
+
+#: ../inc/wpabstracts_functions.php:798
+msgid "Invalid password reset key. Please request a new password reset."
+msgstr ""
+"Μη έγκυρο κωδικό πρόσβασης επαναφέρετε το κλειδί. Παρακαλείστε να ζητήσετε "
+"νέο κωδικό."
+
+#: ../inc/wpabstracts_functions.php:802
+msgid "Your password has been reset."
+msgstr "Έχει γίνει επαναφορά του κωδικού/συνθηματικού πρόσβασης."
+
+#: ../inc/wpabstracts_functions.php:851
+msgid "Enter security code (required)"
+msgstr "Εισάγετε τον κωδικό ασφαλείας (απαιτείται)"
+
+#: ../inc/wpabstracts_functions.php:885
+msgid "<strong>ERROR</strong>: Please enter a valid security code."
+msgstr ""
+"<strong> ΣΦΑΛΜΑ </strong>: πληκτρολογήστε έναν έγκυρο κωδικό ασφαλείας."
+
+#: ../inc/wpabstracts_functions.php:938 ../wpabstracts.abstracts.php:20
+#: ../wpabstracts.emails.php:46 ../wpabstracts.events.php:19
+#: ../wpabstracts.users.php:19
+msgid "Sorry, the tab you selected does not exist."
+msgstr "Συγνώμη, δεν υπάρχει η καρτέλα που επιλέξατε."
+
+#: ../inc/wpabstracts_functions.php:972
+msgid "User Id "
+msgstr "Όνομα χρήστη"
+
+#: ../inc/wpabstracts_functions.php:981
+msgid "Successfully deleted user ID "
+msgstr "Αναγνωριστικό χρήστη που έχει διαγραφεί με επιτυχία"
+
+#: ../inc/wpabstracts_functions.php:1097
+msgid "Submitted"
+msgstr "Υποβλήθηκε"
+
+#: ../inc/wpabstracts_functions.php:1106
+msgid "Presenter"
+msgstr "Παρουσιαστής"
+
+#: ../inc/wpabstracts_functions.php:1173
+msgid ""
+"Sorry, no event not found. Please enter a valid event id in the shortcode."
+msgstr ""
+"Λυπάμαι, δεν βρέθηκε κανένα γεγονός. Πληκτρολογήστε ένα έγκυρο αναγνωριστικό "
+"συμβάντος στον σύντομο κώδικα."
+
+#: ../users/users.activate.php:7
+msgid "Oops, you are already logged in. Activation is only for new accounts."
+msgstr ""
+"Ωχ, έχετε ήδη συνδεθεί. Η ενεργοποίηση είναι μόνο για νέους λογαριασμούς."
+
+#: ../users/users.activate.php:12
+msgid ""
+"Oops, you're got an invalid link. Please check your email and copy and paste "
+"the full link."
+msgstr ""
+"Ωχ, αν έχεις μια έγκυρη σύνδεση. Παρακαλώ ελέγξτε το email και το αντίγραφο "
+"και επικολλήστε ολόκληρο το σύνδεσμο."
+
+#: ../users/users.activate.php:24
+msgid "Your account was activated already. Please login."
+msgstr "Λογαριασμός σας ενεργοποιήθηκε ήδη. Παρακαλούμε συνδεθείτε."
+
+#: ../users/users.activate.php:31
+msgid "Your account was successfully activated."
+msgstr "Ενεργοποιήθηκε με επιτυχία το λογαριασμό σας."
+
+#: ../users/users.activate.php:34
+msgid ""
+"Oops, your activation key do not match our records for you. Please try again "
+"or contact support."
+msgstr ""
+"Ωχ, το κλειδί ενεργοποίησης δεν ταιριάζουν με τα αρχεία μας για εσάς. "
+"Παρακαλώ δοκιμάστε ξανά ή επικοινωνήστε με την υποστήριξη."
+
+#: ../users/users.activate.php:37
+msgid "Oops, we could not find this user. Please try again or contact support"
+msgstr ""
+"Ωχ, δεν θα μπορούσαμε να βρούμε αυτόν το χρήστη. Παρακαλώ δοκιμάστε ξανά ή "
+"επικοινωνήστε με την υποστήριξη"
+
+#: ../users/users.classes.php:30 ../users/users.profile.php:37
+msgid "Edit Profile"
+msgstr "Επεξεργασία Προφίλ"
+
+#: ../users/users.classes.php:31 ../users/users.classes.php:111
+msgid "Activate"
+msgstr "Ενεργοποίηση "
+
+#: ../users/users.classes.php:32
+msgid "Change Password"
+msgstr "Αλλαγή Κωδικού"
+
+#: ../users/users.classes.php:70
+msgid "--not entered--"
+msgstr "--δεν τέθηκε--"
+
+#: ../users/users.classes.php:123
+msgid "users were "
+msgstr "χρήστες ήταν"
+
+#: ../users/users.classes.php:123
+msgid "user was "
+msgstr "χρήστης ήταν"
+
+#: ../users/users.classes.php:124
+msgid " successfully activated."
+msgstr "ενεργοποιήθηκε με επιτυχία."
+
+#: ../users/users.classes.php:133
+msgid " successfully deleted."
+msgstr "διαγράφηκε επιτυχώς."
+
+#: ../users/users.classes.php:157
+msgid "Download CSV"
+msgstr "Λήψη CSV"
+
+#: ../users/users.classes.php:176
+msgid ""
+"You have WordPress users with no WP Abstracts profiles, do you want to sync "
+"users? "
+msgstr ""
+"Χμμ, έχετε WordPress χρήστες με κανένα προφίλ WP Abstracts, που θέλετε να "
+"συγχρονίσετε χρήστες;"
+
+#: ../users/users.classes.php:177
+msgid "Sync Users"
+msgstr "Συγχρονισμός χρηστών"
+
+#: ../users/users.formbuilder.php:7
+msgid "Your registration from was successfully restored."
+msgstr "Επαναφέρθηκε με επιτυχία από την εγγραφή σας."
+
+#: ../users/users.formbuilder.php:166
+msgid "Drag input elements from the left to create your user registration form"
+msgstr ""
+"Σύρετε στοιχεία εισόδου από τα αριστερά για να δημιουργήσετε φόρμα εγγραφής "
+"χρήστη"
+
+#: ../users/users.formbuilder.php:166
+msgid "Restore Form"
+msgstr "Επαναφορά φόρμας"
+
+#: ../users/users.formbuilder.php:174 ../users/users.register.html.php:185
+msgid "Login Information"
+msgstr "Πληροφορίες σύνδεσης"
+
+#: ../users/users.formbuilder.php:180 ../users/users.register.html.php:193
+msgid "Please enter a valid email address."
+msgstr "Παρακαλώ εισήγαγε μία έγκυρη διεύθυνση email."
+
+#: ../users/users.formbuilder.php:183 ../users/users.register.html.php:196
+msgid "Password"
+msgstr "Κωδικός Πρόσβασης"
+
+#: ../users/users.formbuilder.php:185 ../users/users.register.html.php:199
+msgid "Please enter a password."
+msgstr "Παρακαλώ εισαγάγετε έναν κωδικό πρόσβασης."
+
+#: ../users/users.formbuilder.php:188 ../users/users.register.html.php:202
+msgid "Repeat Password"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+#: ../users/users.formbuilder.php:190 ../users/users.register.html.php:205
+msgid "Please repeat your password."
+msgstr "Παρακαλώ επαναλάβετε τον κωδικό πρόσβασής σας."
+
+#: ../users/users.formbuilder.php:197 ../users/users.register.html.php:212
+msgid "Account Information"
+msgstr "Πληροφορίες λογαριασμού"
+
+#: ../users/users.formbuilder.php:197
+msgid "Form Preview"
+msgstr "Προεπισκόπηση φόρμας"
+
+#: ../users/users.formbuilder.php:205 ../users/users.register.html.php:227
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: ../users/users.login.php:20
+msgid "Please sign in for your conference participation"
+msgstr "Παρακαλώ συνδεθείτε για τη συμμετοχή σας Συνέδριο"
+
+#: ../users/users.login.php:25
+msgid "Sign In"
+msgstr "προσθέστε μέχρι "
+
+#: ../users/users.login.php:56
+msgid "Login"
+msgstr "Συνδεση"
+
+#: ../users/users.login.php:62
+msgid "Remember Me"
+msgstr "Θυμήσου Με"
+
+#: ../users/users.lostpassword.php:6
+msgid "Forgot Password"
+msgstr "Ξεχάσατε τον κωδικό"
+
+#: ../users/users.lostpassword.php:8
+msgid ""
+"Please enter your email address and we will send you instructions to reset "
+"your password."
+msgstr ""
+"Παρακαλώ εισάγετε τη διεύθυνση email σας και θα σας στείλουμε οδηγίες για να "
+"επαναφέρετε τον κωδικό πρόσβασής σας."
+
+#: ../users/users.lostpassword.php:24
+msgid "Get New Password"
+msgstr "Ζητήστε νέο κωδικό πρόσβασης"
+
+#: ../users/users.profile.php:20
+msgid "Profile updated successfully."
+msgstr "Το προφίλ ενημερώθηκε επιτυχώς."
+
+#: ../users/users.profile.php:43
+msgid "Profile Information"
+msgstr "Πληροφορίες προφίλ"
+
+#: ../users/users.register.php:9
+msgid ""
+"Registration is currently not allowed for this site. Please contact your "
+"site admin."
+msgstr ""
+"Λογαριασμό σας δεν έχει ρυθμιστεί για να δείτε αυτόν τον πίνακα εργαλείων. "
+"Επικοινωνήστε με τον διαχειριστή του site."
+
+#: ../users/users.register.php:27
+msgid "You have entered an invalid captcha code. Please try again."
+msgstr ""
+"Έχετε εισαγάγει έναν μη έγκυρο κωδικό επιβεβαίωσης. Σε παρακαλώ, προσπάθησε "
+"ξανά."
+
+#: ../users/users.register.php:76
+msgid "You're currently logged in. Please sign out to register for an account."
+msgstr ""
+"Αυτήν τη στιγμή είστε συνδεδεμένοι. Παρακαλούμε συνδεθείτε να εγγραφείτε για "
+"ένα λογαριασμό."
+
+#: ../users/users.resetpassword.php:6 ../users/users.resetpassword.php:30
+msgid "Reset Password"
+msgstr "Επαναφορά Κωδικού"
+
+#: ../users/users.resetpassword.php:8
+msgid "Please enter your new password below."
+msgstr "Παρακαλώ δώστε τον κωδικό πρόσβασής σας."
+
+#: ../users/users.settings.php:86
+msgid "Sync User Meta"
+msgstr "Μεταδεδομένα χρήστη"
+
+#: ../users/users.settings.php:94
+msgid "General Settings"
+msgstr "Γενικές Ρυθμίσεις"
+
+#: ../users/users.settings.php:100
+msgid "Show Registration Thank You"
+msgstr "Εμφάνιση εγγραφής σας ευχαριστώ"
+
+#: ../users/users.settings.php:101
+msgid "Set whether to show a thank you message or not after registration."
+msgstr "Ορίσετε αν θα εμφανίζεται ένα ευχαριστήριο μήνυμα ή όχι μετά εγγραφής."
+
+#: ../users/users.settings.php:111
+msgid "Send Registration Confirmation"
+msgstr "Επιβεβαίωση Εγγραφής"
+
+#: ../users/users.settings.php:112
+msgid ""
+"Set whether to send a confirmation email to the user with next steps or not "
+"after registration"
+msgstr ""
+"Ορίσετε αν πρέπει να στείλουμε ένα email επιβεβαίωσης στο χρήστη με επόμενα "
+"βήματα ή όχι μετά την εγγραφή"
+
+#: ../users/users.settings.php:122
+msgid "Activate Users Automatically"
+msgstr "Αυτόματη ενεργοποίηση χρηστών"
+
+#: ../users/users.settings.php:123
+msgid "Set whether to activate users on registration or not (not recommended)."
+msgstr ""
+"Ορίστε εάν θέλετε να ενεργοποιήσετε τους χρήστες σχετικά με την καταχώριση ή "
+"όχι (δεν συνιστάται)."
+
+#: ../users/users.settings.php:133
+msgid "Ignore User Activation at Login"
+msgstr "Παράβλεψη ενεργοποίησης χρήστη κατά τη σύνδεση"
+
+#: ../users/users.settings.php:134
+msgid ""
+"Whether or not to check for user activation at login. Used mainly when users "
+"are registered outside of WP Abstracts."
+msgstr ""
+"Εάν θα ελέγξετε ή όχι για ενεργοποίηση χρήστη κατά τη σύνδεση. "
+"Χρησιμοποιείται κυρίως όταν οι χρήστες είναι εγγεγραμμένοι εκτός των "
+"Περιλήψεων WP."
+
+#: ../users/users.settings.php:146
+msgid "Sync WP Fields"
+msgstr "WP πεδία συγχρονισμού"
+
+#: ../users/users.settings.php:147
+msgid "Set whether to sync WP Abstracts Profile fields to Wordpress meta data."
+msgstr ""
+"Ορίστε εάν συγχρονισμού προφίλ περιλήψεις WP πεδίων για το Wordpress μετα-"
+"δεδομένα."
+
+#: ../users/users.settings.php:160
+msgid "Display Name"
+msgstr "Εμφάνιση Ονόματος"
+
+#: ../users/users.settings.php:161
+msgid ""
+"Select the field or fields you would like to use as display name for all "
+"users."
+msgstr ""
+"Επιλέξτε το πεδίο ή τα πεδία που θέλετε να χρησιμοποιήσετε, όπως το "
+"εμφανιζόμενο όνομα για όλους τους χρήστες."
+
+#: ../users/users.settings.php:172
+msgid "First & Last Name"
+msgstr "Όνομα και επώνυμο"
+
+#: ../users/users.settings.php:173
+msgid "Last & First Name"
+msgstr "Επώνυμο και Όνομα"
+
+#: ../users/users.settings.php:184
+msgid "Password Rules"
+msgstr "Τους κανόνες κωδικού πρόσβασης"
+
+#: ../users/users.settings.php:190
+msgid "Minimum Password Length"
+msgstr "Ελάχιστο μήκος κωδικού"
+
+#: ../users/users.settings.php:191
+msgid "Enter the minimum amount of character for a password"
+msgstr "Καταχωρίστε το ελάχιστο ποσό χαρακτήρα για έναν κωδικό πρόσβασης"
+
+#: ../users/users.settings.php:195
+msgid "5"
+msgstr "5"
+
+#: ../users/users.settings.php:196
+msgid "6"
+msgstr "6"
+
+#: ../users/users.settings.php:197
+msgid "7"
+msgstr "7"
+
+#: ../users/users.settings.php:198
+msgid "8"
+msgstr "8"
+
+#: ../users/users.settings.php:199
+msgid "9"
+msgstr "9"
+
+#: ../users/users.settings.php:204
+msgid "Maximum Password Length"
+msgstr "Μέγιστο μήκος"
+
+#: ../users/users.settings.php:205
+msgid "Enter the maximum amount of character for a password"
+msgstr "Εισαγάγετε το μέγιστο ποσό των χαρακτήρων για έναν κωδικό πρόσβασης"
+
+#: ../users/users.settings.php:209
+msgid "10"
+msgstr "10"
+
+#: ../users/users.settings.php:210
+msgid "11"
+msgstr "11"
+
+#: ../users/users.settings.php:211
+msgid "12"
+msgstr "12"
+
+#: ../users/users.settings.php:212
+msgid "13"
+msgstr "13"
+
+#: ../users/users.settings.php:213
+msgid "14"
+msgstr "14"
+
+#: ../users/users.settings.php:218
+msgid "At least one number"
+msgstr "Τουλάχιστον ένας αριθμός"
+
+#: ../users/users.settings.php:219
+msgid "Require passwords to have at least one number"
+msgstr "Απαιτούν κωδικό πρόσβασης να έχει τουλάχιστον έναν αριθμό"
+
+#: ../users/users.settings.php:229
+msgid "At least one uppercase"
+msgstr "Τουλάχιστον ένα κεφαλαίο"
+
+#: ../users/users.settings.php:230
+msgid "Require passwords to have at least one uppercase"
+msgstr "Απαιτούν κωδικό πρόσβασης να έχει τουλάχιστον ένα κεφαλαίο"
+
+#: ../users/users.settings.php:240
+msgid "At least one lowercase"
+msgstr "Τουλάχιστον ένα πεζό"
+
+#: ../users/users.settings.php:241
+msgid "Require passwords to have at least one lowercase"
+msgstr "Απαιτούν κωδικό πρόσβασης να έχει τουλάχιστον ένα πεζό"
+
+#: ../users/users.settings.php:251
+msgid "At least one special character"
+msgstr "Τουλάχιστον ένα ειδικό χαρακτήρα"
+
+#: ../users/users.settings.php:252
+msgid "Require passwords to have at least one special character"
+msgstr "Απαιτούν κωδικό πρόσβασης να έχει τουλάχιστον ένα ειδικό χαρακτήρα"
+
+#: ../users/users.settings.php:268
+msgid "Select up to six (6) column fields to display when managing users."
+msgstr ""
+"Επιλέξτε τα πεδία στήλης έως έξι (6) για να εμφανίσετε κατά τη διαχείριση "
+"χρηστών."
+
+#: ../users/users.settings.php:298
+msgid "Registration Thank you Message"
+msgstr "Ευχαριστήριο μήνυμα εγγραφής"
+
+#: ../users/users.settings.php:299
+msgid ""
+"Enter a thank you message that shows after the registration form has been "
+"submitted"
+msgstr ""
+"Πληκτρολογήστε το μήνυμά σας ευχαριστούμε που δείχνει μετά έχει υποβληθεί το "
+"έντυπο εγγραφής"
+
+#: ../users/users.settings.php:318
+msgid "Registration Confirmation Email"
+msgstr "Email επιβεβαίωσης εγγραφής"
+
+#: ../users/users.settings.php:319
+msgid ""
+"Create an email template used for sending the confirmation message to the "
+"user."
+msgstr ""
+"Για να δημιουργήσετε ένα πρότυπο ηλεκτρονικού ταχυδρομείου που "
+"χρησιμοποιείται για την αποστολή το μήνυμα επιβεβαίωσης στο χρήστη."
+
+#: ../users/users.settings.php:328 ../users/users.settings.php:336
+msgid ""
+"Enter the email of the administrator to be notified when a user registers."
+msgstr ""
+"Εισάγετε το email του διαχειριστή για να ειδοποιηθείτε όταν ένας χρήστης "
+"εγγράφεται."
+
+#: ../users/users.settings.php:344
+msgid "Enter the subject for the email sent when a user registers."
+msgstr ""
+"Εισάγετε το email του διαχειριστή για να ειδοποιηθείτε όταν ένας χρήστης "
+"εγγράφεται."
+
+#: ../wpabstracts.abstracts.php:29
+msgid "Manage Abstracts"
+msgstr "Διαχείριση περιλήψεων"
+
+#: ../wpabstracts.emails.php:22
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#: ../wpabstracts.emails.php:23
+msgid "Mail Log"
+msgstr "Αρχείο καταγραφής αλληλογραφίας"
+
+#: ../wpabstracts.events.php:28
+msgid "Manage"
+msgstr "Διαχείριση"
+
+#: ../wpabstracts.help.php:10
+msgid "Quick Start"
+msgstr "Γρήγορη εκκίνηση"
+
+#: ../wpabstracts.help.php:14
+msgid "Get setup and running in three simple steps"
+msgstr "Ξεκινήστε με 3 απλά βήματα"
+
+#: ../wpabstracts.help.php:16
+msgid ""
+"Create an event (make a note of the event ID for step 2). This may be the "
+"name of a conference or anything relating to the submission of abstracts."
+msgstr ""
+"Για να δημιουργήσετε ένα συμβάν (κάνετε μια σημείωση για το Αναγνωριστικό "
+"συμβάντος για το βήμα 2). Αυτό μπορεί να είναι το όνομα του ένα συνέδριο ή "
+"οτιδήποτε σχετικά με την υποβολή των περιλήψεων."
+
+#: ../wpabstracts.help.php:17
+msgid ""
+"Create a wordpress page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+"Δημιουργήστε μια σελίδα wordpress και να προσθέσετε [wpabstracts event_id = "
+"«EVENT_ID_HERE»] και σύνδεση αυτής της σελίδας στο μενού σας το site για να "
+"επιτρέψετε την πρόσβαση frontend."
+
+#: ../wpabstracts.help.php:18
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your wordpress permanent links are set to post-name or custom."
+msgstr ""
+"Επισκεφτείτε τη σελίδα ρυθμίσεις και επιλέξτε την προτίμησή σας για το "
+"πρόσθετο. Επίσης εξασφαλίζουν μόνιμες συνδέσεις σας wordpress έχουν οριστεί "
+"σε μετα-όνομα ή προσαρμοσμένη."
+
+#: ../wpabstracts.help.php:25
+msgid "Frequently Asked Questions"
+msgstr "Συχνές Ερωτήσεις"
+
+#: ../wpabstracts.help.php:29 ../wpabstracts.help.php:31
+#: ../wpabstracts.help.php:33 ../wpabstracts.help.php:35
+#: ../wpabstracts.help.php:37 ../wpabstracts.help.php:39
+#: ../wpabstracts.help.php:41 ../wpabstracts.help.php:43
+#: ../wpabstracts.help.php:45
+msgid "Question"
+msgstr "Ερώτηση"
+
+#: ../wpabstracts.help.php:29
+msgid "Do I have to create accounts for authors and reviewers?"
+msgstr ""
+"Πρέπει να δημιουργήσω λογαριασμούς για τους συγγραφείς και τους κριτές;"
+
+#: ../wpabstracts.help.php:30 ../wpabstracts.help.php:32
+#: ../wpabstracts.help.php:34 ../wpabstracts.help.php:36
+#: ../wpabstracts.help.php:38 ../wpabstracts.help.php:40
+#: ../wpabstracts.help.php:42 ../wpabstracts.help.php:44
+#: ../wpabstracts.help.php:46
+msgid "Answer"
+msgstr "Απάντηση"
+
+#: ../wpabstracts.help.php:30
+msgid ""
+"Authors and reviewers need an account on your site to access the dashboard "
+"and take part in your conference. Users may self register on your website or "
+"the admin may create accounts for users and forward the credentials to the "
+"user."
+msgstr ""
+"Οι συντάκτες και οι κριτές χρειάζονται έναν λογαριασμό στον ιστότοπό σας για "
+"να έχουν πρόσβαση στον πίνακα ελέγχου και να λάβουν μέρος στη διάσκεψη σας. "
+"Οι χρήστες μπορούν να εγγραφούν στον ιστότοπό σας ή ο διαχειριστής μπορεί να "
+"δημιουργήσει λογαριασμούς για τους χρήστες και να προωθήσει τα "
+"διαπιστευτήρια στον χρήστη."
+
+#: ../wpabstracts.help.php:31
+msgid ""
+"I cannot find the registration area, how do authors or reviewers register?"
+msgstr ""
+"Δεν μπορώ να βρω την περιοχή εγγραφής, πώς καταχωρούνται οι συγγραφείς ή οι "
+"αναθεωρητές;"
+
+#: ../wpabstracts.help.php:32
+msgid ""
+"The registration link (Create an Account) is located on the Login page. "
+"Authors and Reviewers may self-register on your website. To enable this, go "
+"to your WordPress Settings -> General tab and check the box that says “Any "
+"can Register”."
+msgstr ""
+"Ο σύνδεσμος εγγραφής (Δημιουργία λογαριασμού) βρίσκεται στη σελίδα Σύνδεση. "
+"Οι συντάκτες και οι αναθεωρητές μπορούν να αυτογραφούν στον ιστότοπό σας. "
+"Για να το ενεργοποιήσετε, μεταβείτε στην καρτέλα \"Ρυθμίσεις WordPress\" -> "
+"Γενικά και επιλέξτε το πλαίσιο \"Οποιοσδήποτε μπορεί να εγγραφεί\"."
+
+#: ../wpabstracts.help.php:33
+msgid ""
+"After signing in to the dashboard I see \"You do not have permission to "
+"access this page\". What is happening?"
+msgstr ""
+"Μετά την είσοδό σας στον πίνακα ελέγχου βλέπω \"Δεν έχετε δικαίωμα πρόσβασης "
+"σε αυτήν τη σελίδα\". Τι συμβαίνει?"
+
+#: ../wpabstracts.help.php:34
+msgid ""
+"This error message is common when the user accessing the dashboard is not "
+"permitted. At the moment only two user types can access the dashboard; "
+"Authors which maps to the \"Subscriber\" user role and \"Reviewers\" which "
+"maps to the \"Editor\" user role. You may also see this message is you are "
+"visiting the front-end dashboard while currently signed in as the "
+"Administrator."
+msgstr ""
+"Αυτό το μήνυμα σφάλματος είναι σύνηθες όταν δεν επιτρέπεται η πρόσβαση του "
+"χρήστη στον πίνακα ελέγχου. Αυτή τη στιγμή μόνο δύο τύποι χρηστών μπορούν να "
+"έχουν πρόσβαση στον πίνακα οργάνων. Συγγραφείς που αντιστοιχούν στον ρόλο "
+"χρήστη του Συνδρομητή και τους \"Αναθεωρητές\" που αντιστοιχούν στον ρόλο "
+"του χρήστη \"Συντάκτης\". Ενδέχεται επίσης να δείτε αυτό το μήνυμα, όταν "
+"επισκέπτεστε τον πίνακα ελέγχου του μπροστινού τμήματος ενώ είστε "
+"συνδεδεμένος ως Διαχειριστής."
+
+#: ../wpabstracts.help.php:35
+msgid ""
+"How do I specify the types of abstract submissions (poster, panel etc) for "
+"my conference?"
+msgstr ""
+"Πώς μπορώ να καθορίσω τους τύπους των αφηρημένων υποβολών (αφίσα, πίνακας κ."
+"λπ.) για τη διάσκεψη μου;"
+
+#: ../wpabstracts.help.php:36
+msgid ""
+"Simply go to WP Abstracts Settings Tab and enter the types you want to allow "
+"for presenters. Submission types are comma separated."
+msgstr ""
+"Απλώς πηγαίνετε στην καρτέλα Ρυθμίσεις WP Abstracts και εισάγετε τους τύπους "
+"που θέλετε να επιτρέψετε στους παρουσιαστές. Οι τύποι υποβολής είναι "
+"διαχωρισμένοι με κόμμα."
+
+#: ../wpabstracts.help.php:37
+msgid ""
+"When clicking “New Abstracts” I get the following message “Abstract "
+"submission for this event has past”. What can I do?"
+msgstr ""
+"Όταν κάνετε κλικ στο \"New Abstracts\" έχω το ακόλουθο μήνυμα: \"Η υποβολή "
+"περιλήψεων για αυτό το γεγονός έχει περάσει\". Τι μπορώ να κάνω?"
+
+#: ../wpabstracts.help.php:38
+msgid ""
+"This simply means that the deadline for your event has passed. If the event "
+"is still active simply go to the events tab in the admin area and extend the "
+"deadline date of the event."
+msgstr ""
+"Αυτό απλά σημαίνει ότι έχει λήξει η προθεσμία για την εκδήλωσή σας. Εάν το "
+"συμβάν εξακολουθεί να είναι ενεργό, μεταβείτε στην καρτέλα συμβάντων στην "
+"περιοχή διαχειριστή και παρατείνετε την ημερομηνία λήξης του συμβάντος."
+
+#: ../wpabstracts.help.php:39
+msgid "How do I setup Authors and Reviewers?"
+msgstr "Πώς μπορώ να ρυθμίσω τους συγγραφείς και τους αναθεωρητές;"
+
+#: ../wpabstracts.help.php:40
+msgid ""
+"Authors are equivalent to Wordpress subscriber user role while reviewers are "
+"the editor user roles. Users may self register as authors and the site admin "
+"can then upgrade subscriber account to editor thus making that user a "
+"reviewer."
+msgstr ""
+"Οι συγγραφείς είναι ισοδύναμοι με τους ρόλους των χρηστών του Wordpress, ενώ "
+"οι αναθεωρητές είναι οι ρόλοι των χρηστών του προγράμματος επεξεργασίας. Οι "
+"χρήστες μπορούν να εγγραφούν αυτοτελώς ως συγγραφείς και ο διαχειριστής του "
+"ιστότοπου μπορεί στη συνέχεια να αναβαθμίσει το λογαριασμό συνδρομητή στον "
+"επεξεργαστή, κάνοντας αυτόν τον χρήστη έναν κριτικό."
+
+#: ../wpabstracts.help.php:41
+msgid "How do I upgrade from the Free to the Pro version?"
+msgstr "Πώς μπορώ να αναβαθμίσω από το δωρεάν με την έκδοση Pro;"
+
+#: ../wpabstracts.help.php:42
+msgid ""
+"Upload WP Abstracts Pro from the your plugins admin page then simply "
+"deactivate the free version and activate WP Abstracts Pro."
+msgstr ""
+"Φορτώσει WP περιλήψεις Pro από τα plugins σελίδα σας admin, στη συνέχεια, "
+"απλά απενεργοποιήστε την δωρεάν έκδοση και ενεργοποίηση WP περιλήψεις Pro."
+
+#: ../wpabstracts.help.php:43
+msgid "When are automated emails triggered in WP Abstracts?"
+msgstr "Όταν ενεργοποιούνται τα αυτοματοποιημένα email στο WP περιλήψεις;"
+
+#: ../wpabstracts.help.php:44
+msgid ""
+"Automated emails may be triggered on abstract submission, abstract status "
+"changes, reviewer assignments and review submissions."
+msgstr ""
+"Αυτοματοποιημένα email μπορεί να ενεργοποιείται σε υποβολή περιλήψεων, "
+"αλλαγές στην αφηρημένη κατάσταση, κριτής αναθέσεις και αναθεώρηση υποβολές."
+
+#: ../wpabstracts.help.php:45
+msgid ""
+"Can I edit or customize the templates for automated email notifications?"
+msgstr ""
+"Να επεξεργαστείτε ή να προσαρμόσετε τα πρότυπα για τα αυτοματοποιημένα email "
+"ειδοποιήσεις;"
+
+#: ../wpabstracts.help.php:46
+msgid ""
+"Yes. All email notification templates are customizable using various "
+"shortcode pertaining to the submission and event."
+msgstr ""
+"Ναι. Όλα τα πρότυπα ειδοποίησης ηλεκτρονικού ταχυδρομείου είναι προσαρμόσιμη "
+"χρησιμοποιώντας διάφορες shortcode που αφορούν την υποβολή και την εκδήλωση."
+
+#: ../wpabstracts.help.php:56
+msgid "Shortcodes"
+msgstr "Σύντομοι κωδικοί"
+
+#: ../wpabstracts.help.php:59
+msgid "[wpabstracts event_id=\"x\"] renders the user dashboard"
+msgstr "[wpabstracts event_id = «x»] καθιστά τον πίνακα εργαλείων χρήστη"
+
+#: ../wpabstracts.help.php:60
+msgid "[wpabstracts_register] renders the user registration form"
+msgstr "[wpabstracts_register] καθιστά τη φόρμα εγγραφής χρήστη"
+
+#: ../wpabstracts.help.php:61
+msgid "[wpabstracts_login] renders the user login screen"
+msgstr "[wpabstracts_login] καθιστά την οθόνη σύνδεσης χρήστη"
+
+#: ../wpabstracts.help.php:67
+msgid "Email Notifications"
+msgstr "Ειδοποιήσεις ηλεκτρονικού ταχυδρομείου"
+
+#: ../wpabstracts.help.php:70
+msgid ""
+"Use the Email tab to create various email templates then set those templates "
+"for various email triggers. Current email triggers includes abstract "
+"submission, all abstract status change, reviewer assignments and review "
+"submissions."
+msgstr ""
+"Χρησιμοποιήστε την καρτέλα ηλεκτρονικού ταχυδρομείου για να δημιουργήσουν "
+"διάφορα πρότυπα ηλεκτρονικού ταχυδρομείου και, στη συνέχεια, να ορίσετε αυτά "
+"τα πρότυπα για διάφορα ηλεκτρονικού ταχυδρομείου ενεργοποιεί. Τρέχουσα "
+"ηλεκτρονικού ταχυδρομείου ενεργοποιεί περιλαμβάνει υποβολή περιλήψεων, όλες "
+"αλλαγή κατάστασης αφηρημένη, κριτής αναθέσεις και αναθεώρηση υποβολές."
+
+#: ../wpabstracts.help.php:76
+msgid "Help us Improve"
+msgstr "Βοηθείστε μας να βελτιωθούμε"
+
+#: ../wpabstracts.help.php:79
+msgid "Rate"
+msgstr "Αξιολογήστε"
+
+#: ../wpabstracts.help.php:79
+msgid "the plugin 5 stars on WordPress.org"
+msgstr "το προσθέτο στο WordPress.org  με 5 αστέρια"
+
+#: ../wpabstracts.php:43
+msgid "WP Abstracts"
+msgstr "WP Περιλήψεις Pro"
+
+#: ../wpabstracts.php:49 ../wpabstracts.php:194
+msgid "Users"
+msgstr "Χρήστες"
+
+#: ../wpabstracts.php:50 ../wpabstracts.php:195
+msgid "Emails"
+msgstr "Εμειλ"
+
+#: ../wpabstracts.php:51 ../wpabstracts.php:196
+msgid "Exports"
+msgstr "Εξαγωγές"
+
+#: ../wpabstracts.php:52 ../wpabstracts.php:197
+msgid "Custom Titles"
+msgstr "Προσαρμοσμένοι τίτλοι"
+
+#: ../wpabstracts.php:53 ../wpabstracts.php:201
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: ../wpabstracts.php:133
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: ../wpabstracts.php:134
+msgid "Get Pro Version"
+msgstr "Αποκτήστε την έκδοση Pro"
+
+#: ../wpabstracts.php:383 ../wpabstracts.php:712
+msgid "Submit By"
+msgstr "Υποβολή από"
+
+#: ../wpabstracts.php:384 ../wpabstracts.php:713
+msgid "Date Modified"
+msgstr "Ημερομηνία τροποποίησης"
+
+#: ../wpabstracts.php:399
+msgid "Preference Preference"
+msgstr "Προτίμηση προτίμησης"
+
+#: ../wpabstracts.php:773
+msgid ""
+"Do you really want to delete this abstract, its reviews and all its "
+"attachments?"
+msgstr ""
+"Θέλετε πραγματικά να διαγράψετε αυτής της περίληψης, τα σχόλια και όλα τα "
+"συνημμένα;"
+
+#: ../wpabstracts.php:774
+msgid ""
+"Do you really want to delete the selected abstracts, their reviews and all "
+"their attachments?"
+msgstr ""
+"Θέλετε πραγματικά να διαγράψετε τις επιλεγμένες περιλήψεις, τους σχόλια και "
+"όλα τα συνημμένα τους;"
+
+#: ../wpabstracts.php:775
+msgid ""
+"Are you sure you want to delete this event? Deleting this event will delete "
+"all submissions, reviews and attachments related to this event. This cannot "
+"be undone. Type DELETE to confirm."
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το συμβάν; Η διαγραφή αυτού του "
+"συμβάντος θα διαγράψει όλες τις υποβολές, τις κριτικές και τα συνημμένα που "
+"σχετίζονται με αυτό το συμβάν. Αυτό δεν μπορεί να αναιρεθεί. Πληκτρολογήστε "
+"DELETE για επιβεβαίωση."
+
+#: ../wpabstracts.php:776
+msgid "Do you really want to delete this email template?"
+msgstr ""
+"Θέλετε πραγματικά να διαγράψετε αυτό το πρότυπο ηλεκτρονικού ταχυδρομείου;"
+
+#: ../wpabstracts.php:777
+msgid "Do you really want to delete this review?"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε την αξιολόγηση;"
+
+#: ../wpabstracts.php:778
+msgid "Do you really want to delete this attachment?"
+msgstr "Θέλετε πραγματικά να διαγράψετε ?"
+
+#: ../wpabstracts.php:779
+msgid "Are you sure you want to delete this user?"
+msgstr "Είστε σίγουροι ότι θέλετε να προχωρήσετε στη διαγραφή της Καταχώρησης?"
+
+#: ../wpabstracts.php:780
+msgid "Please enter a username and password to sign in."
+msgstr "Παρακαλώ εισάγετε όνομα χρήστη και κωδικό πρόσβασης"
+
+#: ../wpabstracts.php:781
+msgid "Please enter a the security code."
+msgstr "Πληκτρολογήστε τον κωδικό ασφαλείας."
+
+#: ../wpabstracts.php:783
+msgid "Please select a status"
+msgstr "Παρακαλώ επιλέξτε μια κατάσταση"
+
+#: ../wpabstracts.php:784
+msgid "Please fill in all required fields."
+msgstr "Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία."
+
+#: ../wpabstracts.php:785
+msgid "Please add your abstract description"
+msgstr "Παρακαλώ προσθέστε την αφηρημένη Περιγραφή"
+
+#: ../wpabstracts.php:786
+msgid "You have exceeded the maximum words allowed for this submission."
+msgstr "Έχετε υπερβεί το μέγιστο λέξεις που επιτρέπεται για αυτήν την υποβολή."
+
+#: ../wpabstracts.php:787
+msgid "One or more of your file extension is not supported."
+msgstr "Ένα ή περισσότερα από την επέκταση του αρχείου δεν υποστηρίζεται."
+
+#: ../wpabstracts.php:788
+msgid "One or more of your files exceeds the maximum file size allowed."
+msgstr ""
+"Ένα ή περισσότερα από τα αρχεία σας υπερβαίνει το μέγιστο μέγεθος αρχείου "
+"επιτρέπεται."
+
+#: ../wpabstracts.php:791
+msgid "No Attachments Uploaded"
+msgstr "<p>Δεν περιέχει συνημμένα</p>"
+
+#: ../wpabstracts.php:792
+msgid "Please enter the email address used for the order."
+msgstr ""
+"Παρακαλούμε εισάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου που "
+"χρησιμοποιείται για την παραγγελία."
+
+#: ../wpabstracts.php:793
+msgid "Successfully updated user registration form."
+msgstr "Φόρμα εγγραφής χρήστη ενημερώνεται με επιτυχία."
+
+#: ../wpabstracts.php:794
+msgid "Failed to save register form fields."
+msgstr "Απέτυχε η αποθήκευση μητρώο πεδία φόρμας."
+
+#: ../wpabstracts.php:795
+msgid "Successfully copied to clipboard."
+msgstr "Φόρμα εγγραφής χρήστη ενημερώνεται με επιτυχία."
+
+#: ../wpabstracts.php:796
+msgid "Failed to copy text to clipboard."
+msgstr "Απέτυχε η αντιγραφή κειμένου στο Πρόχειρο."
+
+#: ../wpabstracts.php:797
+msgid ""
+"Submissions with this status will no longer have a status. Do you really "
+"want to delete this status?"
+msgstr ""
+"Παρατηρήσεις σε αυτό το καθεστώς δεν θα έχουν πλέον ένα καθεστώς. Θέλετε "
+"πραγματικά να διαγράψετε αυτή την κατάσταση;"
+
+#: ../wpabstracts.php:798
+msgid "At least one status is required."
+msgstr "Απαιτείται τουλάχιστον μία κατάσταση."
+
+#: ../wpabstracts.php:799
+msgid "At least one topic is required."
+msgstr "Απαιτείται ένα τουλάχιστον θέμα."
+
+#: ../wpabstracts.php:800
+msgid ""
+"Are you sure you want to restore this form to the default inputs? This "
+"cannot be undone."
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να επαναφέρετε αυτήν τη φόρμα με τις εισόδους "
+"προεπιλογή; Αυτό δεν μπορεί να αναιρεθεί."
+
+#: ../wpabstracts.php:801
+msgid "Are you sure you want to restore your default titles?"
+msgstr "Είστε σίγουροι ότι θέλετε να προχωρήσετε στη διαγραφή της Καταχώρησης?"
+
+#: ../wpabstracts.php:802
+msgid ""
+"Are you sure you want to SYNC profile data from WP Abstracts to Wordpress "
+"user profiles? This cannot be undone. Type SYNC to confirm."
+msgstr ""
+"Είστε βέβαιοι ότι θέλετε να επαναφέρετε αυτήν τη φόρμα με τις εισόδους "
+"προεπιλογή; Αυτό δεν μπορεί να αναιρεθεί."
+
+#: ../wpabstracts.php:803
+msgid "One or more of your email address seems invalid."
+msgstr ""
+"Μία ή περισσότερες από τις διευθύνσεις ηλεκτρονικού ταχυδρομείου σας "
+"φαίνεται άκυρες."
+
+#: ../wpabstracts.php:842
+msgid "Need more features?"
+msgstr "χαρακτηριστικά"
+
+#: ../wpabstracts.users.php:26
+msgid "Manage Users"
+msgstr "Διαχείριση χρηστών"
+
+#: ../wpabstracts.users.php:27
+msgid "Form Builder"
+msgstr "Κατασκευή Φόρμας"
+
+#~ msgid ""
+#~ "Abstract submission for this event has past. Please contact your "
+#~ "organizer if you need to make a submission."
+#~ msgstr ""
+#~ "Η συνοπτική υποβολή για αυτό το συμβάν έχει παρελθόν. Επικοινωνήστε με "
+#~ "τον διοργανωτή, αν θέλετε να κάνετε μια υποβολή."
+
+#~ msgid "Type"
+#~ msgstr "Τύπος"
+
+#, php-format
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Pending"
+#~ msgstr "Εκκρεμεί"
+
+#~ msgid "Closed"
+#~ msgstr "Κλειστό"
+
+#~ msgid "Accept"
+#~ msgstr "Αποδοχή"
+
+#~ msgid "Reject"
+#~ msgstr "Απόρριψη"
+
+#~ msgid "Assign"
+#~ msgstr "Ανάθεση σε αξιολογητή"
+
+#~ msgid "Go"
+#~ msgstr "Πήγαινε"
+
+#~ msgid "File Name"
+#~ msgstr "Επώνυμο"
+
+#~ msgid "Uploaded to"
+#~ msgstr "Φορτώθηκε σε"
+
+#~ msgid "Abstract Id"
+#~ msgstr "ID Περίληψης"
+
+#~ msgid ""
+#~ "We could not perform your WP Abstracts license validation at this time."
+#~ msgstr ""
+#~ "Δεν ήταν δυνατή η πραγματοποίηση της επικύρωσης της άδειας WP Abstracts "
+#~ "σας αυτήν τη στιγμή."
+
+#~ msgid ""
+#~ "Please add a valid event ID to the wpabstracts shortcode on this page."
+#~ msgstr ""
+#~ "Παρακαλείσθε να προσθέσετε ένα Αναγνωριστικό συμβάντος έγκυρη να την "
+#~ "wpabstracts shortcode σε αυτή τη σελίδα."
+
+#~ msgid ""
+#~ "The shortcode in this page should be similar to [wpabstracts event_id=ID] "
+#~ "(grab the ID from your Events tab)."
+#~ msgstr ""
+#~ "Το shortcode σε αυτή τη σελίδα θα πρέπει να είναι παρόμοια με "
+#~ "[wpabstracts event_id = ID] (Πιάσε το Αναγνωριστικό από στην καρτέλα "
+#~ "εκδηλώσεις)."
+
+#~ msgid "You do not have permission to delete abstracts."
+#~ msgstr "Δεν έχετε δικαίωμα να διαγράψετε αποσπάσματα."
+
+#~ msgid "Abstract Submission"
+#~ msgstr "Υποβολή περίληψης."
+
+#~ msgid "Abstract Updated"
+#~ msgstr "Η περίληψη ενημερώθηκε"
+
+#~ msgid "Export Attachments"
+#~ msgstr "Εξάγετε τα συνημμένα"
+
+#~ msgid "Reviewers Configuration"
+#~ msgstr "Ρύθμιση παραμέτρων αναθεωρητές"
+
+#~ msgid "Reviewers can Submit Abstracts"
+#~ msgstr "Οι αναθεωρητές μπορούν να υποβάλουν περιλήψεις"
+
+#~ msgid "Enable this to allow reviewers to submit new abstracts."
+#~ msgstr ""
+#~ "Ενεργοποιήστε αυτό για να επιτρέψετε στους αναθεωρητές να υποβάλουν νέες "
+#~ "περιλήψεις."
+
+#~ msgid "Reviewers can Edit Abstracts"
+#~ msgstr "Οι αναθεωρητές μπορούν να επεξεργαστείτε περιλήψεις"
+
+#~ msgid "Enable this to allow reviewers to edit abstracts they are assigned."
+#~ msgstr ""
+#~ "Επιτρέπω this να επιτρέπει σχολιαστές να επεξεργαστείτε αποσπάσματα που "
+#~ "τους έχουν ανατεθεί."
+
+#~ msgid "Reviewers can Change Ownership"
+#~ msgstr "Οι αναθεωρητές μπορούν να αλλαγή κυριότητας"
+
+#~ msgid ""
+#~ "Enable this to allow reviewers to change ownership (the author) of a "
+#~ "submission (useful if a reviewer submits an abstract on behalf of an "
+#~ "author but the option above to enable reviewers to edit abstracts must be "
+#~ "enabled for this to work)."
+#~ msgstr ""
+#~ "Ενεργοποίηση αυτή να επιτρέψει αναθεωρητές για να αλλάξετε την κατοχή (ο "
+#~ "συγγραφέας) υποβολή (χρήσιμο αν ένας αναθεωρητής υποβάλλει μια αφηρημένη "
+#~ "εξ ονόματος ενός συγγραφέα αλλά με την παραπάνω επιλογή για να "
+#~ "ενεργοποιήσετε σχολιαστές να επεξεργαστείτε περιλήψεις πρέπει να είναι "
+#~ "ενεργοποιημένη για να λειτουργήσει)."
+
+#~ msgid "Enable Blind Reviews"
+#~ msgstr "Ενεργοποίηση \"τυφλών\" αξιολογήσεων"
+
+#~ msgid ""
+#~ "Enable this to hide author information from reviewers (does not apply to "
+#~ "admin)."
+#~ msgstr ""
+#~ "Ενεργοποιήστε το για να αποκρύψετε τις πληροφορίες δημιουργού, συγγραφέων "
+#~ "και ομιλητή από τους αξιολογητές (ο διαχειριστής θα έχει πρόσβαση σε "
+#~ "αυτές τις πληροφορίες)"
+
+#~ msgid "Show Reviewer Comments"
+#~ msgstr "Εμφάνιση σχόλια αναθεωρητών"
+
+#~ msgid "Disable this to hide reviewer comments from Authors."
+#~ msgstr ""
+#~ "Να απενεργοποιήσετε αυτό για να αποκρύψετε τα σχόλια αναθεωρητών από τους "
+#~ "συντάκτες."
+
+#~ msgid "Captcha Secret"
+#~ msgstr "Κωδικός ασφαλείας"

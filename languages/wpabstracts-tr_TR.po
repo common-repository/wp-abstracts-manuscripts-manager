@@ -1,0 +1,2578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"POT-Creation-Date: 2023-01-07 12:04-0500\n"
+"PO-Revision-Date: 2023-01-07 12:04-0500\n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: Kevon Adonis <support@wpabstracts.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../abstracts/abstracts.add.php:8
+msgid "Abstract submission for this event has past"
+msgstr "Bu kongre için bildiri gönderi tarihi geçmiştir"
+
+#: ../abstracts/abstracts.add.php:12
+msgid "You have reached the maximum amount of submissions allowed per user."
+msgstr "Kullanıcı başına izin verilen maksimum gönderim miktarına ulaştınız."
+
+#: ../abstracts/abstracts.add.php:18 ../dashboard/wpabstracts.dashboard.php:86
+#: ../dashboard/wpabstracts.dashboard.php:90
+msgid "New Abstract"
+msgstr "Yeni Bildiri"
+
+#: ../abstracts/abstracts.add.php:19 ../abstracts/abstracts.edit.php:16
+#: ../emails/emails.add.php:4 ../emails/emails.edit.php:4
+#: ../events/events.add.php:11 ../events/events.edit.php:11
+#: ../users/users.profile.php:38
+msgid "Submit"
+msgstr "Kaydet"
+
+#: ../abstracts/abstracts.add.php:26 ../abstracts/abstracts.edit.php:23
+#: ../abstracts/abstracts.view.php:9
+msgid "Abstract Information"
+msgstr "Bildiri Bilgileri"
+
+#: ../abstracts/abstracts.add.php:30
+msgid "Enter Title"
+msgstr "Bildiri Başlığı"
+
+#: ../abstracts/abstracts.add.php:42 ../abstracts/abstracts.edit.php:40
+#, php-format
+msgid "Words Used: %s"
+msgstr "Kullanılan Kelimeler:%s"
+
+#: ../abstracts/abstracts.add.php:43 ../abstracts/abstracts.edit.php:41
+#, php-format
+msgid "Words Remaining: %s"
+msgstr "Kalan kelime: %s"
+
+#: ../abstracts/abstracts.add.php:51 ../abstracts/abstracts.view.php:23
+#: ../inc/wpabstracts_downloads.php:90 ../inc/wpabstracts_functions.php:1119
+#: ../wpabstracts.php:385 ../wpabstracts.php:395 ../wpabstracts.php:714
+msgid "Keywords"
+msgstr "Anahtar Kelimeler"
+
+#: ../abstracts/abstracts.add.php:52 ../abstracts/abstracts.edit.php:49
+msgid "Enter comma separated keywords"
+msgstr "Anahtar kelimeleri virgül ile ayırın"
+
+#: ../abstracts/abstracts.add.php:61 ../abstracts/abstracts.attachments.php:32
+#: ../abstracts/abstracts.edit.php:237
+#: ../dashboard/wpabstracts.dashboard.php:139 ../wpabstracts.abstracts.php:30
+#: ../wpabstracts.php:382 ../wpabstracts.php:404 ../wpabstracts.php:711
+msgid "Attachments"
+msgstr "Ekler"
+
+#: ../abstracts/abstracts.add.php:67 ../abstracts/abstracts.edit.php:245
+msgid "Use this form to upload your images, photos or tables."
+msgstr "Bu formu fotoğraf, görsel veya tablolarınızı yüklemek için kullanınız"
+
+#: ../abstracts/abstracts.add.php:68 ../abstracts/abstracts.edit.php:246
+msgid "Supported formats"
+msgstr "Desteklenen formatlar"
+
+#: ../abstracts/abstracts.add.php:69 ../abstracts/abstracts.edit.php:247
+msgid "Maximum attachment size"
+msgstr "Maksimum eklenebilecek dosya büyüklüğü"
+
+#: ../abstracts/abstracts.add.php:89 ../abstracts/abstracts.settings.php:504
+msgid "Terms and Conditions"
+msgstr "Şartlar ve Koşullar"
+
+#: ../abstracts/abstracts.add.php:106 ../abstracts/abstracts.edit.php:108
+#: ../abstracts/abstracts.view.php:54 ../events/events.add.php:19
+#: ../events/events.edit.php:18 ../events/events.edit.php:32
+msgid "Event Information"
+msgstr "Etkinlik bilgisi"
+
+#: ../abstracts/abstracts.add.php:114 ../abstracts/abstracts.add.php:131
+#: ../abstracts/abstracts.edit.php:115 ../abstracts/abstracts.view.php:60
+#: ../inc/wpabstracts_classes.php:61 ../inc/wpabstracts_functions.php:1100
+#: ../wpabstracts.php:375 ../wpabstracts.php:393 ../wpabstracts.php:704
+msgid "Event"
+msgstr "Etkinlik"
+
+#: ../abstracts/abstracts.add.php:116 ../abstracts/abstracts.edit.php:117
+msgid "Select an Event"
+msgstr "Bir etkinlik seçiniz"
+
+#: ../abstracts/abstracts.add.php:123 ../abstracts/abstracts.add.php:136
+#: ../abstracts/abstracts.edit.php:130 ../abstracts/abstracts.view.php:64
+#: ../inc/wpabstracts_classes.php:62 ../inc/wpabstracts_downloads.php:89
+#: ../inc/wpabstracts_functions.php:1103 ../wpabstracts.php:376
+#: ../wpabstracts.php:394 ../wpabstracts.php:705
+msgid "Topic"
+msgstr "Başlık"
+
+#: ../abstracts/abstracts.add.php:125 ../abstracts/abstracts.add.php:138
+#: ../abstracts/abstracts.edit.php:132
+msgid "Select a Topic"
+msgstr "Başlık seçiniz"
+
+#: ../abstracts/abstracts.add.php:154 ../abstracts/abstracts.edit.php:151
+#: ../abstracts/abstracts.view.php:80
+msgid "Author Information"
+msgstr "Yazar bilgisi"
+
+#: ../abstracts/abstracts.add.php:163 ../abstracts/abstracts.edit.php:167
+#: ../inc/wpabstracts_downloads.php:92 ../wpabstracts.php:396
+msgid "Author Name"
+msgstr "Yazar Adı"
+
+#: ../abstracts/abstracts.add.php:166 ../abstracts/abstracts.edit.php:170
+#: ../inc/wpabstracts_downloads.php:93
+msgid "Author Email"
+msgstr "Yazar emaili"
+
+#: ../abstracts/abstracts.add.php:169 ../abstracts/abstracts.edit.php:173
+#: ../inc/wpabstracts_downloads.php:94 ../wpabstracts.php:397
+msgid "Author Affiliation"
+msgstr "Kurum bilgisi"
+
+#: ../abstracts/abstracts.add.php:184 ../abstracts/abstracts.edit.php:193
+#: ../abstracts/abstracts.view.php:122
+msgid "Presenter Information"
+msgstr "Sunum yapacak kişinin bilgileri"
+
+#: ../abstracts/abstracts.add.php:190 ../abstracts/abstracts.edit.php:207
+#: ../abstracts/abstracts.view.php:95 ../abstracts/abstracts.view.php:136
+#: ../inc/wpabstracts_emailer.php:68 ../inc/wpabstracts_emailer.php:90
+msgid "Name"
+msgstr "İsim"
+
+#: ../abstracts/abstracts.add.php:195 ../abstracts/abstracts.edit.php:212
+#: ../abstracts/abstracts.view.php:99 ../abstracts/abstracts.view.php:140
+#: ../inc/wpabstracts_emailer.php:69 ../inc/wpabstracts_emailer.php:91
+#: ../users/users.formbuilder.php:178 ../users/users.register.html.php:190
+msgid "Email"
+msgstr "Email"
+
+#: ../abstracts/abstracts.add.php:200 ../abstracts/abstracts.edit.php:217
+#: ../abstracts/abstracts.view.php:144 ../inc/wpabstracts_downloads.php:97
+#: ../inc/wpabstracts_functions.php:1109
+msgid "Presenter Preference"
+msgstr "Sunum tercihleri"
+
+#: ../abstracts/abstracts.add.php:202
+msgid "Select Preference"
+msgstr "Tercihini seçin"
+
+#: ../abstracts/abstracts.classes.php:33
+#: ../dashboard/wpabstracts.dashboard.php:174
+msgid "View"
+msgstr "Görünüm"
+
+#: ../abstracts/abstracts.classes.php:34
+#: ../dashboard/wpabstracts.dashboard.php:169 ../emails/emails.classes.php:23
+#: ../inc/wpabstracts_classes.php:168
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../abstracts/abstracts.classes.php:35 ../abstracts/abstracts.classes.php:150
+#: ../abstracts/abstracts.manage.php:188 ../wpabstracts.php:782
+msgid "Change Status"
+msgstr "Durumu Değiştir"
+
+#: ../abstracts/abstracts.classes.php:36 ../abstracts/abstracts.classes.php:149
+msgid "Assign Reviewer"
+msgstr "Hakem tayin ediniz"
+
+#: ../abstracts/abstracts.classes.php:37 ../wpabstracts.php:48
+#: ../wpabstracts.php:193
+msgid "Reviews"
+msgstr "Değerlendirme"
+
+#: ../abstracts/abstracts.classes.php:38
+msgid "Export PDF"
+msgstr "PDF olarak gönderin"
+
+#: ../abstracts/abstracts.classes.php:39 ../abstracts/abstracts.classes.php:151
+#: ../dashboard/wpabstracts.dashboard.php:170 ../emails/emails.classes.php:24
+#: ../emails/emails.classes.php:79 ../emails/emails.classes.php:160
+#: ../inc/wpabstracts_classes.php:28 ../inc/wpabstracts_classes.php:83
+#: ../inc/wpabstracts_classes.php:169 ../users/users.classes.php:33
+#: ../users/users.classes.php:112
+msgid "Delete"
+msgstr "Sil"
+
+#: ../abstracts/abstracts.classes.php:49
+msgid "Event Not Found"
+msgstr "Etkinlik bulunmadı"
+
+#: ../abstracts/abstracts.classes.php:79
+msgid "Not Assigned"
+msgstr "Atanmadı"
+
+#: ../abstracts/abstracts.classes.php:110 ../abstracts/abstracts.edit.php:93
+msgid "User not found"
+msgstr "Kullanıcı bulunamadı"
+
+#: ../abstracts/abstracts.classes.php:162
+msgid "Filter by Status"
+msgstr "Durumuna Göre Filtrele"
+
+#: ../abstracts/abstracts.classes.php:164
+#: ../abstracts/abstracts.classes.php:179
+msgid "All"
+msgstr "Tümü"
+
+#: ../abstracts/abstracts.classes.php:177
+msgid "Filter by Preference"
+msgstr "Tercihe göre filtre"
+
+#: ../abstracts/abstracts.display.php:22
+msgid "by"
+msgstr "Yazar"
+
+#: ../abstracts/abstracts.display.php:30
+msgid "Nothing to display"
+msgstr "Görüntülenecek bir şey yok"
+
+#: ../abstracts/abstracts.edit.php:9
+msgid "You are not allowed to edit this submission at this time."
+msgstr "Şu anda bu teslim düzenlemek için izin verilmez."
+
+#: ../abstracts/abstracts.edit.php:15
+msgid "Edit Abstract"
+msgstr "Bildiriyi düzenle"
+
+#: ../abstracts/abstracts.edit.php:27
+msgid "Enter title"
+msgstr "Başlığı Girin"
+
+#: ../abstracts/abstracts.edit.php:57 ../abstracts/abstracts.view.php:31
+msgid "Manage Attachments"
+msgstr "Eklenen dosyaları düzenleyin"
+
+#: ../abstracts/abstracts.edit.php:62 ../abstracts/abstracts.view.php:36
+msgid "No Attachments uploaded"
+msgstr "Yüklenen dosya yok"
+
+#: ../abstracts/abstracts.edit.php:68
+msgid "Remove"
+msgstr "Kaldır"
+
+#: ../abstracts/abstracts.edit.php:78
+msgid "Manage Ownership"
+msgstr "Durumunuzu yönetin"
+
+#: ../abstracts/abstracts.edit.php:81
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr "Bu kutuyu yeni kullanıcı/bildiri sahibi eklemek için kullanın "
+
+#: ../abstracts/abstracts.edit.php:249
+msgid "You have used all your attachment slots allowed."
+msgstr "Sizin için tanımlanan dosya yükleme sayısına ulaştınız"
+
+#: ../abstracts/abstracts.manage.php:78 ../abstracts/abstracts.manage.php:88
+#: ../emails/emails.templates.php:100 ../events/events.manage.php:142
+msgid "Could not locate this resource. Please try again."
+msgstr "Bu kaynak bulunamadı. Lütfen tekrar deneyin."
+
+#: ../abstracts/abstracts.manage.php:164
+msgid "This and more reviewing features are available in the WPAbstracts Pro."
+msgstr "Bu ve daha fazla inceleme özellikleri WPAbstracts Pro 'da mevcuttur."
+
+#: ../abstracts/abstracts.manage.php:192
+msgid "Select a status"
+msgstr "durum seç"
+
+#: ../abstracts/abstracts.manage.php:244
+msgid "The selected Abstracts were successfully deleted."
+msgstr "Seçilen Özetler başarıyla silindi."
+
+#: ../abstracts/abstracts.manage.php:251 ../inc/wpabstracts_downloads.php:122
+#: ../wpabstracts.php:47 ../wpabstracts.php:192
+msgid "Abstracts"
+msgstr "Bildiriler"
+
+#: ../abstracts/abstracts.manage.php:251 ../emails/emails.templates.php:107
+#: ../events/events.manage.php:200
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84 ../wpabstracts.abstracts.php:31
+#: ../wpabstracts.events.php:29 ../wpabstracts.users.php:28
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../abstracts/abstracts.settings.php:126 ../events/events.settings.php:20
+#: ../users/users.settings.php:84
+msgid "Save Changes"
+msgstr "Kaydet"
+
+#: ../abstracts/abstracts.settings.php:132
+msgid "Abstracts Configuration"
+msgstr "Bildiriler"
+
+#: ../abstracts/abstracts.settings.php:137
+msgid "Show Abstract Description"
+msgstr "Soyut açıklama göster"
+
+#: ../abstracts/abstracts.settings.php:138
+msgid ""
+"Use this setting to hide the decription area completely from the submission "
+"page."
+msgstr ""
+"Tanımı alanından tamamen gönderme sayfası gizlemek için bu ayarı kullanın."
+
+#: ../abstracts/abstracts.settings.php:141
+#: ../abstracts/abstracts.settings.php:152
+#: ../abstracts/abstracts.settings.php:163
+#: ../abstracts/abstracts.settings.php:174
+#: ../abstracts/abstracts.settings.php:185
+#: ../abstracts/abstracts.settings.php:196
+#: ../abstracts/abstracts.settings.php:207
+#: ../abstracts/abstracts.settings.php:218
+#: ../abstracts/abstracts.settings.php:292
+#: ../abstracts/abstracts.settings.php:367 ../emails/emails.add.php:78
+#: ../emails/emails.classes.php:54 ../emails/emails.edit.php:67
+#: ../events/events.settings.php:37 ../events/events.settings.php:48
+#: ../events/events.settings.php:59 ../events/events.settings.php:70
+#: ../events/events.settings.php:81 ../users/users.settings.php:105
+#: ../users/users.settings.php:116 ../users/users.settings.php:127
+#: ../users/users.settings.php:138 ../users/users.settings.php:151
+#: ../users/users.settings.php:223 ../users/users.settings.php:234
+#: ../users/users.settings.php:245 ../users/users.settings.php:256
+msgid "Yes"
+msgstr "Evet"
+
+#: ../abstracts/abstracts.settings.php:142
+#: ../abstracts/abstracts.settings.php:153
+#: ../abstracts/abstracts.settings.php:164
+#: ../abstracts/abstracts.settings.php:175
+#: ../abstracts/abstracts.settings.php:186
+#: ../abstracts/abstracts.settings.php:197
+#: ../abstracts/abstracts.settings.php:208
+#: ../abstracts/abstracts.settings.php:219
+#: ../abstracts/abstracts.settings.php:293
+#: ../abstracts/abstracts.settings.php:368 ../emails/emails.add.php:79
+#: ../emails/emails.edit.php:68 ../events/events.settings.php:38
+#: ../events/events.settings.php:49 ../events/events.settings.php:60
+#: ../events/events.settings.php:71 ../events/events.settings.php:82
+#: ../users/users.settings.php:106 ../users/users.settings.php:117
+#: ../users/users.settings.php:128 ../users/users.settings.php:139
+#: ../users/users.settings.php:152 ../users/users.settings.php:224
+#: ../users/users.settings.php:235 ../users/users.settings.php:246
+#: ../users/users.settings.php:257
+msgid "No"
+msgstr "Hayır"
+
+#: ../abstracts/abstracts.settings.php:147
+msgid "Allow Editor Media"
+msgstr "Editör medya izin"
+
+#: ../abstracts/abstracts.settings.php:148
+msgid ""
+"Use this setting to hide or show the Add Media button on the submission text "
+"editor."
+msgstr ""
+"Medya Ekle düğmesi gönderme metin düzenleyicisi göstermek veya gizlemek için "
+"bu ayarı kullanın."
+
+#: ../abstracts/abstracts.settings.php:158
+msgid "Show Author Fields"
+msgstr "Yönetici bölümünü göster"
+
+#: ../abstracts/abstracts.settings.php:159
+msgid ""
+"Use this setting to hide the author area completely from the submission page."
+msgstr ""
+"Yazar alandan tamamen gönderme sayfası gizlemek için bu ayarı kullanın."
+
+#: ../abstracts/abstracts.settings.php:169
+msgid "Show Attachment Uploads"
+msgstr "Eklenen dosyaları göster"
+
+#: ../abstracts/abstracts.settings.php:170
+msgid ""
+"Use this setting to hide the attachment area completely from the submission "
+"page."
+msgstr ""
+"Bu ayarı, özet gönderim sayfasında ek yükleme kutusunu gizlemek için "
+"kullanınız."
+
+#: ../abstracts/abstracts.settings.php:180
+msgid "Make Attachment Required"
+msgstr "Eki Gerekli Yap"
+
+#: ../abstracts/abstracts.settings.php:181
+msgid "Use this setting to make attachments required or optional."
+msgstr "Ekleri gerekli veya isteğe bağlı hale getirmek için bu ayarı kullanın."
+
+#: ../abstracts/abstracts.settings.php:191
+msgid "Show Presenter Fields"
+msgstr "Presenter alanları göster"
+
+#: ../abstracts/abstracts.settings.php:192
+msgid ""
+"Use this setting to hide the presenter area completely from the submission "
+"and edit pages."
+msgstr ""
+"Sunum alandan tamamen teslim gizlemek ve sayfaları düzenlemek için bu ayarı "
+"kullanın."
+
+#: ../abstracts/abstracts.settings.php:202
+msgid "Show Abstract Keywords"
+msgstr "Yönetici bölümünü göster"
+
+#: ../abstracts/abstracts.settings.php:203
+msgid ""
+"Enable this to display the keywords input on the submission page. Enabling "
+"this makes keywords required."
+msgstr ""
+"Bu anahtar kelimeler girişi gönderme sayfası üzerinde görüntülemek "
+"etkinleştirin. Bu etkinleştirilmesi gereken anahtar kelimeler yapar."
+
+#: ../abstracts/abstracts.settings.php:213
+msgid "Show Terms & Conditions"
+msgstr "Şartlar ve Koşullar"
+
+#: ../abstracts/abstracts.settings.php:214
+msgid ""
+"Enable this to display your terms and conditions on the submission page. "
+"Enabling this makes the checkbox required."
+msgstr ""
+"Şartlar ve koşullarınızı gönderim sayfasında görüntülemek için bunu "
+"etkinleştirin. Bunu etkinleştirmek için onay kutusu gereklidir."
+
+#: ../abstracts/abstracts.settings.php:224
+msgid "Maximum User Submissions"
+msgstr "En Fazla Kullanıcı Gönderimi"
+
+#: ../abstracts/abstracts.settings.php:225
+msgid "Set the maximum submissions allowed per user."
+msgstr "İzin verilen en fazla eklenebilecek dosya sayısını ayarla "
+
+#: ../abstracts/abstracts.settings.php:232
+msgid "Maximum Word Count"
+msgstr "Maksimum kelime sayısı"
+
+#: ../abstracts/abstracts.settings.php:233
+msgid "Maximum character count allowed in a submission."
+msgstr "Bildiri kaydederken izin verilen maksimum karakter sayısı"
+
+#: ../abstracts/abstracts.settings.php:240
+msgid "Maximum Attachments"
+msgstr "En fazla eklenebilecek dosya sayısı"
+
+#: ../abstracts/abstracts.settings.php:241
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "İzin verilen en fazla eklenebilecek dosya sayısını ayarla "
+
+#: ../abstracts/abstracts.settings.php:248
+msgid "Maximum Attachment Size"
+msgstr " En fazla eklenebilecek dosya boyutu "
+
+#: ../abstracts/abstracts.settings.php:249
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "İzin verilen en fazla eklenebilecek dosya boyutu (byte olarak) "
+
+#: ../abstracts/abstracts.settings.php:256
+msgid "Permitted Attachments"
+msgstr "İzin verilen eklentiler"
+
+#: ../abstracts/abstracts.settings.php:257
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr ""
+"Yükleme için izin verilen dosya uzantıları (uzantıları virgülle ayırınız)"
+
+#: ../abstracts/abstracts.settings.php:264
+msgid "Set Presenter Preferences"
+msgstr "Sunum tercihleri"
+
+#: ../abstracts/abstracts.settings.php:265
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+"İzin verilen sunum çeşidini belirleyiniz (virgülle ayırarak) ör. Poster, "
+"Panel, Yuvarlak Masa"
+
+#: ../abstracts/abstracts.settings.php:278
+msgid "Admin Notification Recipients"
+msgstr "Yönetici Bildirim Alıcıları"
+
+#: ../abstracts/abstracts.settings.php:279
+msgid "Enable or disable admin notications for admin users."
+msgstr ""
+"Yönetici kullanıcılar için yönetici bildirimlerini etkinleştirin veya devre "
+"dışı bırakın."
+
+#: ../abstracts/abstracts.settings.php:309
+msgid "Abstract Status"
+msgstr "Özet Durum"
+
+#: ../abstracts/abstracts.settings.php:315
+msgid "Abstracts Status Description"
+msgstr "Bildiri Özetleri durum açıklaması"
+
+#: ../abstracts/abstracts.settings.php:316
+msgid "Describe the four statuses Abstracts may be in."
+msgstr "Bildiri Özetleri olabilir dört durumları açıklar."
+
+#: ../abstracts/abstracts.settings.php:334
+msgid "Statuses that allow edits"
+msgstr "Düzenlemelere izin veren durumlar"
+
+#: ../abstracts/abstracts.settings.php:335
+msgid ""
+"Select the statuses for when authors are allowed to edit their submission."
+msgstr ""
+"Yazarların gönderimlerini düzenlemelerine ne zaman izin verileceğine ilişkin "
+"durumları seçin."
+
+#: ../abstracts/abstracts.settings.php:349
+msgid "Default Submission Status"
+msgstr "Varsayılan Gönderim Durumu"
+
+#: ../abstracts/abstracts.settings.php:350
+msgid "Select the default status of newly submitted abstracts."
+msgstr "Yeni gönderilen özetlerin varsayılan durumunu seçin."
+
+#: ../abstracts/abstracts.settings.php:362
+msgid "Sync Review Status to Abstracts"
+msgstr "Eşitleme gözden geçirme durumunu özetler için"
+
+#: ../abstracts/abstracts.settings.php:363
+msgid ""
+"Enable this to allow reviewer status selection to update the abstract "
+"status. This works best when one reviewer is assigned to the abstract. If "
+"more than one reviews are submitted the last one wins."
+msgstr ""
+"Soyut durumu güncellemek için gözden geçirme durumu seçimine izin vermek "
+"için bunu etkinleştirin. Bu, bir incelemeci özete atandığında en iyi şekilde "
+"çalışır. Birden fazla inceleme gönderilirse sonuncusu kazanır."
+
+#: ../abstracts/abstracts.settings.php:381 ../users/users.settings.php:267
+msgid "Admin Columns"
+msgstr "Admin Columns"
+
+#: ../abstracts/abstracts.settings.php:382
+msgid "Select columns to display on manage abstracts tab."
+msgstr "Özetleri yönet sekmesinde görüntülenecek sütunları seçin."
+
+#: ../abstracts/abstracts.settings.php:411
+msgid "Accepted Shortcode"
+msgstr "Kabul Edilen Kısa Kod"
+
+#: ../abstracts/abstracts.settings.php:412
+msgid ""
+"Select the status and info to display on the details page when using the "
+"[wpabstracts_accepted] shortcode."
+msgstr ""
+"[wpabstracts_accepted] kısa kodunu kullanırken ayrıntılar sayfasında "
+"görüntülenecek durumu ve bilgileri seçin."
+
+#: ../abstracts/abstracts.settings.php:437
+msgid "Shortcode Abstract Status"
+msgstr "Kısa Kod Özeti Durumu"
+
+#: ../abstracts/abstracts.settings.php:438
+msgid "Select the status of the items to display when using the shortcode."
+msgstr "Kısa kodu kullanırken görüntülenecek öğelerin durumunu seçin."
+
+#: ../abstracts/abstracts.settings.php:455
+msgid "PDF Export Options"
+msgstr "PDF Dışa Aktarma Seçenekleri"
+
+#: ../abstracts/abstracts.settings.php:456
+msgid "Select the info include when exporting abstracts to PDF."
+msgstr "Özetleri PDF'ye dışa aktarırken dahil edilen bilgileri seçin."
+
+#: ../abstracts/abstracts.settings.php:487
+msgid "Author Instructions"
+msgstr "Yazarlara bilgiler"
+
+#: ../abstracts/abstracts.settings.php:488
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr "Bildiri yüklerken yazarlara özel yönergeler gir "
+
+#: ../abstracts/abstracts.settings.php:505
+msgid "Enter your terms and contitions for authors to agree."
+msgstr "Şartlar ve contitions katılıyorum yazarlara girin."
+
+#: ../abstracts/abstracts.view.php:3
+msgid "View Abstract"
+msgstr "Özeti Görüntüle"
+
+#: ../abstracts/abstracts.view.php:13
+#: ../dashboard/wpabstracts.dashboard.php:132
+#: ../inc/wpabstracts_downloads.php:86 ../wpabstracts.php:391
+msgid "Title"
+msgstr "Başlık"
+
+#: ../abstracts/abstracts.view.php:18 ../inc/wpabstracts_downloads.php:87
+#: ../wpabstracts.php:392
+msgid "Description"
+msgstr "Açıklama"
+
+#: ../abstracts/abstracts.view.php:103 ../inc/wpabstracts_emailer.php:70
+msgid "Affiliation"
+msgstr "Kurum bilgisi"
+
+#: ../dashboard/wpabstracts.dashboard.php:20
+msgid ""
+"You're logged in as an administrator, please use WordPress admin area to "
+"manage abstracts or use another browser to view your dashboard as author or "
+"reviewer."
+msgstr ""
+"Yönetici olarak giriş, lütfen özetleri yönetmek veya yazarın veya gözden "
+"geçirenin gösterge tablonuzda görüntülemek için başka bir tarayıcı kullanın "
+"için WordPress Yönetici alanı kullanın."
+
+#: ../dashboard/wpabstracts.dashboard.php:26
+msgid "You do not have permissions to manage this resource."
+msgstr "Bu kaynağı yönetmek için izniniz yok."
+
+#: ../dashboard/wpabstracts.dashboard.php:62
+msgid ""
+"Your account is not setup to view this dashboard. Please contact your site "
+"admin."
+msgstr ""
+"Hesabınız bu kontrol panelini görüntülemek için ayarlanmamış. Lütfen site "
+"yöneticinize başvurun."
+
+#: ../dashboard/wpabstracts.dashboard.php:69
+msgid "Welcome back"
+msgstr "Tekrar hoş geldiniz"
+
+#: ../dashboard/wpabstracts.dashboard.php:79 ../users/users.login.php:11
+msgid "Dashboard"
+msgstr "Panel"
+
+#: ../dashboard/wpabstracts.dashboard.php:99
+msgid "My Profile"
+msgstr "Profilim"
+
+#: ../dashboard/wpabstracts.dashboard.php:104 ../users/users.login.php:12
+msgid "Logout"
+msgstr "Çıkış"
+
+#: ../dashboard/wpabstracts.dashboard.php:123
+msgid "My Abstracts"
+msgstr "Bildirilerim"
+
+#: ../dashboard/wpabstracts.dashboard.php:131 ../wpabstracts.php:390
+msgid "ID"
+msgstr "Bildiri no'su"
+
+#: ../dashboard/wpabstracts.dashboard.php:134
+msgid "Review"
+msgstr "Değerlendirme"
+
+#: ../dashboard/wpabstracts.dashboard.php:136 ../emails/emails.add.php:104
+#: ../emails/emails.classes.php:44 ../emails/emails.edit.php:93
+#: ../events/events.add.php:37 ../events/events.edit.php:36
+#: ../inc/wpabstracts_classes.php:225 ../inc/wpabstracts_downloads.php:91
+#: ../inc/wpabstracts_downloads.php:139 ../inc/wpabstracts_functions.php:1113
+#: ../wpabstracts.php:379 ../wpabstracts.php:400 ../wpabstracts.php:708
+msgid "Status"
+msgstr "Durum"
+
+#: ../dashboard/wpabstracts.dashboard.php:137 ../inc/wpabstracts_emailer.php:92
+#: ../wpabstracts.php:378 ../wpabstracts.php:707
+msgid "Preference"
+msgstr "Tercih"
+
+#: ../dashboard/wpabstracts.dashboard.php:138
+msgid "Submit Date"
+msgstr "Gönderme tarihi"
+
+#: ../dashboard/wpabstracts.dashboard.php:140
+msgid "Action"
+msgstr "Durum"
+
+#: ../dashboard/wpabstracts.dashboard.php:147
+msgid "You have NOT submitted any abstracts."
+msgstr "Herhangi bir bildiri yüklemediniz"
+
+#: ../dashboard/wpabstracts.dashboard.php:160
+msgid "No reviews as yet."
+msgstr "Henüz değerlendirme yapilmadi"
+
+#: ../emails/emails.add.php:3
+msgid "New Template"
+msgstr "Yeni Şablon"
+
+#: ../emails/emails.add.php:11 ../emails/emails.edit.php:11
+msgid "Template Information"
+msgstr "Şablon Bilgileri"
+
+#: ../emails/emails.add.php:15 ../emails/emails.edit.php:15
+msgid "Template Name"
+msgstr "Şablon ismi"
+
+#: ../emails/emails.add.php:21 ../emails/emails.classes.php:63
+#: ../emails/emails.edit.php:21 ../users/users.settings.php:327
+msgid "From Name"
+msgstr "Gönderen"
+
+#: ../emails/emails.add.php:27 ../emails/emails.classes.php:64
+#: ../emails/emails.edit.php:27 ../users/users.settings.php:335
+msgid "From Email"
+msgstr "Kimden"
+
+#: ../emails/emails.add.php:33 ../emails/emails.edit.php:33
+#: ../users/users.settings.php:343
+msgid "Email Subject"
+msgstr "Konu başlığı"
+
+#: ../emails/emails.add.php:39 ../emails/emails.edit.php:39
+msgid "Email Body"
+msgstr "email içeriği"
+
+#: ../emails/emails.add.php:60 ../emails/emails.edit.php:49
+msgid "Include Submission as Attachment"
+msgstr "Gönderimi Ek Olarak Ekle"
+
+#: ../emails/emails.add.php:69 ../emails/emails.edit.php:58
+msgid "Template Settings"
+msgstr "Şablon Ayarları"
+
+#: ../emails/emails.add.php:73 ../emails/emails.classes.php:67
+#: ../emails/emails.edit.php:62 ../events/events.add.php:39
+#: ../events/events.edit.php:38
+msgid "Active"
+msgstr "Etkin"
+
+#: ../emails/emails.add.php:74 ../emails/emails.edit.php:63
+msgid "Use this setting to enable or disable this email template."
+msgstr ""
+"Bu e-posta şablonunu etkinleştirmek veya devre dışı bırakmak için bu ayarı "
+"kullanın."
+
+#: ../emails/emails.add.php:83 ../emails/emails.classes.php:66
+#: ../emails/emails.edit.php:72
+msgid "Receiver"
+msgstr "Alıcı"
+
+#: ../emails/emails.add.php:84 ../emails/emails.edit.php:73
+msgid "Select the receiver for this email notification (Author or Admin)."
+msgstr "Bu e-posta bildiriminin alıcısını seçin (Yazar veya Yönetici)."
+
+#: ../emails/emails.add.php:88 ../emails/emails.classes.php:49
+#: ../emails/emails.edit.php:77 ../inc/wpabstracts_classes.php:63
+#: ../wpabstracts.php:377 ../wpabstracts.php:706
+msgid "Author"
+msgstr "Yazar"
+
+#: ../emails/emails.add.php:89 ../emails/emails.classes.php:51
+#: ../emails/emails.edit.php:78
+msgid "Admin"
+msgstr "Yönetici"
+
+#: ../emails/emails.add.php:93 ../emails/emails.classes.php:65
+#: ../emails/emails.edit.php:82
+msgid "Trigger"
+msgstr "Tetik"
+
+#: ../emails/emails.add.php:94
+msgid "Selection the abstract action that triggers this email notification."
+msgstr "Bu e-posta bildirimini tetikleyen soyut eylemi seçin."
+
+#: ../emails/emails.add.php:98 ../emails/emails.classes.php:42
+#: ../emails/emails.edit.php:87
+msgid "Submission"
+msgstr "Sunum"
+
+#: ../emails/emails.add.php:99 ../emails/emails.classes.php:43
+#: ../emails/emails.edit.php:88
+msgid "Revision"
+msgstr "Revizyon"
+
+#: ../emails/emails.add.php:100 ../emails/emails.edit.php:89
+msgid "Status Change"
+msgstr "Durum Değişikliği"
+
+#: ../emails/emails.add.php:105 ../emails/emails.edit.php:94
+msgid "Select the abstract status that triggers this email notification."
+msgstr "Bu e-posta bildirimini tetikleyen özet durumunu seçin."
+
+#: ../emails/emails.add.php:120 ../emails/emails.edit.php:109
+#: ../users/users.settings.php:360
+msgid "Available Shortcodes"
+msgstr "Uygun kısa kodlar"
+
+#: ../emails/emails.classes.php:50
+msgid "Reviewer"
+msgstr "Hakem"
+
+#: ../emails/emails.classes.php:61
+msgid "Email Template"
+msgstr "Email şablonu"
+
+#: ../emails/emails.classes.php:62 ../emails/emails.classes.php:142
+msgid "Subject"
+msgstr "Konu"
+
+#: ../emails/emails.classes.php:141
+msgid "Recipient"
+msgstr "Alıcı"
+
+#: ../emails/emails.classes.php:143
+msgid "Message"
+msgstr "Mesaj"
+
+#: ../emails/emails.classes.php:144
+msgid "Sent"
+msgstr "Gönderildi"
+
+#: ../emails/emails.classes.php:150
+msgid "View Email"
+msgstr "Epostayı Gör"
+
+#: ../emails/emails.classes.php:170
+msgid "Successfully deleted selected logs."
+msgstr "Seçilen Özetler başarıyla silindi."
+
+#: ../emails/emails.edit.php:3
+msgid "Edit Template"
+msgstr "Şablonu Düzenle"
+
+#: ../emails/emails.edit.php:83
+msgid "Select the abstract action that triggers this email notification."
+msgstr "Bu e-posta bildirimini tetikleyen soyut eylemi seçin."
+
+#: ../emails/emails.templates.php:107
+msgid "Email Templates"
+msgstr "E-posta Şablonları"
+
+#: ../events/events.add.php:10
+msgid "New Event"
+msgstr "Yeni etkinlik"
+
+#: ../events/events.add.php:22
+msgid "Event Title"
+msgstr "Etkinlik başlığı"
+
+#: ../events/events.add.php:33
+msgid "Event Details"
+msgstr "Etkinlik detayları"
+
+#: ../events/events.add.php:42 ../events/events.edit.php:42
+#: ../inc/wpabstracts_classes.php:226
+msgid "Host"
+msgstr "Etkinlik düzenleyicisi"
+
+#: ../events/events.add.php:45 ../events/events.edit.php:45
+msgid "Location"
+msgstr "Etkinlik yeri"
+
+#: ../events/events.add.php:48 ../events/events.edit.php:48
+#: ../inc/wpabstracts_classes.php:228
+msgid "Start Date"
+msgstr "Başlangıç tarihi"
+
+#: ../events/events.add.php:51 ../events/events.edit.php:51
+#: ../inc/wpabstracts_classes.php:229
+msgid "End Date"
+msgstr "Bitiş tarihi"
+
+#: ../events/events.add.php:54 ../events/events.edit.php:54
+#: ../inc/wpabstracts_classes.php:230
+msgid "Deadline"
+msgstr "Son gün"
+
+#: ../events/events.add.php:61 ../events/events.edit.php:61
+#: ../inc/wpabstracts_classes.php:227
+msgid "Topics"
+msgstr "Başlıklar"
+
+#: ../events/events.add.php:68 ../events/events.edit.php:71
+msgid "add topic"
+msgstr "Başlık ekleyiniz"
+
+#: ../events/events.add.php:69 ../events/events.edit.php:72
+msgid "delete topic"
+msgstr "Başlığı siliniz"
+
+#: ../events/events.edit.php:10
+msgid "Edit Event"
+msgstr "Etkinliği düzenleyin"
+
+#: ../events/events.edit.php:21
+msgid "Event title"
+msgstr "Etkinlik başlığı"
+
+#: ../events/events.edit.php:39
+msgid "Archived"
+msgstr "Arşivlendi"
+
+#: ../events/events.manage.php:193
+msgid "Error!"
+msgstr "Hata!"
+
+#: ../events/events.manage.php:200 ../wpabstracts.php:46 ../wpabstracts.php:191
+msgid "Events"
+msgstr "Etkinlik"
+
+#: ../events/events.settings.php:14
+msgid "Awesome! Your settings were updated."
+msgstr "Harika! Ayarlarınız güncellendi."
+
+#: ../events/events.settings.php:26
+msgid "Frontend Dashboard Configuration"
+msgstr "Frontend Pano yapılandırma"
+
+#: ../events/events.settings.php:32
+msgid "Enable WP Abstracts Registration"
+msgstr "WP Abstracts Kaydı Etkinleştir"
+
+#: ../events/events.settings.php:33
+msgid ""
+"Use WP Abstracts User registration module instead of WordPress's default "
+"registration."
+msgstr ""
+"WordPress'in varsayılan kaydı yerine WP Abstracts User kayıt modülünü "
+"kullanın."
+
+#: ../events/events.settings.php:43
+msgid "Allow WordPress Admin Access"
+msgstr "WordPress Yönetici Erişmesine İzin Ver"
+
+#: ../events/events.settings.php:44
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+"Kullanıcıların Wordpress Yönetici Paneline erişimine izin verme. Sadece "
+"bildiri gönderim sayfasından erişim olmasını istiyorsanız bu özelliği "
+"etkinleştirin"
+
+#: ../events/events.settings.php:54
+msgid "Show WordPress Admin Bar"
+msgstr "WordPress Yönetici Çubuğu"
+
+#: ../events/events.settings.php:55
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr ""
+"Kullanıcıların giriş yaptıktan sonra Wordpress yönetici bölümünü görmesini "
+"engeller "
+
+#: ../events/events.settings.php:65
+msgid "Enable Captcha (recommended)"
+msgstr "Captcha (önerilen) etkinleştirmek"
+
+#: ../events/events.settings.php:66
+msgid "Enable this to require users to enter a captcha code at login."
+msgstr ""
+"Bu kullanıcı-e doğru girmek Kaptan şifre giriş sırasında gerektirecek "
+"şekilde etkinleştirin."
+
+#: ../events/events.settings.php:76
+msgid "Redirect on Login"
+msgstr "Yönlendirme oturum açma"
+
+#: ../events/events.settings.php:77
+msgid "Enable this to redirect users to the dashboard on login from anywhere."
+msgstr ""
+"Kullanıcıları oturum açma sırasında herhangi bir yerden oturum açarak "
+"gösterge panosuna yönlendirmek için bu seçeneği etkinleştirin."
+
+#: ../events/events.settings.php:87
+msgid "Refresh Captcha Secret (Optional)"
+msgstr "Captcha gizli (isteğe bağlı) yenileme"
+
+#: ../events/events.settings.php:88
+msgid "As as entra layer of security reset your captcha secret."
+msgstr "Olarak captcha sırrını bir güvenlik katmanı entra sıfırlayın."
+
+#: ../inc/wpabstracts_classes.php:27 ../inc/wpabstracts_classes.php:66
+#: ../inc/wpabstracts_classes.php:82
+msgid "Download"
+msgstr "İndir"
+
+#: ../inc/wpabstracts_classes.php:59
+msgid "Attachment Name"
+msgstr "Ek dosya"
+
+#: ../inc/wpabstracts_classes.php:60 ../inc/wpabstracts_downloads.php:134
+msgid "Abstract Title"
+msgstr "Başlık"
+
+#: ../inc/wpabstracts_classes.php:64
+msgid "File Type"
+msgstr "Dosya tipi"
+
+#: ../inc/wpabstracts_classes.php:65
+msgid "File Size"
+msgstr "Dosya boyutu"
+
+#: ../inc/wpabstracts_classes.php:105 ../users/users.classes.php:150
+msgid "Search"
+msgstr "Ara"
+
+#: ../inc/wpabstracts_classes.php:112
+msgid "Download All"
+msgstr "Hepsini indir"
+
+#: ../inc/wpabstracts_classes.php:172 ../inc/wpabstracts_classes.php:243
+msgid "Archive"
+msgstr "Arşiv"
+
+#: ../inc/wpabstracts_classes.php:175 ../inc/wpabstracts_classes.php:244
+msgid "Unarchive"
+msgstr "Arşivden Çıkar"
+
+#: ../inc/wpabstracts_classes.php:187
+msgid "Copy"
+msgstr "Kopyala"
+
+#: ../inc/wpabstracts_classes.php:223 ../inc/wpabstracts_downloads.php:88
+msgid "Event Name"
+msgstr "Etkinlik Adı"
+
+#: ../inc/wpabstracts_classes.php:224
+msgid "Shortcode"
+msgstr "Kısa Kod"
+
+#: ../inc/wpabstracts_classes.php:231
+msgid "Submissions"
+msgstr "Kayıt olunanlar"
+
+#: ../inc/wpabstracts_downloads.php:85 ../inc/wpabstracts_downloads.php:133
+#: ../inc/wpabstracts_downloads.php:236 ../inc/wpabstracts_functions.php:1094
+msgid "Abstract ID"
+msgstr "Bildiri bilgisi"
+
+#: ../inc/wpabstracts_downloads.php:95 ../wpabstracts.php:398
+msgid "Presenter Name"
+msgstr "Sunanın adı"
+
+#: ../inc/wpabstracts_downloads.php:96
+msgid "Presenter Email"
+msgstr "Sunum yapacak kişi"
+
+#: ../inc/wpabstracts_downloads.php:98
+msgid "User ID"
+msgstr "Kullanıcı ID"
+
+#: ../inc/wpabstracts_downloads.php:99
+msgid "User"
+msgstr "Kullanıcı"
+
+#: ../inc/wpabstracts_downloads.php:100
+msgid "User Email"
+msgstr "Kullanıcı e-postası"
+
+#: ../inc/wpabstracts_downloads.php:101 ../inc/wpabstracts_downloads.php:140
+msgid "Reviewer ID"
+msgstr "Gözden geçiren kimliği"
+
+#: ../inc/wpabstracts_downloads.php:102 ../wpabstracts.php:380
+#: ../wpabstracts.php:709
+msgid "Reviewers"
+msgstr "Hakemler"
+
+#: ../inc/wpabstracts_downloads.php:103 ../wpabstracts.php:381
+#: ../wpabstracts.php:401 ../wpabstracts.php:710
+msgid "Date Submitted"
+msgstr "Kayıt tarihi"
+
+#: ../inc/wpabstracts_downloads.php:125
+msgid "Abstracts-All"
+msgstr "Bütün bildiriler"
+
+#: ../inc/wpabstracts_downloads.php:132
+msgid "Review ID"
+msgstr "Gözden geçirme numarası"
+
+#: ../inc/wpabstracts_downloads.php:135
+msgid "Relevance"
+msgstr "Uygun"
+
+#: ../inc/wpabstracts_downloads.php:136
+msgid "Quality"
+msgstr "Kalite"
+
+#: ../inc/wpabstracts_downloads.php:137
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: ../inc/wpabstracts_downloads.php:138
+msgid "Recommendation"
+msgstr "Önerileri"
+
+#: ../inc/wpabstracts_downloads.php:141
+msgid "Reviewer Name"
+msgstr "İnceleyen Adı"
+
+#: ../inc/wpabstracts_downloads.php:142
+msgid "Reviewer Email"
+msgstr "İnceleme E-postası"
+
+#: ../inc/wpabstracts_downloads.php:143
+msgid "Review Date"
+msgstr "İnceleme Tarihi"
+
+#: ../inc/wpabstracts_downloads.php:159
+msgid "Excellent Reviews"
+msgstr "Mükemmel olarak değerlendirilenler"
+
+#: ../inc/wpabstracts_downloads.php:162
+msgid "Good Reviews"
+msgstr "İyi olarak değerlendirilenler"
+
+#: ../inc/wpabstracts_downloads.php:165
+msgid "Average Reviews"
+msgstr "Ortalama olarak değerlendirilenler "
+
+#: ../inc/wpabstracts_downloads.php:168
+msgid "Poor Reviews"
+msgstr "Yetersiz olarak değerlendirilenler "
+
+#: ../inc/wpabstracts_downloads.php:171
+msgid "All Reviews"
+msgstr "Tüm değerlendirmeler"
+
+#: ../inc/wpabstracts_downloads.php:190
+msgid "All Users"
+msgstr "Tüm Kullanıcılar"
+
+#: ../inc/wpabstracts_downloads.php:236
+msgid "Auto-Generated"
+msgstr "otomatik olarak atandı"
+
+#: ../inc/wpabstracts_emailer.php:173 ../users/users.register.php:97
+msgid "From:"
+msgstr "Kimden:"
+
+#: ../inc/wpabstracts_functions.php:411
+msgid ""
+"There are no active events. Please ensure an event exists with a deadline "
+"later than yesterday."
+msgstr ""
+"Hiçbir etkin olay vardır. Lütfen bir olay dün'dan sonra bir süre ile var "
+"emin olun."
+
+#: ../inc/wpabstracts_functions.php:631
+msgid "Don't have an account? "
+msgstr "Hesabınız yok mu? "
+
+#: ../inc/wpabstracts_functions.php:633
+msgid "Sign Up"
+msgstr "Kaydol"
+
+#: ../inc/wpabstracts_functions.php:635
+msgid "Create an Account"
+msgstr "Yeni hesap oluştur"
+
+#: ../inc/wpabstracts_functions.php:643
+msgid "Forgot Password? "
+msgstr "Şifrenizi mi unuttunuz"
+
+#: ../inc/wpabstracts_functions.php:645 ../inc/wpabstracts_functions.php:647
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: ../inc/wpabstracts_functions.php:673 ../inc/wpabstracts_functions.php:676
+msgid "Invalid username or password. Please try again."
+msgstr "Geçersiz Kullanıcı adı veya parola. Lütfen tekrar deneyin."
+
+#: ../inc/wpabstracts_functions.php:679 ../inc/wpabstracts_functions.php:873
+msgid "Invalid security code. Please try again."
+msgstr "Geçersiz güvenlik kodu. Lütfen tekrar deneyin."
+
+#: ../inc/wpabstracts_functions.php:693
+msgid ""
+"Your account has not been activated. Please check your Inbox (including spam "
+"folder) for your activation link."
+msgstr ""
+"Hesabınızı aktif değil. Lütfen kontrol senin doğuştan (spam ağıl dahil) için "
+"harekete geçirmek bağlantı."
+
+#: ../inc/wpabstracts_functions.php:697 ../inc/wpabstracts_functions.php:703
+msgid "Sign in successful."
+msgstr "Başarılı oturum açın."
+
+#: ../inc/wpabstracts_functions.php:718 ../inc/wpabstracts_functions.php:770
+msgid "Hmm, your nonce is not valid."
+msgstr "Hmm, senin nonce geçersiz."
+
+#: ../inc/wpabstracts_functions.php:733
+msgid "There is no user registered with that username or email address."
+msgstr "Bu elektron poçt və ya istifadəçi adı ilə nəticə yoxdur."
+
+#: ../inc/wpabstracts_functions.php:739
+msgid "Hi,"
+msgstr "Merhaba,"
+
+#: ../inc/wpabstracts_functions.php:740
+msgid "Someone requested a password reset for "
+msgstr "Birisi şifre için sıfırlanması istenen "
+
+#: ../inc/wpabstracts_functions.php:741
+msgid ""
+"If this was a mistake, simply ignore this email and nothing will happen."
+msgstr "Bu bir hataysa, bu e-postayı yok sayın, hiçbir şey olmayacak."
+
+#: ../inc/wpabstracts_functions.php:742
+msgid "To reset your password, visit the following link:"
+msgstr "Şifrenizi Sıfırlamak İçin Aşağıdaki Bağlantıya Tıklayınız:"
+
+#: ../inc/wpabstracts_functions.php:745
+msgid "Password Reset for "
+msgstr "Şifre Sıfırlama "
+
+#: ../inc/wpabstracts_functions.php:751
+msgid ""
+"Your request was successful. Please check your e-mail for more instructions."
+msgstr ""
+"İsteğiniz başarılı oldu. Lütfen daha fazla yönerge için e-postanızı kontrol "
+"edin."
+
+#: ../inc/wpabstracts_functions.php:754
+msgid "The e-mail could not be sent. Please contact support."
+msgstr "E-posta gönderilemedi. Lütfen bize ulaşın."
+
+#: ../inc/wpabstracts_functions.php:782
+msgid "Password is required field."
+msgstr "Şifre zorunlu alandır."
+
+#: ../inc/wpabstracts_functions.php:789
+msgid "The passwords do not match."
+msgstr "Şifreler eşleşmiyor."
+
+#: ../inc/wpabstracts_functions.php:798
+msgid "Invalid password reset key. Please request a new password reset."
+msgstr ""
+"Geçersiz şifre sıfırlama anahtarı. Lütfen yeni bir şifre sıfırlama isteğinde "
+"bulunun."
+
+#: ../inc/wpabstracts_functions.php:802
+msgid "Your password has been reset."
+msgstr "Şifreniz sıfırlandı."
+
+#: ../inc/wpabstracts_functions.php:851
+msgid "Enter security code (required)"
+msgstr "Güvenlik kodunu girin (gerekli)"
+
+#: ../inc/wpabstracts_functions.php:885
+msgid "<strong>ERROR</strong>: Please enter a valid security code."
+msgstr "<strong> hata </strong>: Lütfen geçerli bir güvenlik kodu girin."
+
+#: ../inc/wpabstracts_functions.php:938 ../wpabstracts.abstracts.php:20
+#: ../wpabstracts.emails.php:46 ../wpabstracts.events.php:19
+#: ../wpabstracts.users.php:19
+msgid "Sorry, the tab you selected does not exist."
+msgstr "Üzgünüz, seçtiğiniz sekme yok."
+
+#: ../inc/wpabstracts_functions.php:972
+msgid "User Id "
+msgstr "Kullanıcı ID "
+
+#: ../inc/wpabstracts_functions.php:981
+msgid "Successfully deleted user ID "
+msgstr "Başarıyla silinen kullanıcı kimliği "
+
+#: ../inc/wpabstracts_functions.php:1097
+msgid "Submitted"
+msgstr "Kaydoldu"
+
+#: ../inc/wpabstracts_functions.php:1106
+msgid "Presenter"
+msgstr "Sunucu"
+
+#: ../inc/wpabstracts_functions.php:1173
+msgid ""
+"Sorry, no event not found. Please enter a valid event id in the shortcode."
+msgstr ""
+"Üzgünüz, hiçbir etkinlik bulunamadı. Lütfen kısa koda geçerli bir etkinlik "
+"kimliği girin."
+
+#: ../users/users.activate.php:7
+msgid "Oops, you are already logged in. Activation is only for new accounts."
+msgstr ""
+"Oops, zaten kaydedilir. Harekete geçirmek için sadece yeni hesaplar var."
+
+#: ../users/users.activate.php:12
+msgid ""
+"Oops, you're got an invalid link. Please check your email and copy and paste "
+"the full link."
+msgstr ""
+"Oops, geçersiz bir bağlantı var. Lütfen kontrol senin email ve kopya ve "
+"hamur belgili tanımlık tam bağlantı."
+
+#: ../users/users.activate.php:24
+msgid "Your account was activated already. Please login."
+msgstr "Hesap zaten aktif. Giriş yapınız."
+
+#: ../users/users.activate.php:31
+msgid "Your account was successfully activated."
+msgstr "Hesabınız başarıyla etkinleştirildi."
+
+#: ../users/users.activate.php:34
+msgid ""
+"Oops, your activation key do not match our records for you. Please try again "
+"or contact support."
+msgstr ""
+"Oops, senin harekete geçirmek anahtar eşleşmiyor kayıtlarımız senin için. "
+"Lütfen yeniden deneyin veya desteğe başvurabilirsiniz."
+
+#: ../users/users.activate.php:37
+msgid "Oops, we could not find this user. Please try again or contact support"
+msgstr ""
+"Oops, bu kullanıcıyı bulamamıştır. Lütfen yeniden deneyin veya bize ulaşın"
+
+#: ../users/users.classes.php:30 ../users/users.profile.php:37
+msgid "Edit Profile"
+msgstr "Profili Düzenle"
+
+#: ../users/users.classes.php:31 ../users/users.classes.php:111
+msgid "Activate"
+msgstr "Aktifleştir"
+
+#: ../users/users.classes.php:32
+msgid "Change Password"
+msgstr "Şifre Değiştir"
+
+#: ../users/users.classes.php:70
+msgid "--not entered--"
+msgstr "--girmedi-"
+
+#: ../users/users.classes.php:123
+msgid "users were "
+msgstr "kullanıcılar"
+
+#: ../users/users.classes.php:123
+msgid "user was "
+msgstr "Kullanıcı"
+
+#: ../users/users.classes.php:124
+msgid " successfully activated."
+msgstr "başarıyla etkinleştirildi."
+
+#: ../users/users.classes.php:133
+msgid " successfully deleted."
+msgstr "başarıyla silindi."
+
+#: ../users/users.classes.php:157
+msgid "Download CSV"
+msgstr "CSV'yi İndirin"
+
+#: ../users/users.classes.php:176
+msgid ""
+"You have WordPress users with no WP Abstracts profiles, do you want to sync "
+"users? "
+msgstr ""
+"Hmm, sen-si olmak WordPress kullanıcıları WP soyutlayan profil ile "
+"kullanıcılar eşitlemek istiyor musunuz"
+
+#: ../users/users.classes.php:177
+msgid "Sync Users"
+msgstr "Kullanıcıları Senkronize Et"
+
+#: ../users/users.formbuilder.php:7
+msgid "Your registration from was successfully restored."
+msgstr "Kaydınızı üzerinden başarıyla geri yüklendi."
+
+#: ../users/users.formbuilder.php:166
+msgid "Drag input elements from the left to create your user registration form"
+msgstr "Kullanıcı kayıt formu oluşturmak için soldan giriş öğeleri sürükleyin"
+
+#: ../users/users.formbuilder.php:166
+msgid "Restore Form"
+msgstr "Geri Yükle"
+
+#: ../users/users.formbuilder.php:174 ../users/users.register.html.php:185
+msgid "Login Information"
+msgstr "Giriş bilgileri"
+
+#: ../users/users.formbuilder.php:180 ../users/users.register.html.php:193
+msgid "Please enter a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: ../users/users.formbuilder.php:183 ../users/users.register.html.php:196
+msgid "Password"
+msgstr "Şifre"
+
+#: ../users/users.formbuilder.php:185 ../users/users.register.html.php:199
+msgid "Please enter a password."
+msgstr "Lütfen bir şifre girin."
+
+#: ../users/users.formbuilder.php:188 ../users/users.register.html.php:202
+msgid "Repeat Password"
+msgstr "Şifreyi tekrar girin"
+
+#: ../users/users.formbuilder.php:190 ../users/users.register.html.php:205
+msgid "Please repeat your password."
+msgstr "Lütfen parolanızı tekrar edin."
+
+#: ../users/users.formbuilder.php:197 ../users/users.register.html.php:212
+msgid "Account Information"
+msgstr "Hesap Bilgileri"
+
+#: ../users/users.formbuilder.php:197
+msgid "Form Preview"
+msgstr "Form Önizleme"
+
+#: ../users/users.formbuilder.php:205 ../users/users.register.html.php:227
+msgid "Register"
+msgstr "Kaydol"
+
+#: ../users/users.login.php:20
+msgid "Please sign in for your conference participation"
+msgstr "Konferans Katılım için lütfen oturum açın"
+
+#: ../users/users.login.php:25
+msgid "Sign In"
+msgstr "Giriş Yap"
+
+#: ../users/users.login.php:56
+msgid "Login"
+msgstr "Giriş"
+
+#: ../users/users.login.php:62
+msgid "Remember Me"
+msgstr "Beni hatırla"
+
+#: ../users/users.lostpassword.php:6
+msgid "Forgot Password"
+msgstr "Şifremi Unuttum"
+
+#: ../users/users.lostpassword.php:8
+msgid ""
+"Please enter your email address and we will send you instructions to reset "
+"your password."
+msgstr ""
+"Lütfen e-posta adresinizi girin ve şifrenizi sıfırlamak için gereken "
+"talimatları size göndereceğiz."
+
+#: ../users/users.lostpassword.php:24
+msgid "Get New Password"
+msgstr "Yeni Şifre Al"
+
+#: ../users/users.profile.php:20
+msgid "Profile updated successfully."
+msgstr "Profil başarıyla düzenlendi."
+
+#: ../users/users.profile.php:43
+msgid "Profile Information"
+msgstr "Profil BilgisiComment"
+
+#: ../users/users.register.php:9
+msgid ""
+"Registration is currently not allowed for this site. Please contact your "
+"site admin."
+msgstr ""
+"Bu site için şu anda kayıtlara izin verilmiyor. Lütfen site yöneticinize "
+"başvurun."
+
+#: ../users/users.register.php:27
+msgid "You have entered an invalid captcha code. Please try again."
+msgstr "Geçersiz bir CAPTCHA kodu girdiniz. Lütfen tekrar deneyin."
+
+#: ../users/users.register.php:76
+msgid "You're currently logged in. Please sign out to register for an account."
+msgstr "Şu anda logged içinde. Lütfen bir hesap oturumunuzu kapatın."
+
+#: ../users/users.resetpassword.php:6 ../users/users.resetpassword.php:30
+msgid "Reset Password"
+msgstr "Şifreyi yenile"
+
+#: ../users/users.resetpassword.php:8
+msgid "Please enter your new password below."
+msgstr "Lütfen aşağıya parolanızı girin."
+
+#: ../users/users.settings.php:86
+msgid "Sync User Meta"
+msgstr "Kullanıcı"
+
+#: ../users/users.settings.php:94
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: ../users/users.settings.php:100
+msgid "Show Registration Thank You"
+msgstr "Kayıt teşekkür ederim göster"
+
+#: ../users/users.settings.php:101
+msgid "Set whether to show a thank you message or not after registration."
+msgstr ""
+"Teşekkür ederim mesaj veya sonra değil kayıt görüntülenip "
+"görüntülenmeyeceğini ayarlayın."
+
+#: ../users/users.settings.php:111
+msgid "Send Registration Confirmation"
+msgstr "Kayıt Onayı gönder"
+
+#: ../users/users.settings.php:112
+msgid ""
+"Set whether to send a confirmation email to the user with next steps or not "
+"after registration"
+msgstr ""
+"Sonraki adımlar ile veya kayıt sonra kullanıcı bir onay e-postası göndermek "
+"ayarlama"
+
+#: ../users/users.settings.php:122
+msgid "Activate Users Automatically"
+msgstr "Kullanıcılar otomatik olarak etkinleştirme"
+
+#: ../users/users.settings.php:123
+msgid "Set whether to activate users on registration or not (not recommended)."
+msgstr ""
+"Kullanıcıların kayıt sırasında etkinleştirilip etkinleştirilmeyeceğini "
+"ayarlayın (önerilmez)."
+
+#: ../users/users.settings.php:133
+msgid "Ignore User Activation at Login"
+msgstr "Oturum Uzay'da Kullanıcı Etkinleştirmeyi Yoksay"
+
+#: ../users/users.settings.php:134
+msgid ""
+"Whether or not to check for user activation at login. Used mainly when users "
+"are registered outside of WP Abstracts."
+msgstr ""
+"Oturum ederek kullanıcı etkinleştirmesini kontrol edip etmeme. Esas olarak "
+"kullanıcılar WP Abstracts dışında kayıtlı olduğunda kullanılır."
+
+#: ../users/users.settings.php:146
+msgid "Sync WP Fields"
+msgstr "Eşitleme WP alanları"
+
+#: ../users/users.settings.php:147
+msgid "Set whether to sync WP Abstracts Profile fields to Wordpress meta data."
+msgstr ""
+"WP Özetleri Profili alanlarının Wordpress meta verileriyle eşitlenip "
+"eşitlenmeyeceğini ayarlayın."
+
+#: ../users/users.settings.php:160
+msgid "Display Name"
+msgstr "Ekran Adı"
+
+#: ../users/users.settings.php:161
+msgid ""
+"Select the field or fields you would like to use as display name for all "
+"users."
+msgstr ""
+"Tüm kullanıcılar için ekran adı olarak kullanmak istediğiniz alanı veya "
+"alanları seçin."
+
+#: ../users/users.settings.php:172
+msgid "First & Last Name"
+msgstr "Ad & Soyad"
+
+#: ../users/users.settings.php:173
+msgid "Last & First Name"
+msgstr "Soyadı ve Adı"
+
+#: ../users/users.settings.php:184
+msgid "Password Rules"
+msgstr "Parola kuralları"
+
+#: ../users/users.settings.php:190
+msgid "Minimum Password Length"
+msgstr "Minimum Şifre Uzunluğu"
+
+#: ../users/users.settings.php:191
+msgid "Enter the minimum amount of character for a password"
+msgstr "Karakter en az için bir parola girin"
+
+#: ../users/users.settings.php:195
+msgid "5"
+msgstr "5"
+
+#: ../users/users.settings.php:196
+msgid "6"
+msgstr "6"
+
+#: ../users/users.settings.php:197
+msgid "7"
+msgstr "7"
+
+#: ../users/users.settings.php:198
+msgid "8"
+msgstr "8"
+
+#: ../users/users.settings.php:199
+msgid "9"
+msgstr "9"
+
+#: ../users/users.settings.php:204
+msgid "Maximum Password Length"
+msgstr "En fazla parola uzunluğu"
+
+#: ../users/users.settings.php:205
+msgid "Enter the maximum amount of character for a password"
+msgstr "En fazla karakter için bir parola girin"
+
+#: ../users/users.settings.php:209
+msgid "10"
+msgstr "10"
+
+#: ../users/users.settings.php:210
+msgid "11"
+msgstr "11"
+
+#: ../users/users.settings.php:211
+msgid "12"
+msgstr "12"
+
+#: ../users/users.settings.php:212
+msgid "13"
+msgstr "13"
+
+#: ../users/users.settings.php:213
+msgid "14"
+msgstr "14"
+
+#: ../users/users.settings.php:218
+msgid "At least one number"
+msgstr "En az bir sayı"
+
+#: ../users/users.settings.php:219
+msgid "Require passwords to have at least one number"
+msgstr ""
+"En az bir numarasına sahip olacak parola kullanımının zorunlu kılınması"
+
+#: ../users/users.settings.php:229
+msgid "At least one uppercase"
+msgstr "En az bir büyük harf"
+
+#: ../users/users.settings.php:230
+msgid "Require passwords to have at least one uppercase"
+msgstr "En az bir büyük harf olması için parola kullanımının zorunlu kılınması"
+
+#: ../users/users.settings.php:240
+msgid "At least one lowercase"
+msgstr "En az bir küçük harf"
+
+#: ../users/users.settings.php:241
+msgid "Require passwords to have at least one lowercase"
+msgstr "En az bir küçük için parola kullanımının zorunlu kılınması"
+
+#: ../users/users.settings.php:251
+msgid "At least one special character"
+msgstr "En Az Bir Özel Karakter Mevcut"
+
+#: ../users/users.settings.php:252
+msgid "Require passwords to have at least one special character"
+msgstr "En az bir özel karakter için parola kullanımının zorunlu kılınması"
+
+#: ../users/users.settings.php:268
+msgid "Select up to six (6) column fields to display when managing users."
+msgstr ""
+"Sütun alanları ilâ altı (6) kullanıcıları yönetirken görüntülemek için seçin."
+
+#: ../users/users.settings.php:298
+msgid "Registration Thank you Message"
+msgstr "Kayıt teşekkür iletisi"
+
+#: ../users/users.settings.php:299
+msgid ""
+"Enter a thank you message that shows after the registration form has been "
+"submitted"
+msgstr "Kayıt formu gönderdikten sonra gösteren bir teşekkür mesajı girin"
+
+#: ../users/users.settings.php:318
+msgid "Registration Confirmation Email"
+msgstr "Kayıt onay e-postası"
+
+#: ../users/users.settings.php:319
+msgid ""
+"Create an email template used for sending the confirmation message to the "
+"user."
+msgstr ""
+"Kullanıcıya onay iletisi göndermek için kullanılan bir e-posta şablonu "
+"oluşturun."
+
+#: ../users/users.settings.php:328 ../users/users.settings.php:336
+msgid ""
+"Enter the email of the administrator to be notified when a user registers."
+msgstr ""
+"Yöneticinin bir kullanıcı kayıt olduğunda haberdar olmak için e-posta girin."
+
+#: ../users/users.settings.php:344
+msgid "Enter the subject for the email sent when a user registers."
+msgstr "Bir kullanıcı kayıt olduğunda gönderilen e-postanın konusunu girin."
+
+#: ../wpabstracts.abstracts.php:29
+msgid "Manage Abstracts"
+msgstr "Özetleri Yönet"
+
+#: ../wpabstracts.emails.php:22
+msgid "Templates"
+msgstr "Şablonlar"
+
+#: ../wpabstracts.emails.php:23
+msgid "Mail Log"
+msgstr "E-Posta Kayıtları"
+
+#: ../wpabstracts.events.php:28
+msgid "Manage"
+msgstr "Yönet"
+
+#: ../wpabstracts.help.php:10
+msgid "Quick Start"
+msgstr "Başla"
+
+#: ../wpabstracts.help.php:14
+msgid "Get setup and running in three simple steps"
+msgstr "Kurulumu yapın ve üç adımda çalıştrın"
+
+#: ../wpabstracts.help.php:16
+msgid ""
+"Create an event (make a note of the event ID for step 2). This may be the "
+"name of a conference or anything relating to the submission of abstracts."
+msgstr ""
+"Olay (yapmak için adım 2 olay kimliğini not) oluşturma. Bu bir konferans "
+"veya özetleri sunulması ile ilgili bir şey adı olabilir."
+
+#: ../wpabstracts.help.php:17
+msgid ""
+"Create a wordpress page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+"Yönetim Paneli için bir sayfa oluşturun ve  [wpabstracts "
+"event_id=\"EVENT_ID_HERE\"] kodunu ekleyin. Bu sayfa yönetim panelinize "
+"erişmenizi sağlayacaktır."
+
+#: ../wpabstracts.help.php:18
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your wordpress permanent links are set to post-name or custom."
+msgstr ""
+"Ayarları sayfasını ziyaret edin ve eklenti tercihlerinizi seçin. Ayrıca, "
+"kalıcı bağlantı ayarlarınızın gönderi-adı veya özel olarak seçili olduğundan "
+"emin olun."
+
+#: ../wpabstracts.help.php:25
+msgid "Frequently Asked Questions"
+msgstr "Sıkça Sorulan Sorular"
+
+#: ../wpabstracts.help.php:29 ../wpabstracts.help.php:31
+#: ../wpabstracts.help.php:33 ../wpabstracts.help.php:35
+#: ../wpabstracts.help.php:37 ../wpabstracts.help.php:39
+#: ../wpabstracts.help.php:41 ../wpabstracts.help.php:43
+#: ../wpabstracts.help.php:45
+msgid "Question"
+msgstr "Bize Yazın"
+
+#: ../wpabstracts.help.php:29
+msgid "Do I have to create accounts for authors and reviewers?"
+msgstr "Yazarlar ve hakemler için hesap oluşturmalı mıyım?"
+
+#: ../wpabstracts.help.php:30 ../wpabstracts.help.php:32
+#: ../wpabstracts.help.php:34 ../wpabstracts.help.php:36
+#: ../wpabstracts.help.php:38 ../wpabstracts.help.php:40
+#: ../wpabstracts.help.php:42 ../wpabstracts.help.php:44
+#: ../wpabstracts.help.php:46
+msgid "Answer"
+msgstr "Cevap"
+
+#: ../wpabstracts.help.php:30
+msgid ""
+"Authors and reviewers need an account on your site to access the dashboard "
+"and take part in your conference. Users may self register on your website or "
+"the admin may create accounts for users and forward the credentials to the "
+"user."
+msgstr ""
+"Yazarlar ve denetleyiciler sitenizde bir panonuza erişmek ve konferansınıza "
+"katılmak için bir hesaba ihtiyaç duyar. Kullanıcılar web sitenizde "
+"kendiliğinden kaydolabilir veya yönetici kullanıcılar için hesap "
+"oluşturabilir ve kullanıcı için kimlik bilgilerini iletebilir."
+
+#: ../wpabstracts.help.php:31
+msgid ""
+"I cannot find the registration area, how do authors or reviewers register?"
+msgstr ""
+"Kayıt alanı bulunamıyor, yazarların ya da yorumcular nasıl kaydettirebilirim?"
+
+#: ../wpabstracts.help.php:32
+msgid ""
+"The registration link (Create an Account) is located on the Login page. "
+"Authors and Reviewers may self-register on your website. To enable this, go "
+"to your WordPress Settings -> General tab and check the box that says “Any "
+"can Register”."
+msgstr ""
+"Kayıt bağlantısını (bir hesabı oluşturma) giriş sayfasında yer alır. "
+"Yazarlar ve yorumcular, Web sitenizde kendi kendine kayıt olabilir. Bunu "
+"etkinleştirmek için WordPress ayarlarınızı Genel sekmesini-> gidin ve "
+"\"Herhangi bir kayıt olabilirsiniz\" yazan kutuyu kontrol et."
+
+#: ../wpabstracts.help.php:33
+msgid ""
+"After signing in to the dashboard I see \"You do not have permission to "
+"access this page\". What is happening?"
+msgstr ""
+"Pano için oturum açtıktan sonra \"Bu sayfaya erişmek için izniniz yok\" "
+"bakın. Ne oluyor?"
+
+#: ../wpabstracts.help.php:34
+msgid ""
+"This error message is common when the user accessing the dashboard is not "
+"permitted. At the moment only two user types can access the dashboard; "
+"Authors which maps to the \"Subscriber\" user role and \"Reviewers\" which "
+"maps to the \"Editor\" user role. You may also see this message is you are "
+"visiting the front-end dashboard while currently signed in as the "
+"Administrator."
+msgstr ""
+"Bu hata iletisini ortak olduğunda Pano erişen kullanıcı izin verilmemiş. Şu "
+"anda iki kullanıcı türünü erişebilirsiniz; Hangi haritalar \"Düzenleyici\" "
+"Kullanıcı rolü için haritalar \"Abone\" Kullanıcı rolü ve \"Yorumcular\" "
+"yazar. Bu ileti, şu anda yönetici olarak oturum açtığınızda ön uç Pano "
+"ziyaret etmekte olduğunuz içindir de görebilirsiniz."
+
+#: ../wpabstracts.help.php:35
+msgid ""
+"How do I specify the types of abstract submissions (poster, panel etc) for "
+"my conference?"
+msgstr ""
+"Özet gönderimi (poster, panel vb.) türleri Konferansı için nasıl belirtirim?"
+
+#: ../wpabstracts.help.php:36
+msgid ""
+"Simply go to WP Abstracts Settings Tab and enter the types you want to allow "
+"for presenters. Submission types are comma separated."
+msgstr ""
+"Sadece WP soyutlayan ayarları sekmesine gidin ve sunucuları için izin vermek "
+"istediğiniz türü girin. Virgülle ayrılmış başvuru türleridir."
+
+#: ../wpabstracts.help.php:37
+msgid ""
+"When clicking “New Abstracts” I get the following message “Abstract "
+"submission for this event has past”. What can I do?"
+msgstr ""
+"\"Yeni soyutlar\" tıklayarak \"geçmiş bu olay için bildiri gönderme vardır\" "
+"Şu mesajı alıyorum. Ne yapabilirim?"
+
+#: ../wpabstracts.help.php:38
+msgid ""
+"This simply means that the deadline for your event has passed. If the event "
+"is still active simply go to the events tab in the admin area and extend the "
+"deadline date of the event."
+msgstr ""
+"Bu sadece senin olay için son tarih geçti anlamına gelir. Olay sadece hala "
+"etkinse yönetici alanında olayları sekmesine gidin ve son tarihi olay "
+"genişletir."
+
+#: ../wpabstracts.help.php:39
+msgid "How do I setup Authors and Reviewers?"
+msgstr "Yazarlar ve yorumcular nasıl kurarım?"
+
+#: ../wpabstracts.help.php:40
+msgid ""
+"Authors are equivalent to Wordpress subscriber user role while reviewers are "
+"the editor user roles. Users may self register as authors and the site admin "
+"can then upgrade subscriber account to editor thus making that user a "
+"reviewer."
+msgstr ""
+"Yazarlar Wordpress abone Kullanıcı rolü için eşdeğer iken yorumcular "
+"Düzenleyicisi Kullanıcı rolleri vardır. Kullanıcılar kendi kendini "
+"kaydetmesi yazarlar gibi olabilir ve site yönetici sonra böylece bu "
+"kullanıcı bir inceleme yapma Editöre abone hesap yükseltebilirsiniz."
+
+#: ../wpabstracts.help.php:41
+msgid "How do I upgrade from the Free to the Pro version?"
+msgstr ""
+"Belgili tanımlık yandaş yorum--dan belgili tanımlık özgür nasıl "
+"yükseltebilirim?"
+
+#: ../wpabstracts.help.php:42
+msgid ""
+"Upload WP Abstracts Pro from the your plugins admin page then simply "
+"deactivate the free version and activate WP Abstracts Pro."
+msgstr ""
+"WP soyutlayan yandaş--dan upload eklentileri admin sayfa sonra sade bir "
+"şekilde belgili tanımlık özgür yorum devre dışı bırakmak ve WP soyutlayan "
+"Pro harekete geçirmek."
+
+#: ../wpabstracts.help.php:43
+msgid "When are automated emails triggered in WP Abstracts?"
+msgstr "Ne zaman otomatik e-postalar WP soyutlayan tetiklenir?"
+
+#: ../wpabstracts.help.php:44
+msgid ""
+"Automated emails may be triggered on abstract submission, abstract status "
+"changes, reviewer assignments and review submissions."
+msgstr ""
+"Bildiri özeti gönderimi, soyut durum değişiklikleri, gözden geçiren "
+"atamaları ve İnceleme gönderimler otomatik e-postalar tetiklenebilir."
+
+#: ../wpabstracts.help.php:45
+msgid ""
+"Can I edit or customize the templates for automated email notifications?"
+msgstr ""
+"Düzenlemek veya otomatik e-posta bildirimleri için şablonları özelleştirmek "
+"miyim?"
+
+#: ../wpabstracts.help.php:46
+msgid ""
+"Yes. All email notification templates are customizable using various "
+"shortcode pertaining to the submission and event."
+msgstr ""
+"Evet. Tüm e-posta bildirim şablonları çeşitli kusur ile ilgili başvuru ve "
+"olay kullanılarak özelleştirilebilir."
+
+#: ../wpabstracts.help.php:56
+msgid "Shortcodes"
+msgstr "Kısakodlar"
+
+#: ../wpabstracts.help.php:59
+msgid "[wpabstracts event_id=\"x\"] renders the user dashboard"
+msgstr "[wpabstracts event_id = \"x\"] Kullanıcı dashboard işler"
+
+#: ../wpabstracts.help.php:60
+msgid "[wpabstracts_register] renders the user registration form"
+msgstr "[wpabstracts_register] Kullanıcı kayıt formu oluşturur"
+
+#: ../wpabstracts.help.php:61
+msgid "[wpabstracts_login] renders the user login screen"
+msgstr "[wpabstracts_login] kullanıcı giriş ekranı oluşturur"
+
+#: ../wpabstracts.help.php:67
+msgid "Email Notifications"
+msgstr "Email bildirimleri"
+
+#: ../wpabstracts.help.php:70
+msgid ""
+"Use the Email tab to create various email templates then set those templates "
+"for various email triggers. Current email triggers includes abstract "
+"submission, all abstract status change, reviewer assignments and review "
+"submissions."
+msgstr ""
+"Çeşitli e-posta şablonları oluşturmak için E-posta sekmesini kullanın ve "
+"ardından bu şablonları çeşitli e-posta tetikleyicileri için ayarlayın. "
+"Mevcut e-posta tetikleyicileri, özet gönderim, tüm soyut durum değişikliği, "
+"gözden geçirme ödevleri ve inceleme gönderimlerini içerir."
+
+#: ../wpabstracts.help.php:76
+msgid "Help us Improve"
+msgstr "Geliştirmemiz için destek olunuz"
+
+#: ../wpabstracts.help.php:79
+msgid "Rate"
+msgstr "Puan ver"
+
+#: ../wpabstracts.help.php:79
+msgid "the plugin 5 stars on WordPress.org"
+msgstr " WordPress.org’taki  5 yıldızlı eklenti "
+
+#: ../wpabstracts.php:43
+msgid "WP Abstracts"
+msgstr " WP Abstracts Pro "
+
+#: ../wpabstracts.php:49 ../wpabstracts.php:194
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: ../wpabstracts.php:50 ../wpabstracts.php:195
+msgid "Emails"
+msgstr "Emailler"
+
+#: ../wpabstracts.php:51 ../wpabstracts.php:196
+msgid "Exports"
+msgstr "Dışarı Akar"
+
+#: ../wpabstracts.php:52 ../wpabstracts.php:197
+msgid "Custom Titles"
+msgstr "Özel Başlıklar"
+
+#: ../wpabstracts.php:53 ../wpabstracts.php:201
+msgid "Help"
+msgstr "Yardım"
+
+#: ../wpabstracts.php:133
+msgid "Support"
+msgstr "Destek"
+
+#: ../wpabstracts.php:134
+msgid "Get Pro Version"
+msgstr "Pro sürümü alın"
+
+#: ../wpabstracts.php:383 ../wpabstracts.php:712
+msgid "Submit By"
+msgstr "Gönderene Göre"
+
+#: ../wpabstracts.php:384 ../wpabstracts.php:713
+msgid "Date Modified"
+msgstr "Değiştirilme Tarihi"
+
+#: ../wpabstracts.php:399
+msgid "Preference Preference"
+msgstr "Tercih Tercihi"
+
+#: ../wpabstracts.php:773
+msgid ""
+"Do you really want to delete this abstract, its reviews and all its "
+"attachments?"
+msgstr "Bu özeti ve tüm eklerini gerçekten silmek istiyor musunuz?"
+
+#: ../wpabstracts.php:774
+msgid ""
+"Do you really want to delete the selected abstracts, their reviews and all "
+"their attachments?"
+msgstr ""
+"Seçili Özet, onların değerlendirmeleri ve onların tüm ekleri silmek istiyor "
+"musunuz?"
+
+#: ../wpabstracts.php:775
+msgid ""
+"Are you sure you want to delete this event? Deleting this event will delete "
+"all submissions, reviews and attachments related to this event. This cannot "
+"be undone. Type DELETE to confirm."
+msgstr ""
+"Bu olay silmek istediğinizden emin misiniz? Bu olay silindiğinde tüm "
+"gönderimler, değerlendirmeleri ve bu olay ile ilgili ilişkiler silinir. Bu "
+"geri alınamaz. Onaylamak için Sil yazın."
+
+#: ../wpabstracts.php:776
+msgid "Do you really want to delete this email template?"
+msgstr "Bu e-posta adresini silmek istediğinizden emin misiniz?"
+
+#: ../wpabstracts.php:777
+msgid "Do you really want to delete this review?"
+msgstr "Bu değerlendirmeyi silmek istediğinizden emin misiniz?"
+
+#: ../wpabstracts.php:778
+msgid "Do you really want to delete this attachment?"
+msgstr "Bu eki silmek istediğinizden emin misiniz?"
+
+#: ../wpabstracts.php:779
+msgid "Are you sure you want to delete this user?"
+msgstr "Bu kullanıcıyı silmek istediğinizden emin misiniz?"
+
+#: ../wpabstracts.php:780
+msgid "Please enter a username and password to sign in."
+msgstr "LÃ¼tfen bir kullanÄ±cÄ± adÄ± ve parola girin"
+
+#: ../wpabstracts.php:781
+msgid "Please enter a the security code."
+msgstr "Lütfen güvenlik kodunu girin."
+
+#: ../wpabstracts.php:783
+msgid "Please select a status"
+msgstr "Lütfen bir durum seçin"
+
+#: ../wpabstracts.php:784
+msgid "Please fill in all required fields."
+msgstr "Lütfen tüm gerekli alanları doldurun"
+
+#: ../wpabstracts.php:785
+msgid "Please add your abstract description"
+msgstr "Lütfen Özet açıklama ekleyin"
+
+#: ../wpabstracts.php:786
+msgid "You have exceeded the maximum words allowed for this submission."
+msgstr "Bu teslim için izin verilen en fazla kelime aştınız."
+
+#: ../wpabstracts.php:787
+msgid "One or more of your file extension is not supported."
+msgstr "Bir veya daha fazla dosya uzantısı desteklenmiyor."
+
+#: ../wpabstracts.php:788
+msgid "One or more of your files exceeds the maximum file size allowed."
+msgstr "Bir veya daha fazla dosya izin verilen en büyük dosya boyutunu aşıyor."
+
+#: ../wpabstracts.php:791
+msgid "No Attachments Uploaded"
+msgstr "Yüklenen dosya yok"
+
+#: ../wpabstracts.php:792
+msgid "Please enter the email address used for the order."
+msgstr "Emri için kullanılan e-posta adresi giriniz."
+
+#: ../wpabstracts.php:793
+msgid "Successfully updated user registration form."
+msgstr "Kullanıcı kayıt formu başarıyla güncelleştirildi."
+
+#: ../wpabstracts.php:794
+msgid "Failed to save register form fields."
+msgstr "Kayıt form alanlarını kaydetme başarısız oldu."
+
+#: ../wpabstracts.php:795
+msgid "Successfully copied to clipboard."
+msgstr "Başarıyla panoya kopyalanabilir."
+
+#: ../wpabstracts.php:796
+msgid "Failed to copy text to clipboard."
+msgstr "Arayüz ögesinin metnini panoya kopyala"
+
+#: ../wpabstracts.php:797
+msgid ""
+"Submissions with this status will no longer have a status. Do you really "
+"want to delete this status?"
+msgstr ""
+"Gönderimler ile bu durum artık durumu olacaktır. Bu durum silmek istiyor "
+"musunuz?"
+
+#: ../wpabstracts.php:798
+msgid "At least one status is required."
+msgstr "En az bir durum gereklidir."
+
+#: ../wpabstracts.php:799
+msgid "At least one topic is required."
+msgstr "En az bir konu gereklidir."
+
+#: ../wpabstracts.php:800
+msgid ""
+"Are you sure you want to restore this form to the default inputs? This "
+"cannot be undone."
+msgstr ""
+"Bu formu olan varsayılan girdileri geri yüklemek istediğinizden emin "
+"misiniz? Bu geri alınamaz."
+
+#: ../wpabstracts.php:801
+msgid "Are you sure you want to restore your default titles?"
+msgstr "Varsayılan başlık geri yüklemek istediğinizden emin misiniz?"
+
+#: ../wpabstracts.php:802
+msgid ""
+"Are you sure you want to SYNC profile data from WP Abstracts to Wordpress "
+"user profiles? This cannot be undone. Type SYNC to confirm."
+msgstr ""
+"Sen SYNC profil verileri için WP soyutlayan Wordpress Kullanıcı profillerine "
+"istediğinizden emin misiniz? Bu geri alınamaz. Onaylamak için eşitleme yazın."
+
+#: ../wpabstracts.php:803
+msgid "One or more of your email address seems invalid."
+msgstr "Bir veya daha fazla e-posta adresiniz geçersiz görünüyor."
+
+#: ../wpabstracts.php:842
+msgid "Need more features?"
+msgstr "Özellikleri"
+
+#: ../wpabstracts.users.php:26
+msgid "Manage Users"
+msgstr "Kullanıcıları Yönet"
+
+#: ../wpabstracts.users.php:27
+msgid "Form Builder"
+msgstr "Form Oluşturucu"
+
+#~ msgid ""
+#~ "Abstract submission for this event has past. Please contact your "
+#~ "organizer if you need to make a submission."
+#~ msgstr ""
+#~ "Bu etkinliğin Bildiri sunumu geçmiş. Bir gönderim yapmanız gerekiyorsa "
+#~ "lütfen düzenleyicinize başvurun."
+
+#~ msgid "Type"
+#~ msgstr "Görev"
+
+#, php-format
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Pending"
+#~ msgstr "Beklemede"
+
+#~ msgid "Closed"
+#~ msgstr "Kapandı"
+
+#~ msgid "Accept"
+#~ msgstr "Kabul"
+
+#~ msgid "Reject"
+#~ msgstr "Red"
+
+#~ msgid "Assign"
+#~ msgstr "Hakem tayin et"
+
+#~ msgid "Go"
+#~ msgstr "Git"
+
+#~ msgid "File Name"
+#~ msgstr "Dosya ismi"
+
+#~ msgid "Uploaded to"
+#~ msgstr "Yüklenecek "
+
+#~ msgid "Abstract Id"
+#~ msgstr "Bildiri bilgisi"
+
+#~ msgid ""
+#~ "We could not perform your WP Abstracts license validation at this time."
+#~ msgstr "Şu anda senin WP soyutlayan lisans doğrulama gerçekleştirilemedi."
+
+#~ msgid ""
+#~ "Please add a valid event ID to the wpabstracts shortcode on this page."
+#~ msgstr "Lütfen geçerli olay kimliği bu sayfada wpabstracts kusur ekleyin."
+
+#~ msgid ""
+#~ "The shortcode in this page should be similar to [wpabstracts event_id=ID] "
+#~ "(grab the ID from your Events tab)."
+#~ msgstr ""
+#~ "Bu sayfadaki kısa kod, [wpabstracts event_id = ID] ile aynı olmalıdır "
+#~ "(Olaylar sekmenizdeki kimliği alın)."
+
+#~ msgid "You do not have permission to delete abstracts."
+#~ msgstr "Bu sayfayı görüntüleme yetkiniz yok "
+
+#~ msgid "Abstract Submission"
+#~ msgstr "Bu kongre için bildiri gönderi tarihi geçmiştir"
+
+#~ msgid "Abstract Updated"
+#~ msgstr "Ayarlar güncellendi."
+
+#~ msgid "Export Attachments"
+#~ msgstr "Ekler ihracat"
+
+#~ msgid "Reviewers Configuration"
+#~ msgstr "Hakemler"
+
+#~ msgid "Reviewers can Submit Abstracts"
+#~ msgstr "Hakemlerin de bildiri göndermesine izin ver"
+
+#~ msgid "Enable this to allow reviewers to submit new abstracts."
+#~ msgstr "Hakemlerin yeni bildiri göndermesi için bunu etkinleştir"
+
+#~ msgid "Reviewers can Edit Abstracts"
+#~ msgstr "Hakemlerin bildirileri düzeltme yapmasına izin ver"
+
+#~ msgid "Enable this to allow reviewers to edit abstracts they are assigned."
+#~ msgstr ""
+#~ "Hakemlerin bildirileri düzeltme yapmasına izin vermek için bunu "
+#~ "etkinleştir"
+
+#~ msgid "Reviewers can Change Ownership"
+#~ msgstr "Yorumcular değişiklik mülkiyet yapabilirsiniz"
+
+#~ msgid ""
+#~ "Enable this to allow reviewers to change ownership (the author) of a "
+#~ "submission (useful if a reviewer submits an abstract on behalf of an "
+#~ "author but the option above to enable reviewers to edit abstracts must be "
+#~ "enabled for this to work)."
+#~ msgstr ""
+#~ "Hakemlerin durumlarının (yazar olarak) değiştirilmesine izin ver "
+#~ "(Hakemlerin bildiri gönderirken yazar olması durumunda uygun olabilir, "
+#~ "ancak yukarıda hakemler bildirileri düzenleyebilirler seçeneği "
+#~ "etkinleştirildiğinde kullanılabilir)"
+
+#~ msgid "Enable Blind Reviews"
+#~ msgstr "Tarafsız (kör) değerlendirme için etkinleştirin"
+
+#~ msgid ""
+#~ "Enable this to hide author information from reviewers (does not apply to "
+#~ "admin)."
+#~ msgstr ""
+#~ "Hakemlerden yazar bilgilerini gizlemek için bunu etkinleştirin (yönetici "
+#~ "için uygulanmayacaktır) "
+
+#~ msgid "Show Reviewer Comments"
+#~ msgstr "Gözden geçiren yorumlarını göster"
+
+#~ msgid "Disable this to hide reviewer comments from Authors."
+#~ msgstr ""
+#~ "Bu gözden geçirenin açıklamalarını yazarlardan gizlemek için devre dışı."
+
+#~ msgid "Captcha Secret"
+#~ msgstr "captcha Gizlilik Anahtarı"
+
+#~ msgid "Save"
+#~ msgstr "Kaydet"
+
+#~ msgid "Save Event"
+#~ msgstr "Etkinliği kaydedin"
+
+#~ msgid "New Review"
+#~ msgstr "Yeni değerlendirme"
+
+#~ msgid "No Attachments submitted"
+#~ msgstr "Herhangi bir ek yapılmadı"
+
+#~ msgid "Add Comments"
+#~ msgstr "Yorum ekle"
+
+#~ msgid "Excellent"
+#~ msgstr "Mükemmel"
+
+#~ msgid "Average"
+#~ msgstr "Ortalama"
+
+#~ msgid "Poor"
+#~ msgstr "Yetersiz"
+
+#~ msgid "Suggest Type"
+#~ msgstr "Sunum şekli öner"
+
+#~ msgid "Request"
+#~ msgstr "Talep et"
+
+#, fuzzy
+#~ msgid "Accepted"
+#~ msgstr "Kabul"
+
+#~ msgid "Rejected"
+#~ msgstr "Red edildi"
+
+#~ msgid "Save Review"
+#~ msgstr "Değerlendirmeyi kaydet"
+
+#~ msgid "Assigned Abstracts"
+#~ msgstr "Hakem belirle"
+
+#~ msgid "Type Request"
+#~ msgstr "Sunum tipi belirleyiniz"
+
+#~ msgid "You have NO newly assigned abstracts"
+#~ msgstr "Yeni bildiri yok"
+
+#~ msgid "My Reviews"
+#~ msgstr "Değerlendirmelerim"
+
+#~ msgid "Reviewed"
+#~ msgstr "Değerlendirildi"
+
+#~ msgid "You have no COMPLETED reviews"
+#~ msgstr "Tamamlanmış değerlendirmeniz yok"
+
+#~ msgid "Edit Email Template"
+#~ msgstr "Email şablonları düzenleyin"
+
+#~ msgid "Update Template"
+#~ msgstr "Şablonu güncelleyin"
+
+#~ msgid "Update Event"
+#~ msgstr "Etkinliği güncelleyin"
+
+#~ msgid "Approved"
+#~ msgstr "Kabul edildi"
+
+#~ msgid "Update Review"
+#~ msgstr " Değerlendirmeyi güncelleyin "
+
+#~ msgid "Event / Topic"
+#~ msgstr "Etkinlik/ Başlık"
+
+#~ msgid "User deleted"
+#~ msgstr "Kullanıcı silindi"
+
+#~ msgid "%1$s<br><span style=\"color:silver\">Reviewed by: %2$s | %3$s</span>"
+#~ msgstr ""
+#~ "%1$s<br><span style=\"renk:gümüş\">değerlendiren: %2$s | %3$s</span>"
+
+#~ msgid ""
+#~ "TIP: The suggested status on reviews is only\n"
+#~ "                    a recommendation, administrators have the final "
+#~ "decision to accept or reject submissions."
+#~ msgstr ""
+#~ "Hakem değerlendirme önerileri sunmakta, kabul veya red nihai kararını "
+#~ "bilimsel kurul vermektedir."
+
+#~ msgid "Abstract"
+#~ msgstr "Bildiri"
+
+#~ msgid "Suggested"
+#~ msgstr "Önerilen"
+
+#~ msgid "reviews"
+#~ msgstr "Değerlendirmeler"
+
+#~ msgid "Email Group"
+#~ msgstr "Email grubu"
+
+#~ msgid "Full Name"
+#~ msgstr "Ad - Soyad"
+
+#~ msgid "Username"
+#~ msgstr "kullanıcı adı"
+
+#~ msgid "Authors"
+#~ msgstr "Yazarlar"
+
+#~ msgid "AuthorsEmail"
+#~ msgstr "Yazar emailleri"
+
+#~ msgid "Pending Abstracts"
+#~ msgstr "Beklemedeki bildiriler"
+
+#~ msgid "Rejected Abstracts"
+#~ msgstr "Red edilen bildiriler"
+
+#~ msgid "All Abstracts"
+#~ msgstr "Bütün bildiriler"
+
+#~ msgid "AbstractID"
+#~ msgstr "Bildiri bilgisi"
+
+#~ msgid "-- Not Assigned --"
+#~ msgstr "Belirlenmedi"
+
+#~ msgid "Error: Reviewer Deleted"
+#~ msgstr "Hata: Hakem Silindi"
+
+#~ msgid "Select Reviewer"
+#~ msgstr "Hakem seçiniz"
+
+#~ msgid "Send Email"
+#~ msgstr "Emaili gönder"
+
+#~ msgid "Assign Reviewers"
+#~ msgstr "Hakem tayin et"
+
+#~ msgid "Create event"
+#~ msgstr "Yeni etkinlik oluştur"
+
+#~ msgid "Event deleted"
+#~ msgstr "Etkinlik silindi"
+
+#~ msgid ""
+#~ "At least one <strong>event</strong> must be created to allow users to "
+#~ "submit abstracts."
+#~ msgstr ""
+#~ "Kullanıcıların bidirilerini göndermeleri için en az bir <strong>etkinlik</"
+#~ "strong> oluşturulmalıdır "
+
+#~ msgid ""
+#~ "For more help on questions and issues please visit the <a href=\"http://"
+#~ "www.wpabstracts.com/support\" target=\"_blank\">support forums</a> or <a "
+#~ "href=\"mailto:support@wpabstracts.com\">email us</a>. We would be happy "
+#~ "to hear form you."
+#~ msgstr ""
+#~ "Sorular ve içerikle ilgili yardım için lütfen the <a href=\"http://www."
+#~ "wpabstracts.com/support\" target=\"_blank\">support forums</a> veya <a "
+#~ "href=\"mailto:support@wpabstracts.com\">email us</a> adresini ziyaret "
+#~ "ediniz. Sorularınızı yanıtlamaktan mutlu olacağız"
+
+#~ msgid "Suggest"
+#~ msgstr "Öner"
+
+#~ msgid "features"
+#~ msgstr "Özellikleri"
+
+#~ msgid "Like us"
+#~ msgstr "Bizi beğenin"
+
+#~ msgid "on Facebook"
+#~ msgstr "Facebook’ta"
+
+#~ msgid "Abstracts & Manuscripts Summary"
+#~ msgstr "Bildiri ve makale özetleri"
+
+#~ msgid "Summary"
+#~ msgstr "Özet"
+
+#~ msgid "Events / Conference"
+#~ msgstr "Etkinlik / Konferans"
+
+#~ msgid "<h3 style=\"color:red;\">Please enter a valid event ID</h3>"
+#~ msgstr ""
+#~ "\"<h3 style=\"color:red;\">Lütfen geçerli bir etkinlik ID giriniz</h3>"
+
+#~ msgid "Request Customization"
+#~ msgstr "Özelleştirme talebinde bulununuz"
+
+#~ msgid "hosted by"
+#~ msgstr "Etkinliği Düzenleyen"
+
+#~ msgid "Review Alert"
+#~ msgstr "Değerlendirme Uyarısı"
+
+#~ msgid "ABSTRACTS BY STATUS"
+#~ msgstr "DURUMLARA GÖRE BİLDİRİLERİN SIRALAMASI"
+
+#~ msgid "STATUS"
+#~ msgstr "DURUM"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "GİRİŞ YAPILDI"
+
+#~ msgid "REVIEWS BY RELEVANCE"
+#~ msgstr "UYGUNLUĞA GÖRE DEĞERLENDİRME SIRALAMASI"
+
+#~ msgid "RELEVANCE"
+#~ msgstr "UYGUNLUK"
+
+#~ msgid "Abstracts - Export by status"
+#~ msgstr "Bildiriler – Durumlara göre gönder"
+
+#~ msgid "Export CSV"
+#~ msgstr "CSV gönder"
+
+#~ msgid "Reviews - Export by relevance"
+#~ msgstr "Değerlendirmeler – Uygunluğa göre gönder"
+
+#~ msgid ""
+#~ "These report and export features are new to WP Abstracts Pro, please <a "
+#~ "href=\"mailto=support@wpabstracts.com\">let me know</a> what other types "
+#~ "of reports would be convenient to implement."
+#~ msgstr ""
+#~ "Bu raporlamalar ve gönderiler WP Abstracts Pro’nun yeni özellikleridir.  "
+#~ "Lütfen  <a href=\"mailto=support@wpabstracts.com\"> adresine email "
+#~ "göndererek </a> başka ne gibi raporların eklenmesinin uygun olduğunu "
+#~ "belirtiniz"
+
+#~ msgid "Settings saved"
+#~ msgstr "Ayarlar kaydedildi"
+
+#~ msgid "Save options"
+#~ msgstr "Kaydetme seçenekleri"
+
+#~ msgid "Email Administrator on submission"
+#~ msgstr "Bildiri kaydedildiğinde yöneticiye email yolla"
+
+#~ msgid ""
+#~ "Enable this to send an email to the site admin on submission of a new "
+#~ "abstract."
+#~ msgstr ""
+#~ "Yeni bildiri yüklendiğinde yöneticiye email yollamak için bunu "
+#~ "etkinleştiriniz"
+
+#~ msgid "Email Author on submission"
+#~ msgstr " Bildiri kaydedildiğinde yazara email yolla "
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when they submit an abstract "
+#~ "(email is sent to Author's email)."
+#~ msgstr ""
+#~ "Bildiri yüklendiğinde yazarlara email gönderimi için bunu etkinleştirin "
+#~ "(yazar emailine gönderilecektir)"
+
+#~ msgid "Email Author on status change"
+#~ msgstr "Durum değişikliği olduğunda yazara email yolla"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when their abstracts has been "
+#~ "approved or rejected (email is sent to submitter's email only)."
+#~ msgstr ""
+#~ "Bildirileri kabul veya reddedildiğinde kaydolan yazara email gönderilmesi "
+#~ "için bunu etkinleştirin "
+
+#~ msgid "Stats"
+#~ msgstr "İstatistikler"
+
+#~ msgid "Total Abstracts"
+#~ msgstr "Toplam Bildiriler"
+
+#~ msgid "the plugin 5 stars on WordPress.org."
+#~ msgstr " WordPress.org’taki 5 yıldızlı eklenti "
+
+#~ msgid "Recent Abstracts"
+#~ msgstr "Önceki bildiriler"
+
+#~ msgid "Date"
+#~ msgstr "Tarih"
+
+#~ msgid "Recent Reviews"
+#~ msgstr "Önceki değerlendirmeler"
+
+#~ msgid "Suggested Status"
+#~ msgstr "Önerilen durum"
+
+#~ msgid "Recent Events"
+#~ msgstr "Önceki etkinlikler"
+
+#~ msgid "Hosted by"
+#~ msgstr "Etkinliği Düzenleyen"
+
+#~ msgid "From"
+#~ msgstr "Kimden"
+
+#~ msgid "To"
+#~ msgstr "Kime"
+
+#~ msgid "Need help?"
+#~ msgstr "Yardıma mı ihtiyacınız var?"
